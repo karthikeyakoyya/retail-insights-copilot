@@ -1,0 +1,5 @@
+﻿warehouse/retail_insights.duckdb
+dbt_project/target/
+dbt_project/logs/
+__pycache__/
+__pycache__/

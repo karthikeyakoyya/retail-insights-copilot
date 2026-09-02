@@ -1,0 +1,14 @@
+# Copy this to ~/.dbt/profiles.yml and fill in your own project/dataset.
+# Requires: pip install dbt-bigquery
+
+retail_insights_copilot:
+  target: dev
+  outputs:
+    dev:
+      type: bigquery
+      method: oauth        # or service-account with keyfile: path
+      project: your-gcp-project-id
+      dataset: retail_insights_dev
+      threads: 4
+      timeout_seconds: 300
+      location: US

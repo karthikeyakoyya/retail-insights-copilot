@@ -1,0 +1,2501 @@
+customer_id,customer_state,customer_city
+CUST000001,MG,Alves
+CUST000002,TO,da Cruz de Goiás
+CUST000003,CE,Sousa
+CUST000004,BA,Rocha
+CUST000005,SP,Pastor
+CUST000006,SP,Andrade do Sul
+CUST000007,SP,Cunha
+CUST000008,PB,Montenegro
+CUST000009,BA,Novais
+CUST000010,PE,Silva
+CUST000011,SP,Câmara dos Dourados
+CUST000012,AM,Abreu da Serra
+CUST000013,MS,Fernandes Paulista
+CUST000014,SP,Cunha
+CUST000015,SP,Caldeira de Minas
+CUST000016,SP,Brito da Praia
+CUST000017,RJ,Pereira Paulista
+CUST000018,PR,Siqueira
+CUST000019,MG,Nascimento de Campos
+CUST000020,RJ,Barros da Prata
+CUST000021,BA,Pires da Praia
+CUST000022,SP,Santos
+CUST000023,RJ,Aparecida
+CUST000024,MG,Vargas
+CUST000025,RS,Barros de Goiás
+CUST000026,PA,Garcia
+CUST000027,SP,Marques da Praia
+CUST000028,PR,Freitas
+CUST000029,BA,Costela Paulista
+CUST000030,SP,Pereira
+CUST000031,BA,Nascimento
+CUST000032,SP,Castro
+CUST000033,SP,Garcia de da Mata
+CUST000034,TO,Rodrigues
+CUST000035,AC,Vargas do Norte
+CUST000036,ES,Andrade
+CUST000037,RJ,Guerra Paulista
+CUST000038,SP,Cunha
+CUST000039,GO,Cunha do Amparo
+CUST000040,MG,Ramos dos Dourados
+CUST000041,SP,da Luz
+CUST000042,RS,da Cruz
+CUST000043,SP,Souza Verde
+CUST000044,PI,Pacheco das Flores
+CUST000045,RJ,Câmara Grande
+CUST000046,GO,Borges de Sá
+CUST000047,RJ,Camargo
+CUST000048,PR,Pires
+CUST000049,SC,Vieira
+CUST000050,SP,Peixoto de Minas
+CUST000051,AM,Garcia dos Dourados
+CUST000052,PA,Novaes do Sul
+CUST000053,RO,Rodrigues
+CUST000054,AL,Vargas Alegre
+CUST000055,BA,da Rocha
+CUST000056,SE,Castro dos Dourados
+CUST000057,SP,Silveira
+CUST000058,SP,Montenegro da Serra
+CUST000059,SP,Pires
+CUST000060,RJ,Porto do Galho
+CUST000061,MG,Cassiano
+CUST000062,RJ,Teixeira da Serra
+CUST000063,MT,Peixoto
+CUST000064,MG,Mendonça do Sul
+CUST000065,RJ,Fonseca
+CUST000066,PR,da Costa do Norte
+CUST000067,SP,Nunes
+CUST000068,ES,Barros
+CUST000069,SP,Azevedo de Teixeira
+CUST000070,AP,Cardoso
+CUST000071,PA,Novaes de Cavalcante
+CUST000072,SP,Moura das Pedras
+CUST000073,SP,Nogueira
+CUST000074,MT,Silva
+CUST000075,PE,Guerra da Praia
+CUST000076,CE,Moreira de Machado
+CUST000077,PA,da Cruz
+CUST000078,SP,Azevedo
+CUST000079,MG,Almeida Verde
+CUST000080,SP,Pastor
+CUST000081,MA,Abreu
+CUST000082,BA,Santos
+CUST000083,RJ,da Conceição
+CUST000084,SP,Andrade
+CUST000085,RJ,Barbosa do Galho
+CUST000086,RJ,da Mota
+CUST000087,CE,Cunha de Nogueira
+CUST000088,DF,Silveira
+CUST000089,RN,da Cruz de Viana
+CUST000090,RS,Jesus de Correia
+CUST000091,SP,Brito
+CUST000092,PE,Fogaça das Pedras
+CUST000093,PA,Martins do Norte
+CUST000094,SC,Araújo
+CUST000095,PA,Siqueira Alegre
+CUST000096,RS,da Cruz
+CUST000097,PR,Correia
+CUST000098,MG,Carvalho de Lima
+CUST000099,SP,da Mota
+CUST000100,SP,da Cruz de Barbosa
+CUST000101,SP,Novaes de Brito
+CUST000102,DF,Rezende
+CUST000103,RJ,Borges
+CUST000104,PR,Cavalcante
+CUST000105,AL,Mendonça do Amparo
+CUST000106,RJ,Guerra
+CUST000107,MG,Cavalcante
+CUST000108,CE,Abreu das Flores
+CUST000109,SP,Viana dos Dourados
+CUST000110,SP,Lima da Prata
+CUST000111,RJ,Cassiano de Correia
+CUST000112,SP,Cunha do Norte
+CUST000113,SE,Souza
+CUST000114,ES,Araújo do Norte
+CUST000115,DF,Montenegro de Moura
+CUST000116,PB,Araújo
+CUST000117,ES,Cirino
+CUST000118,SP,Peixoto
+CUST000119,RN,Rocha
+CUST000120,PR,Guerra
+CUST000121,ES,Nunes
+CUST000122,AL,Pacheco
+CUST000123,RJ,Pinto
+CUST000124,SP,Leão
+CUST000125,SP,da Luz do Oeste
+CUST000126,MG,da Costa Paulista
+CUST000127,MT,Cardoso da Mata
+CUST000128,MA,Dias de Sá
+CUST000129,SP,Albuquerque
+CUST000130,PR,Pinto de Nunes
+CUST000131,MG,Barbosa
+CUST000132,SP,Montenegro
+CUST000133,SP,Cardoso da Praia
+CUST000134,RJ,da Cruz
+CUST000135,RO,da Paz da Serra
+CUST000136,RJ,Nogueira de Santos
+CUST000137,PR,Pimenta do Galho
+CUST000138,PE,Rios
+CUST000139,MG,Ribeiro do Campo
+CUST000140,AM,da Luz
+CUST000141,AC,Caldeira
+CUST000142,RJ,da Mata
+CUST000143,RS,Pereira do Oeste
+CUST000144,RJ,Costela Paulista
+CUST000145,RJ,da Cunha de Aragão
+CUST000146,SP,Porto
+CUST000147,BA,da Mota do Norte
+CUST000148,PR,Farias
+CUST000149,SP,Porto
+CUST000150,RJ,Castro dos Dourados
+CUST000151,PI,Novais do Sul
+CUST000152,SP,Barbosa
+CUST000153,SP,Nogueira
+CUST000154,RS,Freitas
+CUST000155,AP,Lopes
+CUST000156,SP,Aparecida
+CUST000157,GO,Fonseca do Norte
+CUST000158,PA,Costela de Goiás
+CUST000159,SP,Fogaça
+CUST000160,CE,Pinto Grande
+CUST000161,MG,Castro
+CUST000162,DF,Jesus
+CUST000163,DF,Cavalcanti
+CUST000164,PR,Viana das Pedras
+CUST000165,SP,da Mata
+CUST000166,MS,Viana
+CUST000167,RJ,Garcia
+CUST000168,SP,Melo
+CUST000169,SP,Costa
+CUST000170,BA,Ferreira de das Neves
+CUST000171,GO,Câmara
+CUST000172,SP,Ribeiro
+CUST000173,PR,Guerra
+CUST000174,SP,da Mota de Minas
+CUST000175,DF,Ferreira do Galho
+CUST000176,SP,Rocha da Prata
+CUST000177,PE,Alves do Campo
+CUST000178,MG,Cavalcanti Verde
+CUST000179,RO,Andrade do Campo
+CUST000180,SP,Ferreira Alegre
+CUST000181,RJ,Pereira do Galho
+CUST000182,SP,Gomes
+CUST000183,SE,da Cunha
+CUST000184,PB,Santos
+CUST000185,RJ,Abreu do Galho
+CUST000186,DF,Fonseca
+CUST000187,MT,Azevedo Alegre
+CUST000188,SC,Ribeiro do Campo
+CUST000189,PR,Montenegro da Mata
+CUST000190,SP,Duarte das Flores
+CUST000191,SP,Novaes Grande
+CUST000192,AL,Leão
+CUST000193,AL,Rocha da Serra
+CUST000194,DF,Guerra da Prata
+CUST000195,RJ,da Rosa
+CUST000196,RJ,Costela das Pedras
+CUST000197,PE,Martins dos Dourados
+CUST000198,AL,Rocha de Cunha
+CUST000199,RN,Vieira de Vieira
+CUST000200,PA,Ribeiro
+CUST000201,DF,da Paz
+CUST000202,SP,Borges de Goiás
+CUST000203,SP,Câmara do Oeste
+CUST000204,AL,Alves
+CUST000205,BA,da Cruz
+CUST000206,SP,Pimenta de Vargas
+CUST000207,SP,Marques
+CUST000208,GO,Pires Verde
+CUST000209,SP,Silva
+CUST000210,SP,Monteiro das Flores
+CUST000211,SC,Casa Grande
+CUST000212,PE,Sá
+CUST000213,DF,Vasconcelos
+CUST000214,SP,Câmara da Serra
+CUST000215,PE,Aragão de Novais
+CUST000216,SP,Campos
+CUST000217,RJ,Carvalho de Martins
+CUST000218,CE,Sá dos Dourados
+CUST000219,DF,Novaes dos Dourados
+CUST000220,MA,Souza
+CUST000221,DF,Machado de da Luz
+CUST000222,SC,Porto
+CUST000223,SP,Vargas do Galho
+CUST000224,MG,Pires de da Costa
+CUST000225,RJ,Macedo de Minas
+CUST000226,SP,da Costa Paulista
+CUST000227,AM,Dias da Prata
+CUST000228,MG,Carvalho
+CUST000229,RN,da Conceição
+CUST000230,DF,Sales Grande
+CUST000231,ES,Azevedo
+CUST000232,PR,Jesus Alegre
+CUST000233,SC,Leão de Araújo
+CUST000234,RS,Leão
+CUST000235,SP,Vargas Verde
+CUST000236,PE,Teixeira
+CUST000237,RJ,Mendes do Sul
+CUST000238,SP,da Rosa das Flores
+CUST000239,DF,Nascimento da Prata
+CUST000240,SP,Mendonça
+CUST000241,RO,da Mata
+CUST000242,TO,Mendonça do Sul
+CUST000243,PI,Fernandes das Flores
+CUST000244,MG,Martins
+CUST000245,SP,Pinto
+CUST000246,SE,Gonçalves
+CUST000247,MG,Barros
+CUST000248,AC,Carvalho dos Dourados
+CUST000249,AC,Aragão
+CUST000250,MA,Garcia Alegre
+CUST000251,RJ,Marques
+CUST000252,MG,Fernandes das Flores
+CUST000253,MA,Sá das Pedras
+CUST000254,RJ,Barros do Amparo
+CUST000255,SP,Souza
+CUST000256,SC,Ferreira
+CUST000257,RO,Rezende
+CUST000258,PE,Vasconcelos
+CUST000259,SC,Sá
+CUST000260,SP,da Cruz
+CUST000261,BA,Almeida
+CUST000262,RR,da Costa
+CUST000263,SP,Melo
+CUST000264,PR,Nunes
+CUST000265,PB,Martins
+CUST000266,CE,Vargas da Praia
+CUST000267,PE,Pereira
+CUST000268,PE,Vasconcelos
+CUST000269,MG,das Neves
+CUST000270,RJ,Pacheco
+CUST000271,ES,das Neves
+CUST000272,ES,Gonçalves do Oeste
+CUST000273,PB,Pastor
+CUST000274,PI,Caldeira
+CUST000275,PR,Rodrigues do Campo
+CUST000276,PR,Ferreira
+CUST000277,ES,Ribeiro da Praia
+CUST000278,DF,Montenegro
+CUST000279,PE,Albuquerque das Pedras
+CUST000280,ES,Caldeira de Lopes
+CUST000281,RN,Porto dos Dourados
+CUST000282,RJ,Lopes
+CUST000283,MG,Siqueira
+CUST000284,SP,Pimenta da Prata
+CUST000285,SC,Martins de Lopes
+CUST000286,SP,Duarte de Goiás
+CUST000287,RS,da Mota
+CUST000288,PR,da Cruz de Sá
+CUST000289,RJ,Nunes de Pimenta
+CUST000290,BA,Fernandes do Sul
+CUST000291,SP,Duarte de Cirino
+CUST000292,SP,Cunha de Fogaça
+CUST000293,MT,Fernandes Paulista
+CUST000294,MG,Novais do Sul
+CUST000295,SP,Barros
+CUST000296,PR,Silveira
+CUST000297,PA,Mendonça da Prata
+CUST000298,SP,Sales
+CUST000299,BA,Ramos de Silva
+CUST000300,SP,Machado de Vieira
+CUST000301,SP,Borges
+CUST000302,PR,Câmara das Flores
+CUST000303,PR,das Neves
+CUST000304,DF,Melo da Prata
+CUST000305,PE,Lima da Prata
+CUST000306,AM,Fogaça dos Dourados
+CUST000307,PR,das Neves Paulista
+CUST000308,RJ,Campos
+CUST000309,ES,Dias
+CUST000310,RJ,Souza
+CUST000311,MG,Correia
+CUST000312,SP,Sousa
+CUST000313,SP,da Mota de Silveira
+CUST000314,AC,Brito do Oeste
+CUST000315,MS,da Conceição da Praia
+CUST000316,PE,da Rosa
+CUST000317,MG,Santos
+CUST000318,SP,da Mota
+CUST000319,SP,Aragão
+CUST000320,RJ,Sampaio Grande
+CUST000321,SC,Caldeira de Albuquerque
+CUST000322,PE,Melo do Amparo
+CUST000323,DF,Fernandes de Cirino
+CUST000324,RJ,da Cunha
+CUST000325,TO,Camargo de Azevedo
+CUST000326,CE,Mendonça de Minas
+CUST000327,SC,Cassiano
+CUST000328,BA,Nunes
+CUST000329,MG,Barros de Goiás
+CUST000330,RJ,Novais
+CUST000331,MG,Pereira de Goiás
+CUST000332,CE,Machado dos Dourados
+CUST000333,SP,Pastor das Pedras
+CUST000334,SP,Nunes do Norte
+CUST000335,SP,Teixeira
+CUST000336,SP,Pires
+CUST000337,MA,da Luz
+CUST000338,PE,Castro
+CUST000339,RS,Cavalcanti
+CUST000340,SP,Castro
+CUST000341,RS,Jesus
+CUST000342,RS,Sales de Peixoto
+CUST000343,SP,da Rocha de Andrade
+CUST000344,MG,da Paz
+CUST000345,MG,Sampaio dos Dourados
+CUST000346,BA,Rodrigues
+CUST000347,DF,da Luz
+CUST000348,SP,Lima
+CUST000349,MG,Nogueira
+CUST000350,BA,Ramos
+CUST000351,PR,da Mata
+CUST000352,MA,Barbosa
+CUST000353,DF,Cavalcante
+CUST000354,SP,Peixoto Verde
+CUST000355,SP,Macedo do Campo
+CUST000356,DF,Sales de da Rosa
+CUST000357,SP,da Mata do Galho
+CUST000358,BA,Macedo de Barros
+CUST000359,RO,Lopes
+CUST000360,SC,Pereira Paulista
+CUST000361,MG,Borges
+CUST000362,DF,Rocha
+CUST000363,RS,Teixeira
+CUST000364,SC,Oliveira do Norte
+CUST000365,RO,Melo
+CUST000366,MG,da Mota de Cirino
+CUST000367,AC,Porto do Amparo
+CUST000368,AL,Melo
+CUST000369,SP,Jesus Alegre
+CUST000370,SP,Rios do Campo
+CUST000371,SP,Farias
+CUST000372,SP,Sales do Amparo
+CUST000373,SP,Ribeiro das Flores
+CUST000374,GO,Marques
+CUST000375,SP,Dias
+CUST000376,RJ,Duarte do Campo
+CUST000377,MS,Moraes do Sul
+CUST000378,SP,Jesus de Aragão
+CUST000379,MT,Moreira
+CUST000380,RJ,Pinto do Amparo
+CUST000381,SP,Teixeira de Aragão
+CUST000382,PE,da Mata
+CUST000383,DF,da Paz
+CUST000384,PB,Sampaio de Mendonça
+CUST000385,CE,Alves
+CUST000386,ES,Santos
+CUST000387,RJ,das Neves
+CUST000388,SP,Novaes
+CUST000389,CE,Borges de Goiás
+CUST000390,ES,Martins
+CUST000391,RR,Ramos
+CUST000392,MG,Monteiro
+CUST000393,MG,Moraes Paulista
+CUST000394,PA,Mendes do Amparo
+CUST000395,RJ,Marques
+CUST000396,SE,Gomes
+CUST000397,MA,Peixoto
+CUST000398,MG,Azevedo
+CUST000399,CE,Vargas das Pedras
+CUST000400,CE,Viana do Galho
+CUST000401,SP,Abreu da Mata
+CUST000402,AL,Pastor Verde
+CUST000403,PR,Cassiano de Machado
+CUST000404,MT,Ferreira de Farias
+CUST000405,RJ,Marques Alegre
+CUST000406,AL,Sampaio
+CUST000407,MG,Oliveira
+CUST000408,SP,da Conceição das Pedras
+CUST000409,AL,Dias
+CUST000410,SP,Santos de Garcia
+CUST000411,RJ,Ribeiro Grande
+CUST000412,TO,Andrade de Cardoso
+CUST000413,TO,Brito dos Dourados
+CUST000414,SC,Moura
+CUST000415,DF,Albuquerque de Silveira
+CUST000416,RS,Jesus
+CUST000417,RJ,Barbosa
+CUST000418,RJ,Viana de da Luz
+CUST000419,GO,Pinto das Flores
+CUST000420,CE,Farias
+CUST000421,ES,Dias do Amparo
+CUST000422,ES,Pinto
+CUST000423,SP,da Costa
+CUST000424,RS,da Conceição de Minas
+CUST000425,SP,Brito do Campo
+CUST000426,SC,Cavalcante de Sales
+CUST000427,MG,Alves do Norte
+CUST000428,RN,Vieira do Norte
+CUST000429,RJ,Fogaça da Praia
+CUST000430,SP,Casa Grande de Goiás
+CUST000431,SP,Nunes da Serra
+CUST000432,PA,Cavalcanti
+CUST000433,BA,Pimenta
+CUST000434,SP,Pinto de Goiás
+CUST000435,SP,Pacheco de Casa Grande
+CUST000436,PE,Martins
+CUST000437,SP,Marques Paulista
+CUST000438,MT,Martins
+CUST000439,PE,Rocha da Prata
+CUST000440,SP,Barbosa
+CUST000441,SP,Ferreira de Pastor
+CUST000442,AP,Porto das Pedras
+CUST000443,MG,Marques da Mata
+CUST000444,MG,Gomes
+CUST000445,MT,Caldeira de da Costa
+CUST000446,TO,Oliveira da Praia
+CUST000447,AP,Sampaio da Mata
+CUST000448,CE,Ribeiro
+CUST000449,MG,da Mota do Sul
+CUST000450,SP,Pereira
+CUST000451,PA,da Paz de Vasconcelos
+CUST000452,SC,Pereira
+CUST000453,MG,Câmara do Oeste
+CUST000454,AL,Rocha Grande
+CUST000455,SP,Pires
+CUST000456,RS,das Neves
+CUST000457,SP,Andrade de Pacheco
+CUST000458,RS,Siqueira Grande
+CUST000459,SP,da Rocha
+CUST000460,SP,Souza das Pedras
+CUST000461,SP,Costa
+CUST000462,DF,Viana
+CUST000463,CE,Moura do Galho
+CUST000464,BA,Cavalcante Paulista
+CUST000465,AC,da Rocha de Souza
+CUST000466,MG,Camargo dos Dourados
+CUST000467,RJ,Casa Grande
+CUST000468,PB,Rocha
+CUST000469,SP,Novais da Praia
+CUST000470,AC,Vieira
+CUST000471,SP,Albuquerque Paulista
+CUST000472,AM,Marques
+CUST000473,SP,Rocha Paulista
+CUST000474,RN,Porto da Praia
+CUST000475,PR,Rocha
+CUST000476,RR,Melo
+CUST000477,SP,Pinto
+CUST000478,SC,Pimenta de Goiás
+CUST000479,AM,Porto
+CUST000480,PR,Sampaio de da Rosa
+CUST000481,DF,Camargo Grande
+CUST000482,PE,Andrade
+CUST000483,RS,Monteiro do Campo
+CUST000484,DF,da Costa
+CUST000485,BA,Gomes
+CUST000486,AL,Freitas de Rios
+CUST000487,SP,Pastor Grande
+CUST000488,RJ,Rezende do Campo
+CUST000489,TO,Pimenta de Jesus
+CUST000490,RN,Andrade da Praia
+CUST000491,RS,Macedo
+CUST000492,BA,da Costa de Fonseca
+CUST000493,RJ,Rodrigues
+CUST000494,SP,Nogueira da Praia
+CUST000495,RS,Gonçalves
+CUST000496,RJ,Correia do Campo
+CUST000497,BA,Borges de Ribeiro
+CUST000498,SP,Ramos
+CUST000499,AM,Aragão
+CUST000500,AP,da Cruz Grande
+CUST000501,PE,Azevedo
+CUST000502,PR,Pastor
+CUST000503,RJ,da Conceição
+CUST000504,MT,Vasconcelos Grande
+CUST000505,GO,da Mota
+CUST000506,SP,Cardoso
+CUST000507,PI,Cavalcanti do Campo
+CUST000508,MT,Cardoso
+CUST000509,TO,Fogaça
+CUST000510,PE,Pastor
+CUST000511,BA,Almeida da Serra
+CUST000512,MG,Aragão Grande
+CUST000513,SE,Moura do Campo
+CUST000514,PB,Melo
+CUST000515,SP,Vasconcelos de Fonseca
+CUST000516,SP,Machado
+CUST000517,MG,Pimenta
+CUST000518,MT,Siqueira
+CUST000519,AP,Marques do Sul
+CUST000520,SP,Mendes
+CUST000521,BA,Lima do Campo
+CUST000522,MG,Silva de Macedo
+CUST000523,AM,Barros
+CUST000524,MS,Pereira Grande
+CUST000525,MS,Cardoso
+CUST000526,RS,Pinto Verde
+CUST000527,MG,Garcia do Galho
+CUST000528,RJ,Marques do Galho
+CUST000529,SP,Brito do Campo
+CUST000530,MA,Lopes
+CUST000531,MT,da Conceição de Jesus
+CUST000532,RR,Marques das Flores
+CUST000533,RR,Siqueira do Campo
+CUST000534,SC,Lima Alegre
+CUST000535,PA,Freitas Grande
+CUST000536,TO,Azevedo de Borges
+CUST000537,MA,Borges
+CUST000538,RJ,Brito da Praia
+CUST000539,RS,Novais
+CUST000540,SP,Pastor
+CUST000541,TO,Rios do Campo
+CUST000542,BA,Fogaça das Pedras
+CUST000543,SP,da Paz
+CUST000544,GO,Fogaça do Campo
+CUST000545,BA,Cassiano
+CUST000546,MG,Câmara de Caldeira
+CUST000547,SP,Novais da Praia
+CUST000548,GO,Teixeira
+CUST000549,PR,Oliveira de Goiás
+CUST000550,PA,Novais da Prata
+CUST000551,PR,Pereira
+CUST000552,MA,Alves da Serra
+CUST000553,SC,Sampaio da Mata
+CUST000554,SC,Ferreira do Sul
+CUST000555,PB,Casa Grande
+CUST000556,MG,Azevedo Grande
+CUST000557,SP,Borges
+CUST000558,SP,Garcia
+CUST000559,CE,Marques Alegre
+CUST000560,BA,Freitas
+CUST000561,PE,Silveira Alegre
+CUST000562,SP,Aragão
+CUST000563,SP,Castro
+CUST000564,SP,Rocha
+CUST000565,RJ,da Mata
+CUST000566,BA,Ribeiro de Lima
+CUST000567,MG,Pereira de Macedo
+CUST000568,MG,da Mata do Oeste
+CUST000569,AL,Ferreira
+CUST000570,RJ,Camargo da Mata
+CUST000571,PR,Moura de Rios
+CUST000572,PA,Aparecida de Goiás
+CUST000573,MG,Peixoto do Norte
+CUST000574,BA,Costela
+CUST000575,MA,Cunha Grande
+CUST000576,TO,da Rocha Alegre
+CUST000577,SP,Abreu
+CUST000578,SE,Souza de Lopes
+CUST000579,RS,Cardoso
+CUST000580,RJ,Nascimento de Goiás
+CUST000581,RS,Barbosa das Flores
+CUST000582,AP,Lopes
+CUST000583,RS,Marques
+CUST000584,RJ,Dias
+CUST000585,DF,Oliveira das Flores
+CUST000586,SP,da Rocha do Campo
+CUST000587,SP,Almeida Alegre
+CUST000588,SP,Pinto
+CUST000589,SP,Sales de Fonseca
+CUST000590,SP,Lopes
+CUST000591,SP,da Cruz
+CUST000592,DF,Pastor das Flores
+CUST000593,SP,Gonçalves
+CUST000594,RJ,Souza Alegre
+CUST000595,AL,Farias
+CUST000596,RS,Barbosa
+CUST000597,GO,Moura
+CUST000598,SP,Vasconcelos
+CUST000599,SP,Ferreira Grande
+CUST000600,SP,Caldeira
+CUST000601,SP,da Cunha
+CUST000602,RJ,Cavalcanti
+CUST000603,SP,Teixeira
+CUST000604,SP,Cavalcanti
+CUST000605,SP,Martins de Sá
+CUST000606,RS,Rodrigues de Nunes
+CUST000607,SP,Pires Alegre
+CUST000608,MG,Macedo
+CUST000609,PR,Melo
+CUST000610,PE,Pires de da Rosa
+CUST000611,SP,Pastor do Norte
+CUST000612,ES,Montenegro de Minas
+CUST000613,DF,Martins dos Dourados
+CUST000614,SP,Araújo
+CUST000615,PB,da Paz de Minas
+CUST000616,PI,Pimenta
+CUST000617,SP,Martins Verde
+CUST000618,RJ,Machado
+CUST000619,ES,Duarte
+CUST000620,CE,Montenegro de Cassiano
+CUST000621,SP,Machado
+CUST000622,SP,Fernandes
+CUST000623,MG,Montenegro
+CUST000624,RS,Aparecida
+CUST000625,BA,Santos
+CUST000626,MG,Macedo de Moura
+CUST000627,RS,Fonseca
+CUST000628,CE,da Paz das Flores
+CUST000629,SP,Vasconcelos Alegre
+CUST000630,RJ,Vieira
+CUST000631,PE,Azevedo Alegre
+CUST000632,AL,Novais
+CUST000633,PR,da Paz Paulista
+CUST000634,PR,Farias
+CUST000635,SP,Pacheco
+CUST000636,RS,Ferreira
+CUST000637,PR,Rezende das Flores
+CUST000638,SP,Peixoto
+CUST000639,RJ,das Neves
+CUST000640,MG,Ramos Alegre
+CUST000641,SP,Rios
+CUST000642,RJ,Ramos
+CUST000643,SP,Moraes da Praia
+CUST000644,RJ,Fonseca
+CUST000645,SP,Cirino do Oeste
+CUST000646,RN,Vargas do Amparo
+CUST000647,BA,Câmara
+CUST000648,GO,Cassiano
+CUST000649,ES,da Rocha
+CUST000650,RS,Montenegro
+CUST000651,SP,Ribeiro
+CUST000652,PR,Vargas Grande
+CUST000653,BA,Cassiano da Serra
+CUST000654,CE,Sales
+CUST000655,MG,Silveira
+CUST000656,SP,Aparecida de Jesus
+CUST000657,RJ,Rocha de Goiás
+CUST000658,MG,Pimenta de da Paz
+CUST000659,DF,da Conceição de Nascimento
+CUST000660,SC,das Neves
+CUST000661,MG,Correia de Freitas
+CUST000662,AP,Martins de Vargas
+CUST000663,BA,Vasconcelos das Flores
+CUST000664,SP,Castro do Oeste
+CUST000665,SP,da Cunha
+CUST000666,SP,Ramos
+CUST000667,RJ,Freitas de Novaes
+CUST000668,SP,Silva
+CUST000669,SP,da Paz
+CUST000670,RJ,Teixeira
+CUST000671,SP,da Mata
+CUST000672,AL,Moraes de Casa Grande
+CUST000673,SP,Borges de Goiás
+CUST000674,PR,Ferreira de Alves
+CUST000675,MG,Aragão das Flores
+CUST000676,AP,da Costa das Flores
+CUST000677,SP,Freitas
+CUST000678,MG,Alves
+CUST000679,AM,Brito Alegre
+CUST000680,MA,Carvalho
+CUST000681,MT,da Paz
+CUST000682,RJ,Sampaio de Carvalho
+CUST000683,SP,Machado de Pimenta
+CUST000684,GO,Barros
+CUST000685,SE,da Cunha
+CUST000686,SC,Cassiano
+CUST000687,SC,Camargo da Mata
+CUST000688,RJ,da Rosa
+CUST000689,PA,Aragão
+CUST000690,SP,Leão
+CUST000691,RJ,Azevedo de Camargo
+CUST000692,MG,Peixoto de Nascimento
+CUST000693,PR,Pires
+CUST000694,SP,Silva
+CUST000695,SP,da Rocha
+CUST000696,BA,Abreu da Praia
+CUST000697,RJ,Oliveira
+CUST000698,SC,Cirino de Minas
+CUST000699,SP,Azevedo do Galho
+CUST000700,RS,Gomes
+CUST000701,PR,Aparecida de Porto
+CUST000702,SP,Freitas Paulista
+CUST000703,RJ,Fogaça
+CUST000704,SP,Ferreira
+CUST000705,SP,Siqueira
+CUST000706,RR,Vargas
+CUST000707,RJ,Carvalho do Norte
+CUST000708,ES,Nogueira Alegre
+CUST000709,RJ,Vasconcelos
+CUST000710,GO,Sampaio de Mendes
+CUST000711,CE,Carvalho
+CUST000712,BA,Silva
+CUST000713,RS,Andrade de da Rocha
+CUST000714,MG,Aparecida
+CUST000715,RJ,Aparecida
+CUST000716,SE,das Neves do Galho
+CUST000717,MS,Nogueira do Amparo
+CUST000718,AC,Andrade do Oeste
+CUST000719,SP,Fogaça do Norte
+CUST000720,CE,da Mata do Campo
+CUST000721,RO,Lopes das Flores
+CUST000722,SP,Gomes de Fernandes
+CUST000723,SP,Monteiro
+CUST000724,CE,Freitas de Moreira
+CUST000725,SC,Barros das Pedras
+CUST000726,MS,Lopes
+CUST000727,SP,Nogueira
+CUST000728,ES,Duarte do Campo
+CUST000729,SP,Duarte
+CUST000730,SP,das Neves dos Dourados
+CUST000731,SP,Cavalcante dos Dourados
+CUST000732,MT,Machado do Norte
+CUST000733,GO,Pimenta das Pedras
+CUST000734,PR,Porto do Norte
+CUST000735,MG,Rios
+CUST000736,PB,Fonseca do Galho
+CUST000737,MG,Alves
+CUST000738,MT,Pereira
+CUST000739,MG,Andrade de Cardoso
+CUST000740,MG,da Costa
+CUST000741,RS,Fonseca das Flores
+CUST000742,RJ,Pereira
+CUST000743,CE,Rocha
+CUST000744,PR,Freitas de Freitas
+CUST000745,SP,Teixeira de Barbosa
+CUST000746,AL,Moura
+CUST000747,MG,Gonçalves Alegre
+CUST000748,PR,da Cruz do Campo
+CUST000749,AL,Sousa
+CUST000750,BA,Monteiro
+CUST000751,SP,Novais do Campo
+CUST000752,RO,Vasconcelos Paulista
+CUST000753,DF,Cunha de Pimenta
+CUST000754,RJ,Sales do Amparo
+CUST000755,SP,Campos
+CUST000756,ES,Barbosa
+CUST000757,BA,Cavalcanti de Silva
+CUST000758,PR,Borges de Rodrigues
+CUST000759,RN,Rios da Praia
+CUST000760,ES,Novaes
+CUST000761,SP,da Rosa da Serra
+CUST000762,RJ,Vieira
+CUST000763,RJ,Moraes de Goiás
+CUST000764,CE,Costa
+CUST000765,SP,da Costa
+CUST000766,SC,Alves de Fonseca
+CUST000767,PA,Martins da Prata
+CUST000768,PB,Pimenta
+CUST000769,RJ,Azevedo
+CUST000770,MT,Gonçalves do Amparo
+CUST000771,SP,Vargas das Pedras
+CUST000772,MS,Cardoso
+CUST000773,SP,Ramos de Minas
+CUST000774,MG,Martins de Rodrigues
+CUST000775,ES,Cardoso da Prata
+CUST000776,SP,Vargas
+CUST000777,SP,Lopes
+CUST000778,PE,Campos
+CUST000779,PE,da Rosa
+CUST000780,DF,Castro
+CUST000781,PE,Santos de Goiás
+CUST000782,PR,Moreira da Mata
+CUST000783,RJ,da Cunha
+CUST000784,RJ,Porto
+CUST000785,SP,Cardoso da Mata
+CUST000786,PI,Montenegro
+CUST000787,BA,Pastor
+CUST000788,MG,Cavalcante
+CUST000789,RS,Nunes do Norte
+CUST000790,TO,Barros
+CUST000791,SP,Ramos
+CUST000792,BA,Rezende do Oeste
+CUST000793,PR,Pinto do Sul
+CUST000794,BA,Pires de Nogueira
+CUST000795,SP,Ramos da Mata
+CUST000796,PB,da Cruz de Rodrigues
+CUST000797,SE,da Rosa dos Dourados
+CUST000798,SC,Sales
+CUST000799,PE,Castro
+CUST000800,SE,Leão de Mendes
+CUST000801,PE,Costela de Fernandes
+CUST000802,SP,Dias
+CUST000803,SC,Siqueira da Praia
+CUST000804,BA,Cardoso da Praia
+CUST000805,MG,Dias
+CUST000806,CE,Martins
+CUST000807,RO,da Mata
+CUST000808,SE,da Cruz de Casa Grande
+CUST000809,RS,Aragão
+CUST000810,SP,Gomes das Pedras
+CUST000811,AP,Castro
+CUST000812,MS,Oliveira Alegre
+CUST000813,SP,Teixeira
+CUST000814,PI,Monteiro
+CUST000815,PB,Monteiro de das Neves
+CUST000816,PR,Almeida de Borges
+CUST000817,BA,Montenegro dos Dourados
+CUST000818,MG,Cunha
+CUST000819,SP,Aragão do Norte
+CUST000820,RJ,Monteiro do Amparo
+CUST000821,ES,Nascimento do Sul
+CUST000822,SP,Lopes
+CUST000823,RJ,da Luz
+CUST000824,MG,Teixeira das Flores
+CUST000825,PR,Aparecida das Flores
+CUST000826,PI,Nunes
+CUST000827,RJ,Fonseca
+CUST000828,RJ,Barbosa das Flores
+CUST000829,CE,Teixeira de Novaes
+CUST000830,RS,Pinto do Campo
+CUST000831,SP,Brito
+CUST000832,RS,Freitas Alegre
+CUST000833,SP,Sá Grande
+CUST000834,SP,Pereira
+CUST000835,RS,Montenegro do Norte
+CUST000836,MG,Andrade
+CUST000837,PI,Silva
+CUST000838,MG,Melo do Galho
+CUST000839,SC,Cassiano de Pereira
+CUST000840,DF,Duarte
+CUST000841,SP,Castro das Flores
+CUST000842,GO,Pastor Alegre
+CUST000843,SP,Santos de Nunes
+CUST000844,AC,Melo do Sul
+CUST000845,SP,Farias do Campo
+CUST000846,MG,Pacheco da Mata
+CUST000847,SP,Peixoto
+CUST000848,RR,da Luz de Rezende
+CUST000849,PR,Silveira
+CUST000850,BA,Pacheco
+CUST000851,SP,Cavalcante de Moura
+CUST000852,CE,Casa Grande de Goiás
+CUST000853,SP,Oliveira
+CUST000854,AL,Correia
+CUST000855,SP,Macedo
+CUST000856,SP,Leão Grande
+CUST000857,SP,Sales do Oeste
+CUST000858,RS,Montenegro do Amparo
+CUST000859,SC,Santos
+CUST000860,SP,Moreira
+CUST000861,PA,Novais
+CUST000862,RS,Ribeiro do Amparo
+CUST000863,PR,Dias da Serra
+CUST000864,MG,Nascimento de Fernandes
+CUST000865,MG,Rocha Paulista
+CUST000866,SC,Correia de da Cruz
+CUST000867,SP,Novais da Mata
+CUST000868,SP,da Rosa
+CUST000869,MA,Santos do Oeste
+CUST000870,TO,Dias de Mendes
+CUST000871,MG,Novais Paulista
+CUST000872,RJ,Campos Verde
+CUST000873,DF,Gonçalves da Praia
+CUST000874,MG,da Rocha
+CUST000875,SP,da Paz
+CUST000876,SP,Ferreira
+CUST000877,PE,Rezende de da Cunha
+CUST000878,DF,Cunha de Costa
+CUST000879,SP,Novais Paulista
+CUST000880,SP,Caldeira
+CUST000881,SP,da Cruz
+CUST000882,GO,Rios
+CUST000883,SP,Porto
+CUST000884,SP,Aragão
+CUST000885,ES,Jesus
+CUST000886,SP,Silva do Amparo
+CUST000887,DF,Rodrigues
+CUST000888,SP,Abreu
+CUST000889,SP,Jesus
+CUST000890,SP,Mendes de Rezende
+CUST000891,PE,Sá
+CUST000892,MA,Duarte da Mata
+CUST000893,MS,Vargas
+CUST000894,MG,Rezende
+CUST000895,GO,Nascimento
+CUST000896,SP,Cavalcanti
+CUST000897,RJ,Cavalcanti do Norte
+CUST000898,AL,Viana do Amparo
+CUST000899,SP,Souza
+CUST000900,SP,Andrade do Sul
+CUST000901,SP,Nunes do Campo
+CUST000902,SP,da Paz dos Dourados
+CUST000903,SP,Carvalho de Montenegro
+CUST000904,BA,da Mata de Correia
+CUST000905,MG,Farias
+CUST000906,RN,Siqueira
+CUST000907,MT,Ramos de da Cunha
+CUST000908,RJ,Albuquerque
+CUST000909,RJ,Vieira da Mata
+CUST000910,MG,Cavalcanti
+CUST000911,BA,Lima do Galho
+CUST000912,RJ,Borges das Flores
+CUST000913,BA,Cirino
+CUST000914,MG,Mendes
+CUST000915,SC,da Cruz do Sul
+CUST000916,MG,Gomes de Goiás
+CUST000917,RJ,Sá de da Mata
+CUST000918,TO,da Rosa Verde
+CUST000919,PA,da Luz
+CUST000920,SP,Sales de Goiás
+CUST000921,PB,Rios
+CUST000922,RS,Martins
+CUST000923,RN,Castro das Flores
+CUST000924,ES,Sales do Campo
+CUST000925,MG,Freitas de Goiás
+CUST000926,SP,Carvalho
+CUST000927,RJ,Cassiano de Marques
+CUST000928,PR,Leão da Prata
+CUST000929,DF,Sá de Nascimento
+CUST000930,RJ,Teixeira
+CUST000931,SP,Rodrigues
+CUST000932,MS,Moura
+CUST000933,AP,Moura de Santos
+CUST000934,PR,Barbosa Verde
+CUST000935,SP,Araújo
+CUST000936,RJ,Oliveira
+CUST000937,SP,Cavalcante
+CUST000938,PI,Moreira dos Dourados
+CUST000939,SP,Rodrigues
+CUST000940,SC,Silva
+CUST000941,RJ,Borges de Moraes
+CUST000942,SC,Araújo de Marques
+CUST000943,DF,Moraes
+CUST000944,MT,Marques Verde
+CUST000945,SP,Novais
+CUST000946,SP,Rocha de das Neves
+CUST000947,SP,Gonçalves
+CUST000948,AL,Abreu do Oeste
+CUST000949,PB,Aparecida
+CUST000950,BA,Ferreira de Minas
+CUST000951,BA,Azevedo
+CUST000952,GO,Andrade de da Paz
+CUST000953,SP,Cirino Grande
+CUST000954,PI,Freitas das Flores
+CUST000955,MG,Garcia de Garcia
+CUST000956,MG,Rodrigues
+CUST000957,PR,Rezende
+CUST000958,SP,Campos da Serra
+CUST000959,SP,Moura Grande
+CUST000960,CE,Abreu
+CUST000961,SP,da Rosa
+CUST000962,BA,Rocha de Silveira
+CUST000963,RJ,Nascimento das Flores
+CUST000964,MG,da Cruz
+CUST000965,RJ,Ferreira de Cassiano
+CUST000966,MG,Correia do Campo
+CUST000967,PE,Ribeiro
+CUST000968,RJ,Pimenta do Sul
+CUST000969,SC,Costela
+CUST000970,RS,Brito
+CUST000971,GO,Machado
+CUST000972,RO,da Cruz
+CUST000973,CE,Guerra
+CUST000974,SP,da Conceição de Nogueira
+CUST000975,SP,Sá
+CUST000976,RJ,Carvalho
+CUST000977,BA,da Conceição Verde
+CUST000978,SP,Oliveira Alegre
+CUST000979,RS,da Rosa
+CUST000980,BA,Ribeiro
+CUST000981,RJ,Jesus
+CUST000982,PA,da Mota do Norte
+CUST000983,SP,Pires
+CUST000984,SP,Novais do Amparo
+CUST000985,CE,Ferreira
+CUST000986,RS,Viana do Galho
+CUST000987,PE,Sampaio das Pedras
+CUST000988,MG,Cassiano da Mata
+CUST000989,RJ,Cirino da Prata
+CUST000990,MT,da Costa de Câmara
+CUST000991,ES,Santos Grande
+CUST000992,PE,Araújo de Novais
+CUST000993,RJ,Leão da Prata
+CUST000994,BA,Gomes
+CUST000995,MG,da Cunha
+CUST000996,SP,Farias
+CUST000997,PI,Machado
+CUST000998,SP,Borges da Prata
+CUST000999,TO,Aragão
+CUST001000,RS,Garcia do Norte
+CUST001001,SP,Correia
+CUST001002,PR,Mendes
+CUST001003,PB,Farias
+CUST001004,CE,Albuquerque do Oeste
+CUST001005,ES,Sousa
+CUST001006,DF,Souza
+CUST001007,PE,da Cruz de Sampaio
+CUST001008,MA,Gonçalves
+CUST001009,RJ,Novaes
+CUST001010,RS,Vasconcelos da Mata
+CUST001011,SP,Martins da Prata
+CUST001012,AP,das Neves Paulista
+CUST001013,RO,Moraes do Amparo
+CUST001014,SP,Brito de Silveira
+CUST001015,PE,Teixeira de Dias
+CUST001016,SE,Freitas
+CUST001017,SP,Jesus do Norte
+CUST001018,SC,Sousa
+CUST001019,PI,Almeida
+CUST001020,SP,Novaes Verde
+CUST001021,PE,da Rocha Grande
+CUST001022,RJ,Farias
+CUST001023,SE,Garcia
+CUST001024,AM,Monteiro
+CUST001025,RO,da Cunha do Amparo
+CUST001026,RS,Marques de Cavalcante
+CUST001027,MA,Cavalcante Grande
+CUST001028,MS,Cirino de Nogueira
+CUST001029,RJ,Moura
+CUST001030,MT,Barbosa
+CUST001031,SP,Teixeira
+CUST001032,BA,Jesus
+CUST001033,SP,Pires
+CUST001034,SP,Azevedo
+CUST001035,SP,Albuquerque
+CUST001036,PE,Montenegro
+CUST001037,RJ,Freitas de Araújo
+CUST001038,PE,Ribeiro de Mendonça
+CUST001039,SP,Abreu
+CUST001040,RJ,Albuquerque do Sul
+CUST001041,PR,Nascimento da Mata
+CUST001042,ES,Montenegro
+CUST001043,RJ,Cavalcanti do Campo
+CUST001044,BA,Moura
+CUST001045,RN,da Costa
+CUST001046,BA,Pinto
+CUST001047,SP,Fogaça Paulista
+CUST001048,SP,Barros da Praia
+CUST001049,PB,Marques Verde
+CUST001050,SP,Sampaio
+CUST001051,PB,da Rosa
+CUST001052,PR,Rezende
+CUST001053,RO,Borges
+CUST001054,ES,Garcia das Flores
+CUST001055,RR,Araújo de Porto
+CUST001056,RJ,Sampaio
+CUST001057,PA,Barros
+CUST001058,MG,Lopes de Ramos
+CUST001059,RS,Nunes do Campo
+CUST001060,DF,da Conceição
+CUST001061,PB,Sales
+CUST001062,AP,da Mata de Aparecida
+CUST001063,PA,Rodrigues
+CUST001064,MG,Nogueira Verde
+CUST001065,MG,Cavalcanti
+CUST001066,CE,Almeida do Oeste
+CUST001067,SP,Sá
+CUST001068,SP,Barbosa da Mata
+CUST001069,RJ,Nunes
+CUST001070,RJ,Nunes
+CUST001071,RJ,Rocha da Prata
+CUST001072,SP,Gomes Grande
+CUST001073,SP,Montenegro
+CUST001074,SP,Aragão do Campo
+CUST001075,AP,da Conceição de Minas
+CUST001076,MG,Pereira das Flores
+CUST001077,MG,Alves Paulista
+CUST001078,GO,Mendonça de da Conceição
+CUST001079,SP,Novaes das Flores
+CUST001080,TO,Cirino Verde
+CUST001081,PA,Barros da Mata
+CUST001082,SP,Silva
+CUST001083,MG,Barros
+CUST001084,PB,Cassiano das Flores
+CUST001085,TO,Sousa
+CUST001086,RS,Dias da Praia
+CUST001087,BA,Borges
+CUST001088,SP,das Neves
+CUST001089,RR,Fonseca de Teixeira
+CUST001090,SP,Caldeira Grande
+CUST001091,RO,Cirino
+CUST001092,DF,Machado da Prata
+CUST001093,BA,Caldeira do Sul
+CUST001094,PR,Fogaça
+CUST001095,SP,Peixoto
+CUST001096,SP,Gomes do Sul
+CUST001097,SP,Jesus das Flores
+CUST001098,SP,Silveira
+CUST001099,PA,Oliveira
+CUST001100,RJ,Rodrigues
+CUST001101,SP,Cavalcante Grande
+CUST001102,AM,da Rosa Paulista
+CUST001103,RN,Casa Grande de Azevedo
+CUST001104,SE,Lopes
+CUST001105,RR,Leão da Mata
+CUST001106,SP,Viana de Barbosa
+CUST001107,MG,da Cunha de Goiás
+CUST001108,CE,Peixoto de Pimenta
+CUST001109,PE,Marques
+CUST001110,SP,Carvalho
+CUST001111,MT,Abreu das Flores
+CUST001112,SP,Pinto das Flores
+CUST001113,SP,Macedo Alegre
+CUST001114,PR,Rezende Grande
+CUST001115,BA,Duarte do Oeste
+CUST001116,SC,Dias de Cavalcanti
+CUST001117,SP,Dias da Mata
+CUST001118,PB,Oliveira de Viana
+CUST001119,RJ,Duarte
+CUST001120,SP,da Mota das Flores
+CUST001121,RN,Camargo Verde
+CUST001122,AC,Pastor
+CUST001123,MA,Rodrigues
+CUST001124,ES,Siqueira
+CUST001125,DF,Santos de Costela
+CUST001126,SC,da Rocha de Sales
+CUST001127,SP,Vieira
+CUST001128,MG,Rocha do Amparo
+CUST001129,MG,Porto
+CUST001130,RJ,da Costa Paulista
+CUST001131,PE,Silva
+CUST001132,RS,Vieira das Flores
+CUST001133,SP,Machado
+CUST001134,SP,Pacheco de Guerra
+CUST001135,GO,Nogueira do Norte
+CUST001136,SP,Sampaio da Prata
+CUST001137,MA,Caldeira
+CUST001138,RS,Ribeiro
+CUST001139,RS,Cavalcante do Norte
+CUST001140,BA,Sá Alegre
+CUST001141,MT,Caldeira do Sul
+CUST001142,RJ,da Luz
+CUST001143,GO,Moraes
+CUST001144,SC,Machado
+CUST001145,RJ,Gonçalves dos Dourados
+CUST001146,PB,Ferreira
+CUST001147,ES,Mendes
+CUST001148,DF,da Rocha
+CUST001149,MA,Barros do Campo
+CUST001150,PB,Ferreira
+CUST001151,PE,Fernandes dos Dourados
+CUST001152,MS,Moreira
+CUST001153,PE,Ferreira de Melo
+CUST001154,GO,Macedo
+CUST001155,BA,Dias de Azevedo
+CUST001156,CE,Aparecida do Campo
+CUST001157,SP,Fernandes
+CUST001158,RN,Rocha
+CUST001159,PB,Sousa
+CUST001160,SP,Moreira
+CUST001161,MT,Novaes
+CUST001162,SP,Farias
+CUST001163,RJ,Martins de Goiás
+CUST001164,CE,Pires da Serra
+CUST001165,SP,Porto
+CUST001166,MT,Gonçalves do Sul
+CUST001167,MS,Machado
+CUST001168,PR,Gomes do Sul
+CUST001169,SP,Costela
+CUST001170,RJ,Sá de Minas
+CUST001171,BA,Nascimento
+CUST001172,AP,Fonseca
+CUST001173,DF,Costa dos Dourados
+CUST001174,RJ,da Luz
+CUST001175,DF,Moura de Porto
+CUST001176,PR,Peixoto das Flores
+CUST001177,PA,Pastor do Campo
+CUST001178,SP,Fogaça dos Dourados
+CUST001179,PA,Rocha
+CUST001180,PR,Pimenta Verde
+CUST001181,AC,Rocha
+CUST001182,RJ,Dias
+CUST001183,DF,da Costa
+CUST001184,SE,Camargo da Serra
+CUST001185,SP,Sales Grande
+CUST001186,RO,Leão Grande
+CUST001187,GO,Lima da Serra
+CUST001188,SP,Porto de Nascimento
+CUST001189,RJ,Novais
+CUST001190,PE,Mendonça
+CUST001191,SP,Carvalho da Serra
+CUST001192,SC,Machado do Norte
+CUST001193,RJ,Albuquerque do Amparo
+CUST001194,BA,Correia
+CUST001195,SP,Novais do Galho
+CUST001196,PB,Jesus de Rodrigues
+CUST001197,AM,Leão de Santos
+CUST001198,AM,Mendonça de Cavalcante
+CUST001199,CE,Nunes
+CUST001200,SP,Vieira
+CUST001201,CE,da Rocha
+CUST001202,SP,da Mota
+CUST001203,SP,Nascimento
+CUST001204,RJ,Cavalcante dos Dourados
+CUST001205,RS,Novaes de Moraes
+CUST001206,PA,Oliveira
+CUST001207,GO,da Mata
+CUST001208,RS,Nogueira do Norte
+CUST001209,RJ,Nogueira de Cunha
+CUST001210,RR,Caldeira de Goiás
+CUST001211,MG,Andrade dos Dourados
+CUST001212,RS,Ferreira de Minas
+CUST001213,SP,Campos de Vasconcelos
+CUST001214,ES,Costela
+CUST001215,PE,Santos das Pedras
+CUST001216,SP,Pimenta
+CUST001217,SP,Viana
+CUST001218,GO,Costela
+CUST001219,DF,Nunes
+CUST001220,RJ,Nascimento Paulista
+CUST001221,TO,Duarte
+CUST001222,SP,da Rocha Verde
+CUST001223,MG,Moraes do Campo
+CUST001224,RO,Sá
+CUST001225,MG,Araújo Paulista
+CUST001226,DF,Sampaio
+CUST001227,MG,da Cruz
+CUST001228,RJ,Silva
+CUST001229,AP,da Cruz das Flores
+CUST001230,MG,Casa Grande de Oliveira
+CUST001231,RN,Pires das Pedras
+CUST001232,SP,Machado de Minas
+CUST001233,SP,Guerra
+CUST001234,SP,Sales da Praia
+CUST001235,DF,Mendonça de Duarte
+CUST001236,MG,Vasconcelos
+CUST001237,MA,Siqueira
+CUST001238,RS,Porto de Rios
+CUST001239,AM,Azevedo da Prata
+CUST001240,SP,Cunha das Pedras
+CUST001241,PB,Monteiro
+CUST001242,PA,Duarte da Mata
+CUST001243,PA,Novaes Verde
+CUST001244,MS,Nunes
+CUST001245,PA,Viana de Fernandes
+CUST001246,BA,Aparecida
+CUST001247,SP,Pires
+CUST001248,SP,Almeida de Campos
+CUST001249,PI,Macedo
+CUST001250,BA,Abreu de Lima
+CUST001251,ES,Sales
+CUST001252,RS,Rezende
+CUST001253,SP,Castro Paulista
+CUST001254,SP,Rezende
+CUST001255,GO,da Cunha de Minas
+CUST001256,MG,Rios da Serra
+CUST001257,SP,Gonçalves
+CUST001258,RS,Silveira de Goiás
+CUST001259,SP,Rezende de Minas
+CUST001260,SC,Abreu
+CUST001261,RJ,Mendes
+CUST001262,ES,Cardoso
+CUST001263,RJ,Moreira
+CUST001264,RS,Albuquerque de Albuquerque
+CUST001265,SP,Campos das Pedras
+CUST001266,SP,Mendes
+CUST001267,MG,da Conceição
+CUST001268,RS,Borges do Campo
+CUST001269,BA,Dias
+CUST001270,RJ,da Rosa Grande
+CUST001271,PE,Vasconcelos Grande
+CUST001272,MA,Azevedo
+CUST001273,PA,Pimenta
+CUST001274,SP,Macedo
+CUST001275,RS,Silveira do Oeste
+CUST001276,SP,Jesus
+CUST001277,SP,Cunha de Borges
+CUST001278,AP,Carvalho
+CUST001279,SP,Pastor
+CUST001280,RS,Ferreira das Pedras
+CUST001281,BA,Vieira Grande
+CUST001282,PE,da Mota
+CUST001283,SC,da Cruz
+CUST001284,SP,Vasconcelos do Sul
+CUST001285,RJ,Costela do Galho
+CUST001286,PR,Souza
+CUST001287,SP,da Rocha do Norte
+CUST001288,RJ,Monteiro
+CUST001289,SP,Camargo de Goiás
+CUST001290,SP,Porto de Peixoto
+CUST001291,MG,Moura
+CUST001292,SP,Fonseca
+CUST001293,SC,Cardoso das Flores
+CUST001294,PE,Fonseca da Prata
+CUST001295,ES,Teixeira
+CUST001296,SP,Vargas de Barbosa
+CUST001297,SP,Pastor
+CUST001298,SP,Albuquerque
+CUST001299,DF,Cunha do Norte
+CUST001300,PE,Vieira
+CUST001301,SP,Montenegro da Mata
+CUST001302,RO,Lima das Flores
+CUST001303,SP,Porto
+CUST001304,PR,da Mota
+CUST001305,PE,das Neves
+CUST001306,PB,Moraes
+CUST001307,PE,Cassiano
+CUST001308,ES,Gonçalves Verde
+CUST001309,RJ,das Neves
+CUST001310,MT,Siqueira de Goiás
+CUST001311,SP,da Cruz
+CUST001312,AL,Lopes
+CUST001313,SC,Marques
+CUST001314,MT,das Neves
+CUST001315,RS,Campos
+CUST001316,DF,Santos
+CUST001317,PR,Sampaio
+CUST001318,CE,Castro
+CUST001319,SP,Ferreira de Moreira
+CUST001320,SP,Cavalcante da Praia
+CUST001321,RJ,Souza
+CUST001322,SP,Siqueira do Campo
+CUST001323,PB,Farias
+CUST001324,SP,da Mata do Galho
+CUST001325,AM,da Luz
+CUST001326,RJ,Monteiro
+CUST001327,SP,Moraes de Fonseca
+CUST001328,ES,Monteiro
+CUST001329,DF,Freitas
+CUST001330,RS,da Cunha
+CUST001331,SC,Oliveira
+CUST001332,PE,da Conceição
+CUST001333,SP,Aparecida
+CUST001334,RR,da Cruz
+CUST001335,AM,Melo
+CUST001336,DF,Gomes Grande
+CUST001337,SP,Andrade
+CUST001338,GO,Câmara Alegre
+CUST001339,SP,Leão
+CUST001340,SP,da Mata de Minas
+CUST001341,RJ,Campos do Galho
+CUST001342,RS,Cavalcanti
+CUST001343,PB,Moreira
+CUST001344,CE,Guerra
+CUST001345,CE,Martins
+CUST001346,MG,Vasconcelos da Mata
+CUST001347,RJ,Borges da Prata
+CUST001348,MG,Albuquerque de Freitas
+CUST001349,AP,da Rocha
+CUST001350,SP,Sousa de Goiás
+CUST001351,PB,Freitas de Pastor
+CUST001352,SC,Vargas de Vasconcelos
+CUST001353,MG,Siqueira
+CUST001354,PE,Cassiano
+CUST001355,RS,Jesus
+CUST001356,PB,da Conceição
+CUST001357,AL,Porto do Sul
+CUST001358,MG,Abreu das Flores
+CUST001359,RJ,Caldeira do Oeste
+CUST001360,BA,Leão
+CUST001361,PI,Araújo de Casa Grande
+CUST001362,SP,Borges do Norte
+CUST001363,BA,Moreira
+CUST001364,DF,Sampaio da Praia
+CUST001365,CE,Souza de Barros
+CUST001366,SP,Montenegro
+CUST001367,PE,Porto
+CUST001368,PI,Barbosa Verde
+CUST001369,SP,Lopes
+CUST001370,SP,da Costa
+CUST001371,AM,da Luz Alegre
+CUST001372,SP,Sampaio Alegre
+CUST001373,MA,Machado Paulista
+CUST001374,RS,Barbosa
+CUST001375,RJ,Carvalho
+CUST001376,PB,Cassiano
+CUST001377,RS,Cavalcante
+CUST001378,PR,Martins de Dias
+CUST001379,MG,Campos da Prata
+CUST001380,BA,Vargas do Oeste
+CUST001381,SP,das Neves de Martins
+CUST001382,MG,Campos de Minas
+CUST001383,AM,Rodrigues
+CUST001384,RJ,Santos do Norte
+CUST001385,DF,Duarte
+CUST001386,RJ,Borges
+CUST001387,PA,Fogaça
+CUST001388,SP,Moraes do Norte
+CUST001389,AM,da Luz da Serra
+CUST001390,RS,Guerra
+CUST001391,SP,Novais de Souza
+CUST001392,SP,Brito
+CUST001393,SP,Caldeira de Vieira
+CUST001394,PR,Campos
+CUST001395,RJ,Araújo
+CUST001396,MT,Cardoso
+CUST001397,MG,Guerra
+CUST001398,RJ,Rodrigues de Minas
+CUST001399,BA,Barbosa do Sul
+CUST001400,PE,Costa
+CUST001401,SP,Cardoso de Borges
+CUST001402,SP,Campos do Norte
+CUST001403,SP,Aragão de Cavalcante
+CUST001404,CE,Silveira das Flores
+CUST001405,GO,Alves de Garcia
+CUST001406,RS,Cavalcanti da Praia
+CUST001407,MS,Cirino
+CUST001408,ES,da Mota dos Dourados
+CUST001409,BA,Andrade
+CUST001410,PB,Ramos
+CUST001411,SP,Monteiro das Pedras
+CUST001412,SP,Araújo de Borges
+CUST001413,RJ,Gomes Grande
+CUST001414,SP,Costa do Galho
+CUST001415,PR,Pires
+CUST001416,RO,Garcia
+CUST001417,SP,Mendes da Prata
+CUST001418,SP,Ferreira de Nunes
+CUST001419,RS,Gomes Paulista
+CUST001420,RO,Alves
+CUST001421,RJ,Peixoto de Goiás
+CUST001422,PR,Vasconcelos
+CUST001423,SP,Araújo do Amparo
+CUST001424,SP,Vargas Verde
+CUST001425,AP,Castro
+CUST001426,AC,da Cruz
+CUST001427,SP,da Mata
+CUST001428,TO,Teixeira
+CUST001429,DF,Oliveira
+CUST001430,PB,Fogaça da Serra
+CUST001431,RS,da Costa
+CUST001432,PR,Sousa da Praia
+CUST001433,RS,Santos
+CUST001434,GO,Nunes Verde
+CUST001435,SP,Nunes
+CUST001436,SP,Monteiro
+CUST001437,RJ,Cavalcanti do Amparo
+CUST001438,PE,Borges
+CUST001439,SP,da Conceição
+CUST001440,GO,Almeida
+CUST001441,AM,Abreu de Farias
+CUST001442,SP,Cardoso
+CUST001443,GO,Silva da Serra
+CUST001444,MG,Araújo do Sul
+CUST001445,PB,Pastor
+CUST001446,SP,Vasconcelos
+CUST001447,PE,Moura
+CUST001448,MS,Barbosa da Praia
+CUST001449,TO,Pastor do Campo
+CUST001450,GO,da Rosa Alegre
+CUST001451,RS,Castro
+CUST001452,BA,Vieira do Amparo
+CUST001453,PB,Cavalcanti da Prata
+CUST001454,SC,Câmara Verde
+CUST001455,SP,Garcia
+CUST001456,SE,Siqueira da Mata
+CUST001457,PE,Cavalcanti
+CUST001458,GO,Sampaio
+CUST001459,SP,Vargas Verde
+CUST001460,DF,Cirino
+CUST001461,MG,Pimenta de Goiás
+CUST001462,DF,Monteiro
+CUST001463,SP,Farias
+CUST001464,DF,da Costa
+CUST001465,RR,Dias da Serra
+CUST001466,SP,Santos
+CUST001467,AM,Machado do Sul
+CUST001468,MG,Costela de Goiás
+CUST001469,PB,Ferreira
+CUST001470,PA,Viana do Campo
+CUST001471,SC,Aragão
+CUST001472,CE,Macedo das Pedras
+CUST001473,PB,Jesus
+CUST001474,MG,Garcia de Ferreira
+CUST001475,RJ,Brito do Amparo
+CUST001476,GO,Castro
+CUST001477,ES,Barbosa de Andrade
+CUST001478,PA,Almeida Alegre
+CUST001479,ES,Caldeira de Minas
+CUST001480,MG,Cavalcante das Flores
+CUST001481,MT,Siqueira
+CUST001482,SP,Novaes
+CUST001483,SC,Fernandes
+CUST001484,SP,Santos de Alves
+CUST001485,RJ,Rezende da Serra
+CUST001486,MG,Castro do Norte
+CUST001487,MG,Farias
+CUST001488,PE,Correia
+CUST001489,MG,Sampaio da Prata
+CUST001490,RS,Ribeiro da Mata
+CUST001491,SP,da Costa do Campo
+CUST001492,MG,Gonçalves
+CUST001493,SP,Cassiano de Aragão
+CUST001494,SP,Abreu das Pedras
+CUST001495,BA,da Rocha
+CUST001496,GO,Costa de Brito
+CUST001497,BA,Costela
+CUST001498,RS,Porto
+CUST001499,MG,Barros do Amparo
+CUST001500,MA,das Neves
+CUST001501,PR,Melo do Amparo
+CUST001502,RS,Borges da Prata
+CUST001503,SP,Cirino da Praia
+CUST001504,RJ,Freitas da Serra
+CUST001505,MG,Aparecida de da Luz
+CUST001506,MG,Martins de da Luz
+CUST001507,SC,da Mata
+CUST001508,PR,Cassiano
+CUST001509,BA,Barros
+CUST001510,PA,Nogueira das Pedras
+CUST001511,MT,Novaes
+CUST001512,PE,Gomes
+CUST001513,TO,Nascimento do Amparo
+CUST001514,SP,Melo
+CUST001515,SP,Barros das Flores
+CUST001516,SP,Montenegro
+CUST001517,DF,Campos
+CUST001518,AL,Cavalcanti de Cavalcante
+CUST001519,SP,Correia
+CUST001520,SE,Aparecida
+CUST001521,SP,Barros das Pedras
+CUST001522,RO,Pires
+CUST001523,RJ,Peixoto
+CUST001524,SP,Dias de Minas
+CUST001525,RS,Gomes
+CUST001526,RJ,Novaes Alegre
+CUST001527,RJ,Moreira dos Dourados
+CUST001528,RJ,Viana
+CUST001529,ES,Camargo das Pedras
+CUST001530,PR,Casa Grande
+CUST001531,RJ,Caldeira
+CUST001532,BA,Viana
+CUST001533,PE,Nascimento da Praia
+CUST001534,RJ,da Luz das Flores
+CUST001535,MG,Oliveira de Pereira
+CUST001536,SP,Andrade de Cavalcanti
+CUST001537,SP,Guerra Grande
+CUST001538,GO,Andrade das Flores
+CUST001539,SP,Sales de Goiás
+CUST001540,PR,Souza
+CUST001541,PE,da Mata de Freitas
+CUST001542,SP,Fernandes
+CUST001543,SC,das Neves Paulista
+CUST001544,RJ,Sampaio de Rodrigues
+CUST001545,AC,da Conceição
+CUST001546,RS,da Rosa
+CUST001547,ES,Vasconcelos de Duarte
+CUST001548,SC,Siqueira das Pedras
+CUST001549,SP,Correia
+CUST001550,DF,Cunha de Jesus
+CUST001551,TO,Teixeira de Moreira
+CUST001552,BA,Araújo do Galho
+CUST001553,MT,Azevedo
+CUST001554,RN,Santos do Galho
+CUST001555,SP,Carvalho do Galho
+CUST001556,SP,Cavalcanti
+CUST001557,BA,Costa
+CUST001558,MG,da Cruz
+CUST001559,MS,Marques
+CUST001560,AL,Fonseca
+CUST001561,RJ,da Mota
+CUST001562,SP,Martins do Galho
+CUST001563,PA,Porto do Campo
+CUST001564,RJ,da Costa
+CUST001565,MT,Mendonça dos Dourados
+CUST001566,MG,Melo
+CUST001567,GO,Ferreira da Serra
+CUST001568,SP,Souza de Minas
+CUST001569,BA,Alves das Flores
+CUST001570,RS,Castro
+CUST001571,BA,Câmara
+CUST001572,SP,Rocha
+CUST001573,CE,da Mata
+CUST001574,MA,Moraes do Sul
+CUST001575,SP,Melo
+CUST001576,SP,Ramos
+CUST001577,SP,Peixoto
+CUST001578,DF,Câmara
+CUST001579,BA,Pereira da Mata
+CUST001580,SC,Lima das Flores
+CUST001581,SP,Marques Paulista
+CUST001582,MG,Martins
+CUST001583,BA,Rocha do Galho
+CUST001584,RS,Pacheco do Campo
+CUST001585,AP,Moraes
+CUST001586,SP,Novais da Mata
+CUST001587,PE,Rodrigues do Campo
+CUST001588,MG,Azevedo de Fernandes
+CUST001589,MG,Porto Alegre
+CUST001590,PE,da Luz da Mata
+CUST001591,PE,Cassiano
+CUST001592,RR,Araújo
+CUST001593,SP,Ribeiro Alegre
+CUST001594,SP,Silveira
+CUST001595,PE,Rezende
+CUST001596,SC,da Rocha de da Luz
+CUST001597,RJ,Guerra das Flores
+CUST001598,SP,Pacheco
+CUST001599,SP,Fernandes
+CUST001600,RN,Rodrigues
+CUST001601,SP,Rios de Fogaça
+CUST001602,RJ,Cavalcante da Prata
+CUST001603,SP,da Rocha
+CUST001604,RJ,Melo
+CUST001605,SP,Sousa
+CUST001606,PR,Silveira da Prata
+CUST001607,SP,Rodrigues
+CUST001608,ES,Rezende de Minas
+CUST001609,SP,Fogaça
+CUST001610,PR,Souza
+CUST001611,PB,Leão Alegre
+CUST001612,DF,da Luz Verde
+CUST001613,PR,Martins do Campo
+CUST001614,RJ,Aragão de Porto
+CUST001615,RJ,Melo
+CUST001616,GO,Montenegro
+CUST001617,RR,Rodrigues
+CUST001618,GO,Moura da Mata
+CUST001619,SC,Aragão Grande
+CUST001620,CE,Costa
+CUST001621,RS,Jesus Verde
+CUST001622,SP,Casa Grande de Dias
+CUST001623,SC,Vasconcelos
+CUST001624,AC,Mendonça
+CUST001625,SP,Pires da Serra
+CUST001626,PE,Porto do Norte
+CUST001627,SP,Machado
+CUST001628,PR,Costela da Serra
+CUST001629,SP,Mendonça
+CUST001630,RS,Cardoso
+CUST001631,CE,Porto das Pedras
+CUST001632,RJ,Lima do Amparo
+CUST001633,GO,Abreu do Norte
+CUST001634,ES,Siqueira
+CUST001635,SE,Albuquerque Alegre
+CUST001636,SP,Almeida
+CUST001637,MG,Pires
+CUST001638,SP,Câmara
+CUST001639,RR,das Neves Grande
+CUST001640,SE,Gomes
+CUST001641,PR,Cavalcante de Minas
+CUST001642,MS,da Rosa
+CUST001643,PR,Marques do Galho
+CUST001644,BA,Lopes Grande
+CUST001645,SP,Mendonça da Praia
+CUST001646,CE,Cavalcante
+CUST001647,SP,Almeida de Goiás
+CUST001648,MT,Siqueira
+CUST001649,PA,Cunha
+CUST001650,PE,Pastor
+CUST001651,SP,Campos
+CUST001652,RJ,Silva do Norte
+CUST001653,RJ,Porto Paulista
+CUST001654,MG,Peixoto
+CUST001655,SP,Ribeiro
+CUST001656,RO,Rezende
+CUST001657,SC,Aragão
+CUST001658,RJ,Leão
+CUST001659,MG,Garcia de Campos
+CUST001660,RS,Melo Grande
+CUST001661,BA,Sales
+CUST001662,PR,da Rosa
+CUST001663,PI,Ribeiro do Campo
+CUST001664,RS,Pinto Grande
+CUST001665,RR,Caldeira do Galho
+CUST001666,MA,da Paz
+CUST001667,SP,Viana
+CUST001668,SE,Monteiro
+CUST001669,SP,Pereira
+CUST001670,MT,Vasconcelos
+CUST001671,MG,Moreira do Oeste
+CUST001672,PB,Santos das Pedras
+CUST001673,PB,Castro do Norte
+CUST001674,ES,Costela de Sales
+CUST001675,ES,Farias de da Costa
+CUST001676,RJ,Albuquerque
+CUST001677,SP,Camargo
+CUST001678,MG,Cassiano de Borges
+CUST001679,SP,Silveira
+CUST001680,PE,da Cunha
+CUST001681,RJ,Marques
+CUST001682,AM,da Luz dos Dourados
+CUST001683,DF,Brito
+CUST001684,MT,Aparecida
+CUST001685,SP,Fonseca Alegre
+CUST001686,MA,Sousa do Campo
+CUST001687,SE,Teixeira
+CUST001688,RS,Albuquerque
+CUST001689,BA,Ribeiro
+CUST001690,PA,Farias
+CUST001691,SP,Macedo Paulista
+CUST001692,PR,Freitas
+CUST001693,MG,Cirino do Campo
+CUST001694,SP,Guerra dos Dourados
+CUST001695,MG,Gomes do Amparo
+CUST001696,SP,Rezende da Serra
+CUST001697,SP,Cardoso
+CUST001698,SP,Castro
+CUST001699,AC,Leão
+CUST001700,SC,Nunes de Rocha
+CUST001701,AC,Cirino de Pimenta
+CUST001702,MG,Vasconcelos da Praia
+CUST001703,RJ,Rodrigues
+CUST001704,PR,Mendes
+CUST001705,MG,Camargo de Jesus
+CUST001706,SP,Aparecida de Azevedo
+CUST001707,DF,Rezende Alegre
+CUST001708,SP,Santos
+CUST001709,BA,Rios
+CUST001710,DF,Moreira do Galho
+CUST001711,SP,Lopes
+CUST001712,SP,Mendes
+CUST001713,PA,Ribeiro das Flores
+CUST001714,RS,Novais
+CUST001715,SP,Albuquerque
+CUST001716,RR,Montenegro
+CUST001717,SP,Monteiro de Cavalcante
+CUST001718,PE,Sá
+CUST001719,AP,Duarte de da Costa
+CUST001720,SP,da Mota do Norte
+CUST001721,SP,Novaes
+CUST001722,SP,Guerra de Goiás
+CUST001723,RJ,Marques
+CUST001724,SP,Oliveira de Machado
+CUST001725,PE,Monteiro
+CUST001726,SP,Dias de Campos
+CUST001727,PR,Souza de Rezende
+CUST001728,RR,Caldeira
+CUST001729,MT,Jesus do Norte
+CUST001730,BA,Borges
+CUST001731,RJ,Moraes da Prata
+CUST001732,BA,Rezende
+CUST001733,PR,Fernandes de Fonseca
+CUST001734,MG,Câmara
+CUST001735,SP,Farias de Novais
+CUST001736,RN,Silva de Ribeiro
+CUST001737,RS,Silva dos Dourados
+CUST001738,SP,Brito
+CUST001739,MG,Abreu
+CUST001740,MG,Fogaça da Mata
+CUST001741,MT,Sampaio do Campo
+CUST001742,CE,Cavalcante
+CUST001743,PA,Carvalho de Silva
+CUST001744,SP,Caldeira Paulista
+CUST001745,MG,Correia
+CUST001746,RS,Gonçalves
+CUST001747,SP,Marques
+CUST001748,RJ,Silva
+CUST001749,PA,Caldeira das Pedras
+CUST001750,SP,Porto
+CUST001751,PR,Vargas
+CUST001752,SP,Marques de Ribeiro
+CUST001753,SP,Monteiro
+CUST001754,SP,Moura
+CUST001755,AM,Novaes
+CUST001756,ES,Pacheco do Amparo
+CUST001757,AC,Sales
+CUST001758,RS,Siqueira
+CUST001759,SP,Caldeira
+CUST001760,SC,Ribeiro Alegre
+CUST001761,RS,Leão de Goiás
+CUST001762,MS,Gonçalves Alegre
+CUST001763,SP,Machado Grande
+CUST001764,RS,Jesus
+CUST001765,SP,Sampaio da Prata
+CUST001766,RJ,Silva da Prata
+CUST001767,CE,Costa
+CUST001768,RS,Pinto
+CUST001769,MG,Rodrigues da Praia
+CUST001770,MG,Santos
+CUST001771,RS,Montenegro
+CUST001772,PA,Santos do Campo
+CUST001773,RN,Novais do Amparo
+CUST001774,TO,Rocha da Prata
+CUST001775,PA,Lima do Sul
+CUST001776,RJ,Alves
+CUST001777,PE,Casa Grande do Norte
+CUST001778,MG,Costa
+CUST001779,RJ,Sá da Serra
+CUST001780,MS,Rodrigues Paulista
+CUST001781,SP,Araújo
+CUST001782,AL,Costela da Prata
+CUST001783,RS,Fogaça
+CUST001784,DF,Caldeira de Pimenta
+CUST001785,DF,Souza
+CUST001786,AL,da Costa do Galho
+CUST001787,DF,Sales do Norte
+CUST001788,BA,Gomes das Pedras
+CUST001789,SP,Novaes do Norte
+CUST001790,PR,Souza
+CUST001791,SP,Costa dos Dourados
+CUST001792,CE,Porto
+CUST001793,PR,Sá Verde
+CUST001794,GO,Vasconcelos
+CUST001795,SP,da Rocha
+CUST001796,SP,Cavalcanti de Rodrigues
+CUST001797,PE,Cirino
+CUST001798,SP,Sousa
+CUST001799,SP,Garcia
+CUST001800,SP,Lima
+CUST001801,AC,Novais Paulista
+CUST001802,CE,Castro
+CUST001803,RJ,Abreu Alegre
+CUST001804,RJ,Santos de Cassiano
+CUST001805,RJ,Cassiano
+CUST001806,PA,Peixoto do Norte
+CUST001807,GO,Mendonça Verde
+CUST001808,SP,Barbosa Alegre
+CUST001809,SP,Cirino
+CUST001810,SP,Viana
+CUST001811,DF,Leão
+CUST001812,PA,Borges da Praia
+CUST001813,RJ,Cunha
+CUST001814,SP,Farias da Praia
+CUST001815,SP,Cunha do Galho
+CUST001816,AM,Novais de Sá
+CUST001817,RJ,Camargo
+CUST001818,PA,Machado de Goiás
+CUST001819,BA,Aparecida
+CUST001820,MG,Garcia do Campo
+CUST001821,SP,da Cunha da Prata
+CUST001822,SP,Alves do Galho
+CUST001823,BA,Moraes do Galho
+CUST001824,PA,Mendonça de Aparecida
+CUST001825,DF,Rezende do Oeste
+CUST001826,PR,Moraes de Minas
+CUST001827,SP,Cavalcante
+CUST001828,AM,Pires
+CUST001829,ES,Costela
+CUST001830,RJ,Rodrigues
+CUST001831,AP,Caldeira do Oeste
+CUST001832,BA,Ramos de Minas
+CUST001833,SC,Alves
+CUST001834,CE,Silva de Farias
+CUST001835,MT,Borges
+CUST001836,DF,Aragão
+CUST001837,SP,Vieira
+CUST001838,RJ,Novais de Minas
+CUST001839,SE,da Luz
+CUST001840,SP,Gomes dos Dourados
+CUST001841,MG,Lopes Alegre
+CUST001842,MG,Gomes
+CUST001843,MG,Nascimento
+CUST001844,BA,Ramos
+CUST001845,RO,Sá
+CUST001846,SP,Sampaio
+CUST001847,SP,Fogaça
+CUST001848,SP,da Rocha
+CUST001849,RN,Pereira de Minas
+CUST001850,DF,Teixeira dos Dourados
+CUST001851,RJ,Gonçalves do Sul
+CUST001852,MT,Castro de Nascimento
+CUST001853,MA,Carvalho
+CUST001854,MS,Vieira da Prata
+CUST001855,PI,Porto Grande
+CUST001856,RJ,Rocha da Praia
+CUST001857,CE,Novaes
+CUST001858,RS,Campos
+CUST001859,MS,Abreu
+CUST001860,CE,Nascimento da Prata
+CUST001861,PA,das Neves
+CUST001862,DF,Souza
+CUST001863,SP,Cunha das Pedras
+CUST001864,SC,Castro
+CUST001865,AP,Câmara
+CUST001866,RO,Correia do Campo
+CUST001867,SP,Rios
+CUST001868,SP,Sá
+CUST001869,SP,Ramos de Novaes
+CUST001870,PE,da Rocha
+CUST001871,MT,da Cunha
+CUST001872,SP,Costa
+CUST001873,PR,Farias de Fogaça
+CUST001874,MS,Rios
+CUST001875,CE,Brito
+CUST001876,PR,Pinto de Minas
+CUST001877,BA,Dias
+CUST001878,PR,Machado de Farias
+CUST001879,RJ,Sales Verde
+CUST001880,SC,Nunes
+CUST001881,PE,Dias das Pedras
+CUST001882,PB,Abreu
+CUST001883,DF,da Cruz de Goiás
+CUST001884,PA,da Mota da Praia
+CUST001885,SP,Rocha
+CUST001886,RS,Mendes dos Dourados
+CUST001887,SP,Fogaça de Vasconcelos
+CUST001888,RJ,Mendonça da Prata
+CUST001889,PE,Cavalcanti
+CUST001890,RR,da Mota
+CUST001891,SP,Nascimento
+CUST001892,MG,da Luz
+CUST001893,ES,Siqueira
+CUST001894,SP,Almeida
+CUST001895,SC,Pacheco
+CUST001896,CE,Vargas Verde
+CUST001897,BA,Andrade
+CUST001898,SP,Nogueira da Prata
+CUST001899,MG,Rezende de Vasconcelos
+CUST001900,PA,Fonseca
+CUST001901,SC,Câmara Verde
+CUST001902,SP,Carvalho dos Dourados
+CUST001903,PA,Gonçalves
+CUST001904,SP,Montenegro do Sul
+CUST001905,CE,Pimenta
+CUST001906,SP,Sá
+CUST001907,AC,Machado
+CUST001908,MG,Cavalcanti
+CUST001909,RJ,Sousa
+CUST001910,SP,Fogaça de Aparecida
+CUST001911,RJ,Teixeira
+CUST001912,PB,da Conceição de Azevedo
+CUST001913,RR,Freitas de Goiás
+CUST001914,MG,Rios
+CUST001915,RS,Moreira
+CUST001916,PE,Gomes do Amparo
+CUST001917,RN,Aparecida de Aparecida
+CUST001918,BA,Caldeira do Galho
+CUST001919,MG,Sousa Paulista
+CUST001920,MG,Garcia
+CUST001921,PE,Fonseca Verde
+CUST001922,SP,Moreira
+CUST001923,BA,Garcia de Goiás
+CUST001924,MG,Fogaça da Praia
+CUST001925,ES,Vieira de Mendes
+CUST001926,SP,Montenegro
+CUST001927,BA,Macedo
+CUST001928,RS,da Conceição
+CUST001929,DF,Moraes
+CUST001930,SP,Cunha Grande
+CUST001931,SC,Castro
+CUST001932,SC,Pereira do Campo
+CUST001933,SC,Leão
+CUST001934,BA,Silveira do Campo
+CUST001935,GO,Rocha de Mendes
+CUST001936,ES,Costela de Pastor
+CUST001937,RJ,Ramos
+CUST001938,MT,Almeida de Goiás
+CUST001939,RS,Cardoso
+CUST001940,SP,Carvalho
+CUST001941,SP,Oliveira
+CUST001942,RJ,Araújo
+CUST001943,PA,da Luz
+CUST001944,PE,Moreira
+CUST001945,ES,Peixoto Verde
+CUST001946,PR,Silveira
+CUST001947,MG,Barros do Oeste
+CUST001948,SP,Pereira de Melo
+CUST001949,RJ,Cavalcante de Câmara
+CUST001950,MG,Peixoto Grande
+CUST001951,SP,Pinto
+CUST001952,SP,Cavalcante Alegre
+CUST001953,BA,Peixoto de Pastor
+CUST001954,CE,da Conceição
+CUST001955,RR,Gomes Grande
+CUST001956,SE,Almeida
+CUST001957,DF,Moreira
+CUST001958,MG,Cassiano do Campo
+CUST001959,DF,Melo
+CUST001960,PA,Viana
+CUST001961,SP,Borges
+CUST001962,MG,Ribeiro de Cardoso
+CUST001963,MS,Vasconcelos
+CUST001964,MG,Moreira das Pedras
+CUST001965,SC,Aparecida do Galho
+CUST001966,BA,da Conceição do Amparo
+CUST001967,SP,Ferreira Verde
+CUST001968,MG,Lima
+CUST001969,RJ,da Cunha
+CUST001970,SP,Vargas de da Conceição
+CUST001971,SP,da Paz
+CUST001972,MS,da Cunha do Oeste
+CUST001973,RJ,Santos
+CUST001974,PR,Oliveira
+CUST001975,RJ,Moreira
+CUST001976,RO,Garcia
+CUST001977,RJ,Sales
+CUST001978,MG,Jesus da Praia
+CUST001979,PB,Cassiano
+CUST001980,MS,Rezende Verde
+CUST001981,SP,da Luz da Prata
+CUST001982,ES,Nunes da Praia
+CUST001983,RS,Rodrigues das Flores
+CUST001984,RS,Jesus
+CUST001985,SP,Cavalcanti de Freitas
+CUST001986,SP,da Cunha de das Neves
+CUST001987,CE,Vasconcelos das Flores
+CUST001988,RS,Ribeiro
+CUST001989,MG,Souza
+CUST001990,CE,Machado
+CUST001991,PA,Brito
+CUST001992,SP,Moraes
+CUST001993,BA,Viana Alegre
+CUST001994,SP,Castro
+CUST001995,CE,Porto do Sul
+CUST001996,DF,Casa Grande
+CUST001997,AC,Peixoto de Lopes
+CUST001998,SP,Azevedo
+CUST001999,SP,Câmara da Praia
+CUST002000,RJ,Pereira
+CUST002001,RJ,Silveira
+CUST002002,RJ,Guerra do Galho
+CUST002003,AL,Silva do Norte
+CUST002004,RJ,Porto
+CUST002005,RJ,Macedo de Albuquerque
+CUST002006,CE,Ribeiro
+CUST002007,RS,Correia do Norte
+CUST002008,PA,Pimenta
+CUST002009,SP,Rocha
+CUST002010,RS,Fonseca
+CUST002011,SP,Rezende
+CUST002012,SP,Castro
+CUST002013,AL,da Mota
+CUST002014,SP,Fogaça das Flores
+CUST002015,PR,Pastor do Oeste
+CUST002016,MG,Sousa
+CUST002017,RJ,Borges
+CUST002018,AL,Silveira da Prata
+CUST002019,SP,Ferreira Paulista
+CUST002020,GO,Pereira
+CUST002021,AC,Marques
+CUST002022,SC,Oliveira do Sul
+CUST002023,RO,Cavalcanti das Pedras
+CUST002024,SP,Novais
+CUST002025,MG,Montenegro
+CUST002026,RJ,Fernandes do Campo
+CUST002027,CE,Nascimento Verde
+CUST002028,AP,Sales dos Dourados
+CUST002029,RJ,Nunes do Amparo
+CUST002030,DF,Sá
+CUST002031,SP,Vasconcelos dos Dourados
+CUST002032,SC,Pastor de Alves
+CUST002033,RS,Camargo de da Luz
+CUST002034,AM,Garcia
+CUST002035,BA,Rocha
+CUST002036,RJ,Dias
+CUST002037,SP,Fogaça do Galho
+CUST002038,SP,Sampaio
+CUST002039,SP,da Cruz da Mata
+CUST002040,RJ,Guerra
+CUST002041,MA,Barbosa da Prata
+CUST002042,SC,Melo
+CUST002043,PR,Fogaça do Oeste
+CUST002044,SP,Cirino do Oeste
+CUST002045,MA,Sousa de Costa
+CUST002046,PE,Sousa
+CUST002047,SP,da Luz
+CUST002048,PE,da Conceição
+CUST002049,PR,da Cruz
+CUST002050,SP,Cassiano do Campo
+CUST002051,RS,Barros
+CUST002052,RS,Pimenta de Abreu
+CUST002053,SP,Mendes
+CUST002054,TO,Pinto Alegre
+CUST002055,MA,Oliveira de da Mota
+CUST002056,GO,Cirino de Teixeira
+CUST002057,RS,Gonçalves de Goiás
+CUST002058,MG,Aragão
+CUST002059,DF,Mendes da Prata
+CUST002060,SC,Montenegro
+CUST002061,SP,Gonçalves da Serra
+CUST002062,PR,Campos de Sampaio
+CUST002063,ES,Dias de Sales
+CUST002064,RS,Albuquerque
+CUST002065,SP,Garcia
+CUST002066,PA,Duarte
+CUST002067,SP,Pimenta Paulista
+CUST002068,RJ,Novaes
+CUST002069,SP,da Costa Paulista
+CUST002070,RJ,Pimenta de Fernandes
+CUST002071,CE,Cirino do Amparo
+CUST002072,PR,Costela das Pedras
+CUST002073,SP,Fonseca das Flores
+CUST002074,PB,Machado da Serra
+CUST002075,PB,Oliveira
+CUST002076,PB,Brito
+CUST002077,SP,da Costa da Prata
+CUST002078,RS,Garcia do Oeste
+CUST002079,AP,Sousa
+CUST002080,PA,Melo
+CUST002081,SP,Cavalcanti
+CUST002082,SP,Monteiro Grande
+CUST002083,RS,Viana do Amparo
+CUST002084,PI,da Cunha da Prata
+CUST002085,PR,Gonçalves
+CUST002086,RS,Sales
+CUST002087,SP,Araújo
+CUST002088,DF,da Cunha
+CUST002089,MT,Pires de Brito
+CUST002090,MG,Souza de Farias
+CUST002091,PA,Fonseca da Praia
+CUST002092,AC,Ferreira do Sul
+CUST002093,SP,Campos da Praia
+CUST002094,PR,Oliveira
+CUST002095,RJ,Vasconcelos
+CUST002096,ES,Fogaça Alegre
+CUST002097,SC,Vasconcelos de Sousa
+CUST002098,DF,Barros de Garcia
+CUST002099,ES,Martins Grande
+CUST002100,MG,Porto
+CUST002101,PI,Leão Verde
+CUST002102,PR,Barbosa de Minas
+CUST002103,SP,Fernandes
+CUST002104,PE,Dias
+CUST002105,ES,Rezende da Mata
+CUST002106,RJ,Pereira das Flores
+CUST002107,MA,Macedo da Praia
+CUST002108,AL,Jesus de Cavalcante
+CUST002109,RJ,Almeida
+CUST002110,AP,Siqueira
+CUST002111,SP,Ribeiro
+CUST002112,SP,Souza de Minas
+CUST002113,SP,Cavalcante
+CUST002114,RN,Caldeira do Campo
+CUST002115,DF,Melo
+CUST002116,SP,Alves
+CUST002117,MG,Moura de Minas
+CUST002118,BA,da Luz
+CUST002119,SP,Barros
+CUST002120,RN,das Neves de Goiás
+CUST002121,ES,Sousa
+CUST002122,PR,Macedo Grande
+CUST002123,AM,Moura
+CUST002124,MG,Alves
+CUST002125,AP,Ribeiro
+CUST002126,GO,Duarte do Amparo
+CUST002127,DF,Nogueira de da Mata
+CUST002128,SP,Carvalho de Sampaio
+CUST002129,RN,Pastor
+CUST002130,MG,Pires de Souza
+CUST002131,SP,Moura da Prata
+CUST002132,SP,Ferreira do Amparo
+CUST002133,SC,Borges
+CUST002134,PR,das Neves de Fonseca
+CUST002135,PE,da Luz Grande
+CUST002136,RN,Albuquerque do Sul
+CUST002137,SP,Ferreira
+CUST002138,CE,Melo da Prata
+CUST002139,SP,Sales
+CUST002140,MA,Sá de Mendes
+CUST002141,MT,Albuquerque das Pedras
+CUST002142,PR,Peixoto de Goiás
+CUST002143,PE,Novaes
+CUST002144,RJ,Correia das Pedras
+CUST002145,RS,Gonçalves de Goiás
+CUST002146,MT,Silva
+CUST002147,RS,Garcia de Goiás
+CUST002148,MG,Barros das Pedras
+CUST002149,RS,Moreira
+CUST002150,MT,da Paz da Prata
+CUST002151,RJ,Jesus do Oeste
+CUST002152,SP,Cirino
+CUST002153,PE,da Rocha
+CUST002154,MT,Porto
+CUST002155,SP,Pinto de Machado
+CUST002156,SP,Sampaio do Amparo
+CUST002157,SP,Duarte
+CUST002158,RJ,Cassiano
+CUST002159,RS,Nascimento
+CUST002160,CE,Cirino
+CUST002161,DF,da Paz
+CUST002162,BA,Cardoso dos Dourados
+CUST002163,RJ,da Conceição
+CUST002164,MS,Cassiano
+CUST002165,RS,Monteiro
+CUST002166,AP,Fernandes
+CUST002167,DF,das Neves do Amparo
+CUST002168,SP,Martins do Norte
+CUST002169,GO,Barros Grande
+CUST002170,RJ,da Mata
+CUST002171,GO,Barbosa da Prata
+CUST002172,SP,Cirino de Correia
+CUST002173,SP,Garcia do Sul
+CUST002174,MA,Vargas
+CUST002175,SP,Gomes
+CUST002176,MS,da Cruz de Sousa
+CUST002177,RJ,Costa
+CUST002178,DF,Sousa de Vargas
+CUST002179,PE,Moreira
+CUST002180,PR,Melo
+CUST002181,RJ,Rodrigues da Mata
+CUST002182,SP,Castro do Norte
+CUST002183,SP,da Cunha
+CUST002184,RJ,Porto de da Rosa
+CUST002185,DF,Fonseca
+CUST002186,RO,Rios
+CUST002187,PB,Camargo
+CUST002188,PA,Porto
+CUST002189,ES,Duarte do Sul
+CUST002190,GO,Vieira
+CUST002191,RJ,Pacheco do Campo
+CUST002192,AL,Vieira de Goiás
+CUST002193,GO,Aparecida
+CUST002194,SC,Sales de Peixoto
+CUST002195,SP,Freitas
+CUST002196,RS,da Cruz
+CUST002197,RS,Monteiro
+CUST002198,MA,Rodrigues
+CUST002199,SC,Teixeira do Norte
+CUST002200,MG,Fogaça
+CUST002201,AM,Sampaio
+CUST002202,SP,Cardoso
+CUST002203,MG,da Conceição de Dias
+CUST002204,SP,Macedo do Oeste
+CUST002205,CE,Sales
+CUST002206,PI,Fogaça Grande
+CUST002207,RJ,Aparecida do Amparo
+CUST002208,MA,Novais de da Rocha
+CUST002209,RJ,Correia de Nunes
+CUST002210,PI,Nogueira
+CUST002211,CE,Duarte dos Dourados
+CUST002212,ES,Peixoto da Prata
+CUST002213,SP,Azevedo
+CUST002214,AC,Machado
+CUST002215,PE,da Luz da Prata
+CUST002216,RJ,Marques do Sul
+CUST002217,MT,Siqueira da Serra
+CUST002218,RJ,Pinto
+CUST002219,PB,Vasconcelos de Goiás
+CUST002220,SP,Silveira de Minas
+CUST002221,PE,Correia do Galho
+CUST002222,PR,Vargas de Novaes
+CUST002223,SP,Pimenta
+CUST002224,SP,Duarte das Pedras
+CUST002225,SP,Camargo do Campo
+CUST002226,RS,Aparecida
+CUST002227,RJ,Cavalcanti
+CUST002228,BA,Costa
+CUST002229,RJ,Mendonça
+CUST002230,RJ,Brito
+CUST002231,CE,Oliveira
+CUST002232,SP,Ribeiro do Amparo
+CUST002233,AL,Aragão da Praia
+CUST002234,MA,Pereira
+CUST002235,GO,Albuquerque
+CUST002236,BA,Rezende
+CUST002237,RN,Barros de Martins
+CUST002238,SP,Fonseca
+CUST002239,SP,Freitas do Norte
+CUST002240,SP,Moura do Norte
+CUST002241,ES,da Rosa
+CUST002242,SP,Cunha
+CUST002243,BA,Brito
+CUST002244,RR,Nascimento
+CUST002245,MA,Correia do Oeste
+CUST002246,PR,Nunes
+CUST002247,SP,Novais
+CUST002248,MS,Souza do Campo
+CUST002249,BA,Rocha dos Dourados
+CUST002250,SP,Caldeira da Serra
+CUST002251,SP,Novaes
+CUST002252,PI,Montenegro Alegre
+CUST002253,GO,Nascimento
+CUST002254,MT,Fogaça de Dias
+CUST002255,PB,Freitas das Pedras
+CUST002256,SC,Silveira Alegre
+CUST002257,PR,Nunes
+CUST002258,MG,Garcia
+CUST002259,RJ,Fonseca dos Dourados
+CUST002260,MG,Gonçalves de Abreu
+CUST002261,PA,da Paz
+CUST002262,BA,Moreira
+CUST002263,RN,da Rosa
+CUST002264,MG,da Rosa
+CUST002265,BA,Cunha
+CUST002266,DF,Almeida Paulista
+CUST002267,BA,Brito
+CUST002268,PE,Marques
+CUST002269,SP,Cassiano Grande
+CUST002270,PR,Fonseca Verde
+CUST002271,SP,da Conceição
+CUST002272,MG,da Rosa de Minas
+CUST002273,RS,Nunes do Oeste
+CUST002274,DF,Silveira
+CUST002275,TO,Vieira do Amparo
+CUST002276,BA,Mendonça
+CUST002277,CE,Peixoto
+CUST002278,PR,Andrade Verde
+CUST002279,DF,Barros do Norte
+CUST002280,SP,Ferreira das Pedras
+CUST002281,RJ,Campos de Goiás
+CUST002282,MG,Porto
+CUST002283,RS,Aragão da Mata
+CUST002284,SP,Dias
+CUST002285,SP,Duarte
+CUST002286,RJ,Cassiano
+CUST002287,AM,Rocha
+CUST002288,RJ,Machado Verde
+CUST002289,RS,Câmara
+CUST002290,SP,da Rocha das Flores
+CUST002291,BA,Cardoso
+CUST002292,RJ,Barros do Amparo
+CUST002293,SP,Novaes
+CUST002294,PR,da Luz de Minas
+CUST002295,SP,Montenegro das Pedras
+CUST002296,SP,Teixeira
+CUST002297,SP,Mendes
+CUST002298,SP,Mendonça
+CUST002299,SP,Rezende Verde
+CUST002300,RJ,Novais
+CUST002301,ES,da Cruz
+CUST002302,SC,da Mata
+CUST002303,PR,Duarte Verde
+CUST002304,RJ,Camargo
+CUST002305,SE,Lima da Praia
+CUST002306,MG,Correia Alegre
+CUST002307,SP,Peixoto do Sul
+CUST002308,BA,Cavalcante da Praia
+CUST002309,SP,Pinto de Casa Grande
+CUST002310,RJ,Aparecida de da Conceição
+CUST002311,PR,Rodrigues
+CUST002312,PB,Cassiano de Minas
+CUST002313,RS,Sousa
+CUST002314,PE,da Cruz
+CUST002315,RR,da Paz
+CUST002316,SP,Fernandes
+CUST002317,RJ,das Neves
+CUST002318,MG,Melo de Almeida
+CUST002319,MG,Costela da Prata
+CUST002320,MG,Costela
+CUST002321,AL,Novaes do Amparo
+CUST002322,PE,Sales
+CUST002323,BA,Garcia
+CUST002324,RJ,da Cunha
+CUST002325,MT,Araújo
+CUST002326,TO,Costa Paulista
+CUST002327,MT,Martins
+CUST002328,SP,Azevedo
+CUST002329,DF,Ribeiro Paulista
+CUST002330,SP,Caldeira do Sul
+CUST002331,RJ,Rezende das Flores
+CUST002332,SP,Garcia
+CUST002333,BA,Dias
+CUST002334,GO,Peixoto de Nascimento
+CUST002335,SP,Cirino
+CUST002336,MG,Montenegro
+CUST002337,RS,Novais de Silva
+CUST002338,MG,Aparecida
+CUST002339,SP,Moura
+CUST002340,MG,Farias do Amparo
+CUST002341,CE,Souza da Serra
+CUST002342,SP,Ferreira
+CUST002343,SP,Fogaça da Mata
+CUST002344,RJ,Montenegro
+CUST002345,RO,Araújo Paulista
+CUST002346,GO,Alves da Prata
+CUST002347,GO,Câmara Grande
+CUST002348,MG,Gonçalves Grande
+CUST002349,BA,Siqueira
+CUST002350,SP,Moreira de Goiás
+CUST002351,DF,da Costa Verde
+CUST002352,PI,Lima
+CUST002353,BA,Pereira Alegre
+CUST002354,PB,Nogueira de Cardoso
+CUST002355,PE,Rezende
+CUST002356,SP,Pacheco
+CUST002357,AL,Carvalho
+CUST002358,SP,Sales do Galho
+CUST002359,PR,Lopes
+CUST002360,SP,Rezende
+CUST002361,SP,Dias
+CUST002362,MG,Novais
+CUST002363,RJ,Cirino
+CUST002364,RS,Casa Grande do Sul
+CUST002365,SC,Jesus das Pedras
+CUST002366,SP,Macedo Paulista
+CUST002367,SP,Vasconcelos
+CUST002368,SC,Caldeira
+CUST002369,RJ,Cirino
+CUST002370,CE,Teixeira
+CUST002371,DF,Pereira Verde
+CUST002372,MS,Peixoto
+CUST002373,PE,da Conceição
+CUST002374,MG,Fogaça
+CUST002375,GO,Sales
+CUST002376,RJ,Carvalho de Montenegro
+CUST002377,RJ,Silva de Rezende
+CUST002378,ES,Cirino das Flores
+CUST002379,RS,Melo de Carvalho
+CUST002380,ES,Correia
+CUST002381,MT,Andrade
+CUST002382,MA,Teixeira do Sul
+CUST002383,PI,Jesus de Goiás
+CUST002384,MG,Sá
+CUST002385,RJ,Azevedo
+CUST002386,SC,Macedo
+CUST002387,MG,Sales de Duarte
+CUST002388,BA,da Cruz de Lima
+CUST002389,PE,Vasconcelos do Norte
+CUST002390,PE,Silveira Alegre
+CUST002391,MG,Pimenta Verde
+CUST002392,SP,Moreira
+CUST002393,MG,Machado
+CUST002394,SP,Aparecida de da Cruz
+CUST002395,RN,Sousa do Norte
+CUST002396,RJ,Moreira do Norte
+CUST002397,SP,da Rocha
+CUST002398,SP,Gonçalves de da Rosa
+CUST002399,DF,Martins da Serra
+CUST002400,DF,da Rocha do Norte
+CUST002401,RJ,Martins
+CUST002402,SP,Borges de Silveira
+CUST002403,MG,Cirino
+CUST002404,RJ,Gonçalves
+CUST002405,GO,Duarte dos Dourados
+CUST002406,BA,Cavalcanti
+CUST002407,MG,Pastor de Silva
+CUST002408,SP,Marques
+CUST002409,AP,da Cunha
+CUST002410,RS,Sales da Serra
+CUST002411,PE,Borges
+CUST002412,SP,Santos
+CUST002413,RS,Porto de Fonseca
+CUST002414,SP,Moura
+CUST002415,PR,Siqueira do Galho
+CUST002416,AC,Garcia
+CUST002417,MG,Aparecida da Serra
+CUST002418,SP,Nunes Grande
+CUST002419,SP,Casa Grande
+CUST002420,MG,Vargas
+CUST002421,SP,Leão
+CUST002422,SP,das Neves dos Dourados
+CUST002423,CE,Pires da Serra
+CUST002424,RS,Cardoso
+CUST002425,RJ,Abreu
+CUST002426,AL,Albuquerque dos Dourados
+CUST002427,SP,Monteiro de Nogueira
+CUST002428,AC,Pereira
+CUST002429,RJ,da Costa de Cunha
+CUST002430,RN,Marques de Jesus
+CUST002431,BA,Barros de Peixoto
+CUST002432,MT,da Cruz
+CUST002433,AP,Pinto da Prata
+CUST002434,RJ,Aragão
+CUST002435,AC,Casa Grande
+CUST002436,MG,Rezende
+CUST002437,MG,Andrade Grande
+CUST002438,RJ,Rios
+CUST002439,PR,Farias de Minas
+CUST002440,SP,Caldeira
+CUST002441,SC,Cavalcanti da Serra
+CUST002442,PR,Pimenta Verde
+CUST002443,PA,Marques
+CUST002444,MS,Andrade de Minas
+CUST002445,MG,Duarte da Praia
+CUST002446,RJ,Azevedo das Pedras
+CUST002447,RJ,da Rocha
+CUST002448,SP,Carvalho de Campos
+CUST002449,SP,Farias do Galho
+CUST002450,RJ,Moura do Oeste
+CUST002451,RJ,Pimenta
+CUST002452,AC,Caldeira
+CUST002453,SC,Mendes
+CUST002454,RJ,Lima Alegre
+CUST002455,SC,Moura Verde
+CUST002456,SP,Cardoso Verde
+CUST002457,RS,Moreira de Siqueira
+CUST002458,BA,Monteiro de Cirino
+CUST002459,RS,Santos
+CUST002460,MG,Correia do Sul
+CUST002461,RR,Alves
+CUST002462,RN,Pires de Vieira
+CUST002463,BA,Sousa
+CUST002464,SC,Pimenta
+CUST002465,BA,Jesus do Norte
+CUST002466,SP,Ferreira da Prata
+CUST002467,MG,Albuquerque
+CUST002468,SP,Sales
+CUST002469,RS,da Cunha de Minas
+CUST002470,PR,da Rosa do Galho
+CUST002471,SP,Vargas do Sul
+CUST002472,AC,Rodrigues
+CUST002473,PI,Fernandes das Flores
+CUST002474,PE,Cavalcanti
+CUST002475,PR,Farias
+CUST002476,PB,Rocha do Amparo
+CUST002477,SP,Andrade de Ramos
+CUST002478,ES,Mendes
+CUST002479,SP,Pires
+CUST002480,ES,Nascimento de Farias
+CUST002481,RJ,Viana de Jesus
+CUST002482,PB,Moreira
+CUST002483,RO,Nunes Alegre
+CUST002484,SP,Costela
+CUST002485,RS,Vieira da Praia
+CUST002486,AP,Cassiano
+CUST002487,RS,Alves Alegre
+CUST002488,MA,Pires da Prata
+CUST002489,BA,Oliveira
+CUST002490,MG,Cirino do Campo
+CUST002491,RJ,Santos Alegre
+CUST002492,SP,da Mata
+CUST002493,PA,Borges do Amparo
+CUST002494,MG,Freitas
+CUST002495,PR,da Rosa de Cunha
+CUST002496,RS,Cavalcanti do Campo
+CUST002497,SC,Viana do Norte
+CUST002498,MA,Borges
+CUST002499,AP,Montenegro de Alves
+CUST002500,MG,Montenegro de Cassiano

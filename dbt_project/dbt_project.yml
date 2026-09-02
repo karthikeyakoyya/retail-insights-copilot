@@ -1,0 +1,23 @@
+name: 'retail_insights_copilot'
+version: '1.0.0'
+config-version: 2
+
+profile: 'retail_insights_copilot'
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+test-paths: ["tests"]
+
+target-path: "target"
+clean-targets:
+  - "target"
+  - "dbt_packages"
+
+models:
+  retail_insights_copilot:
+    staging:
+      +materialized: view
+      +schema: staging
+    marts:
+      +materialized: table
+      +schema: marts

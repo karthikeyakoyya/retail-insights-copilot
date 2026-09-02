@@ -1,0 +1,70 @@
+version: 2
+
+models:
+  - name: dim_customers
+    description: One row per customer.
+    columns:
+      - name: customer_id
+        tests: [unique, not_null]
+      - name: customer_state
+        tests:
+          - accepted_values:
+              values: ['SP','RJ','MG','RS','PR','SC','BA','GO','PE','CE','DF','ES','PA','MT','MS','MA','PB','RN','AL','PI','SE','RO','TO','AC','AM','AP','RR']
+
+  - name: dim_sellers
+    description: One row per seller.
+    columns:
+      - name: seller_id
+        tests: [unique, not_null]
+
+  - name: dim_products
+    description: One row per product, with a derived weight class.
+    columns:
+      - name: product_id
+        tests: [unique, not_null]
+
+  - name: fct_orders
+    description: Grain is one row per order line item. Joins cleanly to dim_customers, dim_sellers, dim_products, dim_date.
+    columns:
+      - name: order_item_id
+        tests: [unique, not_null]
+      - name: customer_id
+        tests:
+          - relationships:
+              to: ref('dim_customers')
+              field: customer_id
+      - name: seller_id
+        tests:
+          - relationships:
+              to: ref('dim_sellers')
+              field: seller_id
+      - name: product_id
+        tests:
+          - relationships:
+              to: ref('dim_products')
+              field: product_id
+      - name: price
+        tests:
+          - accepted_range:
+              min_value: 0
+              inclusive: true
+
+  - name: fct_delivery_performance
+    description: Grain is one row per delivered order, with delay-in-days already computed.
+    columns:
+      - name: order_id
+        tests: [unique, not_null]
+      - name: delivery_outcome
+        tests:
+          - accepted_values:
+              values: ['on_time', 'late']
+
+  - name: fct_customer_rfm
+    description: One row per customer with Recency/Frequency/Monetary scores and a segment label.
+    columns:
+      - name: customer_id
+        tests: [unique, not_null]
+      - name: segment
+        tests:
+          - accepted_values:
+              values: ['champions','new_and_promising','at_risk_loyal','lost','needs_attention']

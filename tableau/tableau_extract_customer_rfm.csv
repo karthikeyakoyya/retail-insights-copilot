@@ -1,0 +1,2069 @@
+customer_id,recency_days,frequency,monetary_value,recency_score,frequency_score,monetary_score,rfm_total,segment,customer_state,customer_city
+CUST001463,739,1,4.33,1,1,1,3,lost,SP,Farias
+CUST001982,458,1,7.18,3,2,1,6,needs_attention,ES,Nunes da Praia
+CUST002105,834,1,8.3,1,1,1,3,lost,ES,Rezende da Mata
+CUST001789,687,1,8.44,2,2,1,5,lost,SP,Novaes do Norte
+CUST001356,964,1,8.56,1,1,1,3,lost,PB,da Conceição
+CUST001290,433,1,9.06,3,2,1,6,needs_attention,SP,Porto de Peixoto
+CUST000707,832,1,9.42,1,1,1,3,lost,RJ,Carvalho do Norte
+CUST002153,620,1,9.51,2,2,1,5,lost,PE,da Rocha
+CUST002347,887,1,9.69,1,1,1,3,lost,GO,Câmara Grande
+CUST001061,602,1,9.86,2,2,1,5,lost,PB,Sales
+CUST001517,518,1,10.18,3,2,1,6,needs_attention,DF,Campos
+CUST002288,421,1,11.18,3,2,1,6,needs_attention,RJ,Machado Verde
+CUST000204,612,1,11.19,2,2,1,5,lost,AL,Alves
+CUST001114,862,1,11.32,1,1,1,3,lost,PR,Rezende Grande
+CUST000328,328,1,11.32,4,1,1,6,new_and_promising,BA,Nunes
+CUST001752,292,1,11.85,5,1,1,7,new_and_promising,SP,Marques de Ribeiro
+CUST002005,739,1,12.0,1,1,1,3,lost,RJ,Macedo de Albuquerque
+CUST000058,851,1,12.04,1,1,1,3,lost,SP,Montenegro da Serra
+CUST001050,770,1,12.08,1,1,1,3,lost,SP,Sampaio
+CUST001765,548,1,12.43,2,2,1,5,lost,SP,Sampaio da Prata
+CUST000127,742,1,12.61,1,1,1,3,lost,MT,Cardoso da Mata
+CUST001080,670,1,12.64,2,2,1,5,lost,TO,Cirino Verde
+CUST002167,814,1,12.7,1,1,1,3,lost,DF,das Neves do Amparo
+CUST001750,795,1,12.77,1,1,1,3,lost,SP,Porto
+CUST002090,866,1,13.0,1,1,1,3,lost,MG,Souza de Farias
+CUST001550,894,1,13.45,1,1,1,3,lost,DF,Cunha de Jesus
+CUST000539,865,1,13.54,1,1,1,3,lost,RS,Novais
+CUST000093,644,1,13.85,2,2,1,5,lost,PA,Martins do Norte
+CUST001026,571,1,13.89,2,2,1,5,lost,RS,Marques de Cavalcante
+CUST001651,825,1,14.1,1,1,1,3,lost,SP,Campos
+CUST000801,795,1,14.16,1,1,1,3,lost,PE,Costela de Fernandes
+CUST000706,504,1,14.27,3,2,1,6,needs_attention,RR,Vargas
+CUST002483,588,1,14.34,2,2,1,5,lost,RO,Nunes Alegre
+CUST002398,754,1,14.51,1,1,1,3,lost,SP,Gonçalves de da Rosa
+CUST001700,309,1,14.53,5,1,1,7,new_and_promising,SC,Nunes de Rocha
+CUST000295,719,1,14.59,1,1,1,3,lost,SP,Barros
+CUST000054,514,1,14.91,3,2,1,6,needs_attention,AL,Vargas Alegre
+CUST001186,323,1,14.92,4,1,1,6,new_and_promising,RO,Leão Grande
+CUST002481,538,1,14.97,3,2,1,6,needs_attention,RJ,Viana de Jesus
+CUST001203,272,1,15.21,5,1,1,7,new_and_promising,SP,Nascimento
+CUST000530,247,1,15.32,5,1,1,7,new_and_promising,MA,Lopes
+CUST001827,881,1,15.43,1,1,1,3,lost,SP,Cavalcante
+CUST001892,482,1,15.5,3,2,1,6,needs_attention,MG,da Luz
+CUST000791,551,1,15.7,2,2,1,5,lost,SP,Ramos
+CUST001483,375,1,16.11,4,2,1,7,new_and_promising,SC,Fernandes
+CUST001500,927,1,16.39,1,1,1,3,lost,MA,das Neves
+CUST000237,624,1,16.64,2,2,1,5,lost,RJ,Mendes do Sul
+CUST002089,372,1,16.65,4,2,1,7,new_and_promising,MT,Pires de Brito
+CUST002419,973,1,16.69,1,1,1,3,lost,SP,Casa Grande
+CUST001434,906,1,16.97,1,1,1,3,lost,GO,Nunes Verde
+CUST000172,715,1,17.07,1,1,1,3,lost,SP,Ribeiro
+CUST000918,966,1,17.26,1,1,1,3,lost,TO,da Rosa Verde
+CUST000660,559,1,17.36,2,2,1,5,lost,SC,das Neves
+CUST002305,456,1,17.46,3,2,1,6,needs_attention,SE,Lima da Praia
+CUST001564,629,1,17.6,2,2,1,5,lost,RJ,da Costa
+CUST000010,417,2,17.65,3,4,1,8,needs_attention,PE,Silva
+CUST001476,397,1,17.85,4,2,1,7,new_and_promising,GO,Castro
+CUST002258,935,1,18.33,1,1,1,3,lost,MG,Garcia
+CUST000579,350,1,18.33,4,1,1,6,new_and_promising,RS,Cardoso
+CUST001146,436,1,18.39,3,2,1,6,needs_attention,PB,Ferreira
+CUST001912,568,1,18.47,2,2,1,5,lost,PB,da Conceição de Azevedo
+CUST000347,890,1,18.6,1,1,1,3,lost,DF,da Luz
+CUST000795,964,1,18.64,1,1,1,3,lost,SP,Ramos da Mata
+CUST000859,531,2,18.66,3,3,1,7,needs_attention,SC,Santos
+CUST001991,462,1,18.69,3,2,1,6,needs_attention,PA,Brito
+CUST000479,793,1,18.75,1,1,1,3,lost,AM,Porto
+CUST000336,746,1,18.92,1,1,1,3,lost,SP,Pires
+CUST000555,325,1,19.44,4,1,1,6,new_and_promising,PB,Casa Grande
+CUST002260,462,1,19.57,3,2,1,6,needs_attention,MG,Gonçalves de Abreu
+CUST001558,784,1,19.6,1,1,1,3,lost,MG,da Cruz
+CUST002102,416,1,19.75,3,2,1,6,needs_attention,PR,Barbosa de Minas
+CUST000312,863,1,19.82,1,1,1,3,lost,SP,Sousa
+CUST000380,735,1,20.11,1,1,1,3,lost,RJ,Pinto do Amparo
+CUST001652,692,1,20.55,2,2,1,5,lost,RJ,Silva do Norte
+CUST001855,899,1,20.64,1,1,1,3,lost,PI,Porto Grande
+CUST002170,747,1,20.74,1,1,1,3,lost,RJ,da Mata
+CUST001556,600,1,20.82,2,2,1,5,lost,SP,Cavalcanti
+CUST001969,746,1,20.9,1,1,1,3,lost,RJ,da Cunha
+CUST001857,555,1,21.1,2,2,1,5,lost,CE,Novaes
+CUST001069,956,1,21.14,1,1,1,3,lost,RJ,Nunes
+CUST001280,480,1,21.75,3,2,1,6,needs_attention,RS,Ferreira das Pedras
+CUST000817,810,1,22.14,1,1,1,3,lost,BA,Montenegro dos Dourados
+CUST000715,870,1,22.19,1,1,1,3,lost,RJ,Aparecida
+CUST002116,955,1,22.28,1,1,1,3,lost,SP,Alves
+CUST002203,647,1,22.62,2,2,1,5,lost,MG,da Conceição de Dias
+CUST002412,377,1,22.68,4,2,1,7,new_and_promising,SP,Santos
+CUST000952,313,2,22.68,5,3,1,9,new_and_promising,GO,Andrade de da Paz
+CUST001744,860,1,22.73,1,1,1,3,lost,SP,Caldeira Paulista
+CUST000582,954,1,23.27,1,1,1,3,lost,AP,Lopes
+CUST001416,662,1,23.38,2,2,1,5,lost,RO,Garcia
+CUST000255,514,1,23.52,3,2,1,6,needs_attention,SP,Souza
+CUST000901,354,1,23.65,4,1,1,6,new_and_promising,SP,Nunes do Campo
+CUST001937,797,1,23.77,1,1,1,3,lost,RJ,Ramos
+CUST002042,285,1,23.79,5,1,1,7,new_and_promising,SC,Melo
+CUST001172,872,1,23.82,1,1,1,3,lost,AP,Fonseca
+CUST000730,564,1,24.0,2,2,1,5,lost,SP,das Neves dos Dourados
+CUST001814,618,1,24.08,2,2,1,5,lost,SP,Farias da Praia
+CUST000401,659,1,24.14,2,2,1,5,lost,SP,Abreu da Mata
+CUST000171,771,1,24.16,1,1,1,3,lost,GO,Câmara
+CUST001879,853,1,24.19,1,1,1,3,lost,RJ,Sales Verde
+CUST001013,877,1,24.38,1,1,1,3,lost,RO,Moraes do Amparo
+CUST000487,588,1,24.51,2,2,1,5,lost,SP,Pastor Grande
+CUST002020,506,1,24.59,3,2,1,6,needs_attention,GO,Pereira
+CUST001583,288,1,24.78,5,1,1,7,new_and_promising,BA,Rocha do Galho
+CUST001157,253,1,24.86,5,1,1,7,new_and_promising,SP,Fernandes
+CUST001869,286,1,24.86,5,1,1,7,new_and_promising,SP,Ramos de Novaes
+CUST001131,271,1,24.88,5,1,1,7,new_and_promising,PE,Silva
+CUST001419,822,1,25.14,1,1,1,3,lost,RS,Gomes Paulista
+CUST002194,522,1,25.41,3,2,1,6,needs_attention,SC,Sales de Peixoto
+CUST002025,944,1,25.43,1,1,1,3,lost,MG,Montenegro
+CUST001505,918,1,25.5,1,1,1,3,lost,MG,Aparecida de da Luz
+CUST000388,716,1,25.5,1,1,1,3,lost,SP,Novaes
+CUST000282,792,1,25.56,1,1,1,3,lost,RJ,Lopes
+CUST001126,621,1,25.84,2,2,1,5,lost,SC,da Rocha de Sales
+CUST000573,300,1,25.85,5,1,1,7,new_and_promising,MG,Peixoto do Norte
+CUST001407,628,1,26.39,2,2,1,5,lost,MS,Cirino
+CUST001865,857,1,26.87,1,1,1,3,lost,AP,Câmara
+CUST001120,799,1,26.99,1,1,1,3,lost,SP,da Mota das Flores
+CUST001669,842,1,27.11,1,1,1,3,lost,SP,Pereira
+CUST000834,353,1,27.17,4,1,1,6,new_and_promising,SP,Pereira
+CUST000866,827,1,27.62,1,1,1,3,lost,SC,Correia de da Cruz
+CUST002364,506,1,27.64,3,2,1,6,needs_attention,RS,Casa Grande do Sul
+CUST000208,954,1,27.65,1,1,1,3,lost,GO,Pires Verde
+CUST001780,430,1,27.78,3,2,1,6,needs_attention,MS,Rodrigues Paulista
+CUST000617,898,1,28.24,1,1,1,3,lost,SP,Martins Verde
+CUST000551,590,1,28.37,2,2,1,5,lost,PR,Pereira
+CUST000468,873,1,28.38,1,1,1,3,lost,PB,Rocha
+CUST002117,767,1,28.7,1,1,1,3,lost,MG,Moura de Minas
+CUST001429,665,1,28.73,2,2,1,5,lost,DF,Oliveira
+CUST002308,885,1,28.86,1,1,1,3,lost,BA,Cavalcante da Praia
+CUST001992,749,1,29.55,1,1,1,3,lost,SP,Moraes
+CUST000241,743,1,29.6,1,1,1,3,lost,RO,da Mata
+CUST000313,936,1,29.62,1,1,1,3,lost,SP,da Mota de Silveira
+CUST000025,439,1,29.68,3,2,1,6,needs_attention,RS,Barros de Goiás
+CUST001455,840,1,29.75,1,1,1,3,lost,SP,Garcia
+CUST001323,279,1,30.09,5,1,1,7,new_and_promising,PB,Farias
+CUST002069,615,1,30.25,2,2,1,5,lost,SP,da Costa Paulista
+CUST000233,855,1,30.35,1,1,1,3,lost,SC,Leão de Araújo
+CUST002273,338,1,30.47,4,1,1,6,new_and_promising,RS,Nunes do Oeste
+CUST000004,759,1,30.53,1,1,1,3,lost,BA,Rocha
+CUST000187,480,1,30.53,3,2,1,6,needs_attention,MT,Azevedo Alegre
+CUST000134,548,1,30.72,2,2,1,5,lost,RJ,da Cruz
+CUST001490,766,1,30.77,1,1,1,3,lost,RS,Ribeiro da Mata
+CUST001717,288,1,30.85,5,1,1,7,new_and_promising,SP,Monteiro de Cavalcante
+CUST000569,615,1,31.07,2,2,1,5,lost,AL,Ferreira
+CUST000674,466,1,31.27,3,2,1,6,needs_attention,PR,Ferreira de Alves
+CUST001627,728,1,31.38,1,1,1,3,lost,SP,Machado
+CUST001976,604,1,31.44,2,2,1,5,lost,RO,Garcia
+CUST001954,908,1,31.48,1,1,1,3,lost,CE,da Conceição
+CUST002088,826,2,31.53,1,3,1,5,needs_attention,DF,da Cunha
+CUST001020,535,1,31.58,3,2,1,6,needs_attention,SP,Novaes Verde
+CUST002421,495,1,31.78,3,2,1,6,needs_attention,SP,Leão
+CUST000135,323,1,31.8,5,1,1,7,new_and_promising,RO,da Paz da Serra
+CUST001684,942,1,31.82,1,1,1,3,lost,MT,Aparecida
+CUST002222,422,1,31.82,3,2,1,6,needs_attention,PR,Vargas de Novaes
+CUST000714,552,1,31.84,2,2,1,5,lost,MG,Aparecida
+CUST000020,635,1,31.84,2,2,1,5,lost,RJ,Barros da Prata
+CUST001801,951,1,32.04,1,1,1,3,lost,AC,Novais Paulista
+CUST000676,516,1,32.05,3,2,1,6,needs_attention,AP,da Costa das Flores
+CUST000695,862,1,32.11,1,1,1,3,lost,SP,da Rocha
+CUST001116,777,1,32.2,1,1,1,3,lost,SC,Dias de Cavalcanti
+CUST001880,428,1,32.23,3,2,1,6,needs_attention,SC,Nunes
+CUST000214,409,2,32.36,4,4,1,9,champions,SP,Câmara da Serra
+CUST000589,568,1,32.48,2,2,1,5,lost,SP,Sales de Fonseca
+CUST001297,607,1,32.58,2,2,1,5,lost,SP,Pastor
+CUST000230,581,1,32.58,2,2,1,5,lost,DF,Sales Grande
+CUST000631,548,2,32.63,2,2,1,5,lost,PE,Azevedo Alegre
+CUST000227,678,1,32.68,2,2,1,5,lost,AM,Dias da Prata
+CUST001951,407,1,32.7,4,2,1,7,new_and_promising,SP,Pinto
+CUST001353,564,1,32.83,2,2,1,5,lost,MG,Siqueira
+CUST002211,760,1,32.87,1,1,1,3,lost,CE,Duarte dos Dourados
+CUST001235,418,1,32.96,3,2,1,6,needs_attention,DF,Mendonça de Duarte
+CUST002479,647,1,33.15,2,2,1,5,lost,SP,Pires
+CUST000593,578,1,33.18,2,2,1,5,lost,SP,Gonçalves
+CUST001653,299,2,33.2,5,3,1,9,new_and_promising,RJ,Porto Paulista
+CUST002013,740,1,33.26,1,1,1,3,lost,AL,da Mota
+CUST001362,248,1,33.31,5,1,1,7,new_and_promising,SP,Borges do Norte
+CUST002245,657,1,33.37,2,2,1,5,lost,MA,Correia do Oeste
+CUST001481,306,1,33.4,5,1,1,7,new_and_promising,MT,Siqueira
+CUST000853,870,1,34.07,1,1,1,3,lost,SP,Oliveira
+CUST001647,531,1,34.14,3,2,1,6,needs_attention,SP,Almeida de Goiás
+CUST000116,534,1,34.23,3,2,1,6,needs_attention,PB,Araújo
+CUST000396,417,1,34.25,3,2,1,6,needs_attention,SE,Gomes
+CUST002177,775,1,34.35,1,1,1,3,lost,RJ,Costa
+CUST000912,530,1,34.36,3,2,1,6,needs_attention,RJ,Borges das Flores
+CUST001580,923,1,34.37,1,1,1,3,lost,SC,Lima das Flores
+CUST001108,904,1,34.4,1,1,1,3,lost,CE,Peixoto de Pimenta
+CUST001831,532,1,34.67,3,2,1,6,needs_attention,AP,Caldeira do Oeste
+CUST002399,777,1,34.82,1,1,1,3,lost,DF,Martins da Serra
+CUST001376,960,1,34.96,1,1,1,3,lost,PB,Cassiano
+CUST000900,791,1,35.04,1,1,1,3,lost,SP,Andrade do Sul
+CUST001657,327,1,35.21,4,1,1,6,new_and_promising,SC,Aragão
+CUST000070,874,1,35.21,1,1,1,3,lost,AP,Cardoso
+CUST002226,408,1,35.24,4,2,1,7,new_and_promising,RS,Aparecida
+CUST001181,887,1,35.37,1,1,1,3,lost,AC,Rocha
+CUST002348,337,1,35.38,4,1,1,6,new_and_promising,MG,Gonçalves Grande
+CUST001793,553,2,35.64,2,2,1,5,lost,PR,Sá Verde
+CUST002469,295,1,35.78,5,1,1,7,new_and_promising,RS,da Cunha de Minas
+CUST002464,603,1,35.91,2,2,1,5,lost,SC,Pimenta
+CUST001981,944,1,36.08,1,1,1,3,lost,SP,da Luz da Prata
+CUST001010,567,1,36.15,2,2,1,5,lost,RS,Vasconcelos da Mata
+CUST001654,968,1,36.23,1,1,1,3,lost,MG,Peixoto
+CUST000733,349,2,36.260000000000005,4,4,1,9,champions,GO,Pimenta das Pedras
+CUST000877,353,1,36.4,4,1,1,6,new_and_promising,PE,Rezende de da Cunha
+CUST000696,759,1,36.47,1,1,1,3,lost,BA,Abreu da Praia
+CUST001241,449,1,36.47,3,2,1,6,needs_attention,PB,Monteiro
+CUST000303,535,2,36.72,3,3,1,7,needs_attention,PR,das Neves
+CUST000808,900,1,36.76,1,1,1,3,lost,SE,da Cruz de Casa Grande
+CUST001469,398,1,36.8,4,2,1,7,new_and_promising,PB,Ferreira
+CUST001606,406,1,36.81,4,2,1,7,new_and_promising,PR,Silveira da Prata
+CUST000994,799,1,36.87,1,1,1,3,lost,BA,Gomes
+CUST000252,840,1,36.9,1,1,1,3,lost,MG,Fernandes das Flores
+CUST000072,255,1,37.23,5,1,1,7,new_and_promising,SP,Moura das Pedras
+CUST000138,912,1,37.38,1,1,1,3,lost,PE,Rios
+CUST000277,744,1,37.59,1,1,1,3,lost,ES,Ribeiro da Praia
+CUST000906,589,1,37.63,2,2,1,5,lost,RN,Siqueira
+CUST000987,705,1,37.71,2,2,1,5,lost,PE,Sampaio das Pedras
+CUST001097,297,1,37.98,5,1,1,7,new_and_promising,SP,Jesus das Flores
+CUST000659,877,1,38.01,1,1,1,3,lost,DF,da Conceição de Nascimento
+CUST002367,926,1,38.17,1,1,1,3,lost,SP,Vasconcelos
+CUST001156,696,1,38.24,2,2,1,5,lost,CE,Aparecida do Campo
+CUST001339,736,1,38.28,1,1,1,3,lost,SP,Leão
+CUST001033,270,1,38.29,5,1,1,7,new_and_promising,SP,Pires
+CUST001411,794,1,38.39,1,1,1,3,lost,SP,Monteiro das Pedras
+CUST000804,681,1,38.61,2,2,1,5,lost,BA,Cardoso da Praia
+CUST000036,701,1,38.93,2,2,1,5,lost,ES,Andrade
+CUST000684,725,1,39.2,1,1,1,3,lost,GO,Barros
+CUST000888,924,1,39.22,1,1,1,3,lost,SP,Abreu
+CUST001552,880,2,39.22,1,3,1,5,needs_attention,BA,Araújo do Galho
+CUST000320,755,1,39.27,1,1,1,3,lost,RJ,Sampaio Grande
+CUST001451,519,1,39.45,3,2,1,6,needs_attention,RS,Castro
+CUST002317,289,2,39.66,5,3,1,9,new_and_promising,RJ,das Neves
+CUST002198,443,1,39.85,3,2,1,6,needs_attention,MA,Rodrigues
+CUST002014,975,1,39.92,1,2,1,4,lost,SP,Fogaça das Flores
+CUST001506,793,1,40.0,1,1,1,3,lost,MG,Martins de da Luz
+CUST002154,390,1,40.24,4,2,1,7,new_and_promising,MT,Porto
+CUST002461,851,1,40.38,1,1,1,3,lost,RR,Alves
+CUST001496,871,1,40.83,1,1,1,3,lost,GO,Costa de Brito
+CUST000990,819,1,40.93,1,1,1,3,lost,MT,da Costa de Câmara
+CUST000567,366,2,40.97,4,4,1,9,champions,MG,Pereira de Macedo
+CUST000734,373,1,40.98,4,2,1,7,new_and_promising,PR,Porto do Norte
+CUST000649,538,2,41.099999999999994,3,3,1,7,needs_attention,ES,da Rocha
+CUST001701,282,1,41.16,5,1,1,7,new_and_promising,AC,Cirino de Pimenta
+CUST001807,785,2,41.25,1,3,1,5,needs_attention,GO,Mendonça Verde
+CUST000349,310,1,41.27,5,1,1,7,new_and_promising,MG,Nogueira
+CUST000623,478,2,41.33,3,3,1,7,needs_attention,MG,Montenegro
+CUST000667,936,2,41.510000000000005,1,2,1,4,lost,RJ,Freitas de Novaes
+CUST001776,597,1,41.75,2,2,1,5,lost,RJ,Alves
+CUST001016,287,1,41.96,5,1,1,7,new_and_promising,SE,Freitas
+CUST001008,837,1,42.07,1,1,1,3,lost,MA,Gonçalves
+CUST000049,460,1,42.1,3,2,1,6,needs_attention,SC,Vieira
+CUST001012,511,1,42.6,3,2,1,6,needs_attention,AP,das Neves Paulista
+CUST001000,253,2,42.61,5,2,1,8,new_and_promising,RS,Garcia do Norte
+CUST001253,276,2,42.71,5,3,1,9,new_and_promising,SP,Castro Paulista
+CUST000611,421,1,42.74,3,2,1,6,needs_attention,SP,Pastor do Norte
+CUST001930,837,1,42.84,1,1,1,3,lost,SP,Cunha Grande
+CUST001515,911,1,42.88,1,1,1,3,lost,SP,Barros das Flores
+CUST000875,271,1,42.93,5,1,1,7,new_and_promising,SP,da Paz
+CUST001111,966,1,43.0,1,1,1,3,lost,MT,Abreu das Flores
+CUST001714,495,1,43.0,3,2,1,6,needs_attention,RS,Novais
+CUST000363,938,1,43.12,1,1,1,3,lost,RS,Teixeira
+CUST000040,855,1,43.19,1,1,1,3,lost,MG,Ramos dos Dourados
+CUST000700,315,1,43.31,5,1,1,7,new_and_promising,RS,Gomes
+CUST000627,884,2,43.46,1,3,1,5,needs_attention,RS,Fonseca
+CUST002489,844,1,43.49,1,1,1,3,lost,BA,Oliveira
+CUST001249,975,1,43.74,1,1,1,3,lost,PI,Macedo
+CUST002336,703,1,43.86,2,2,1,5,lost,MG,Montenegro
+CUST000026,896,1,43.94,1,1,1,3,lost,PA,Garcia
+CUST000439,371,1,43.97,4,2,1,7,new_and_promising,PE,Rocha da Prata
+CUST001706,967,1,44.21,1,1,1,3,lost,SP,Aparecida de Azevedo
+CUST000505,681,1,44.43,2,2,1,5,lost,GO,da Mota
+CUST000348,285,2,44.480000000000004,5,3,1,9,new_and_promising,SP,Lima
+CUST000844,398,1,44.51,4,2,1,7,new_and_promising,AC,Melo do Sul
+CUST000672,683,1,44.8,2,2,1,5,lost,AL,Moraes de Casa Grande
+CUST001473,744,2,44.92,1,3,1,5,needs_attention,PB,Jesus
+CUST001112,864,1,44.98,1,1,1,3,lost,SP,Pinto das Flores
+CUST001045,769,1,45.08,1,1,1,3,lost,RN,da Costa
+CUST001870,350,2,45.14,4,4,1,9,champions,PE,da Rocha
+CUST001498,717,2,45.19,1,4,1,6,at_risk_loyal,RS,Porto
+CUST001458,353,1,45.22,4,1,1,6,new_and_promising,GO,Sampaio
+CUST001783,879,1,45.23,1,1,1,3,lost,RS,Fogaça
+CUST002095,932,1,45.24,1,1,1,3,lost,RJ,Vasconcelos
+CUST000815,891,1,45.24,1,1,1,3,lost,PB,Monteiro de das Neves
+CUST002467,807,1,45.24,1,1,1,3,lost,MG,Albuquerque
+CUST000752,681,2,45.43,2,4,1,7,at_risk_loyal,RO,Vasconcelos Paulista
+CUST000718,499,1,45.44,3,2,1,6,needs_attention,AC,Andrade do Oeste
+CUST001633,426,1,45.45,3,2,1,6,needs_attention,GO,Abreu do Norte
+CUST000923,651,1,45.53,2,2,1,5,lost,RN,Castro das Flores
+CUST001382,295,2,45.57,5,3,1,9,new_and_promising,MG,Campos de Minas
+CUST000022,438,1,45.66,3,2,1,6,needs_attention,SP,Santos
+CUST001100,462,2,45.81,3,3,1,7,needs_attention,RJ,Rodrigues
+CUST002041,268,1,45.92,5,1,1,7,new_and_promising,MA,Barbosa da Prata
+CUST000635,422,1,45.97,3,2,1,6,needs_attention,SP,Pacheco
+CUST000501,500,1,45.98,3,2,1,6,needs_attention,PE,Azevedo
+CUST000012,848,1,46.03,1,1,1,3,lost,AM,Abreu da Serra
+CUST001645,366,1,46.07,4,2,1,7,new_and_promising,SP,Mendonça da Praia
+CUST000359,525,1,46.17,3,2,1,6,needs_attention,RO,Lopes
+CUST000105,573,1,46.34,2,2,1,5,lost,AL,Mendonça do Amparo
+CUST000622,375,1,46.68,4,2,1,7,new_and_promising,SP,Fernandes
+CUST000650,496,1,46.78,3,2,1,6,needs_attention,RS,Montenegro
+CUST002289,838,1,46.9,1,1,1,3,lost,RS,Câmara
+CUST001939,290,1,46.9,5,1,1,7,new_and_promising,RS,Cardoso
+CUST000997,310,1,46.91,5,1,1,7,new_and_promising,PI,Machado
+CUST000799,892,1,46.97,1,1,1,3,lost,PE,Castro
+CUST000980,418,1,47.08,3,2,1,6,needs_attention,BA,Ribeiro
+CUST000341,680,2,47.129999999999995,2,4,1,7,at_risk_loyal,RS,Jesus
+CUST001547,815,1,47.15,1,1,1,3,lost,ES,Vasconcelos de Duarte
+CUST002149,561,1,47.43,2,1,1,4,lost,RS,Moreira
+CUST000123,354,1,47.5,4,1,1,6,new_and_promising,RJ,Pinto
+CUST000279,590,1,47.56,2,2,1,5,lost,PE,Albuquerque das Pedras
+CUST001514,907,1,47.57,1,1,1,3,lost,SP,Melo
+CUST002315,328,1,47.77,4,1,1,6,new_and_promising,RR,da Paz
+CUST001823,475,1,47.85,3,2,1,6,needs_attention,BA,Moraes do Galho
+CUST000789,274,1,47.91,5,1,1,7,new_and_promising,RS,Nunes do Norte
+CUST001806,556,1,47.97,2,2,1,5,lost,PA,Peixoto do Norte
+CUST000973,706,1,47.99,1,2,1,4,lost,CE,Guerra
+CUST002392,334,1,48.03,4,1,1,6,new_and_promising,SP,Moreira
+CUST000137,898,1,48.05,1,1,1,3,lost,PR,Pimenta do Galho
+CUST001320,802,1,48.51,1,1,1,3,lost,SP,Cavalcante da Praia
+CUST002330,486,1,48.71,3,2,1,6,needs_attention,SP,Caldeira do Sul
+CUST001036,775,1,48.75,1,1,1,3,lost,PE,Montenegro
+CUST000685,545,2,48.85,2,2,1,5,lost,SE,da Cunha
+CUST002053,705,1,48.92,1,2,1,4,lost,SP,Mendes
+CUST002248,684,1,49.03,2,2,1,5,lost,MS,Souza do Campo
+CUST000548,612,1,49.06,2,2,1,5,lost,GO,Teixeira
+CUST002291,965,1,49.12,1,1,1,3,lost,BA,Cardoso
+CUST001945,478,1,49.12,3,2,1,6,needs_attention,ES,Peixoto Verde
+CUST000552,935,1,49.22,1,1,1,3,lost,MA,Alves da Serra
+CUST000755,907,1,49.88,1,1,1,3,lost,SP,Campos
+CUST001704,687,1,50.1,2,2,1,5,lost,PR,Mendes
+CUST001212,257,1,50.38,5,1,1,7,new_and_promising,RS,Ferreira de Minas
+CUST001858,607,1,50.39,2,2,1,5,lost,RS,Campos
+CUST001625,964,1,50.48,1,1,1,3,lost,SP,Pires da Serra
+CUST001024,506,2,50.629999999999995,3,3,1,7,needs_attention,AM,Monteiro
+CUST001595,882,1,50.7,1,1,1,3,lost,PE,Rezende
+CUST000976,914,1,50.75,1,1,1,3,lost,RJ,Carvalho
+CUST002474,385,2,50.89,4,4,1,9,champions,PE,Cavalcanti
+CUST000522,310,1,51.01,5,1,1,7,new_and_promising,MG,Silva de Macedo
+CUST001277,535,2,51.04,3,3,1,7,needs_attention,SP,Cunha de Borges
+CUST001464,352,1,51.14,4,1,1,6,new_and_promising,DF,da Costa
+CUST001305,873,1,51.18,1,1,1,3,lost,PE,das Neves
+CUST002279,527,1,51.28,3,2,1,6,needs_attention,DF,Barros do Norte
+CUST002251,457,1,51.47,3,2,1,6,needs_attention,SP,Novaes
+CUST002107,404,1,51.73,4,2,1,7,new_and_promising,MA,Macedo da Praia
+CUST000893,495,1,51.84,3,2,1,6,needs_attention,MS,Vargas
+CUST002351,641,1,51.85,2,2,1,5,lost,DF,da Costa Verde
+CUST000068,271,2,51.87,5,3,1,9,new_and_promising,ES,Barros
+CUST001842,316,2,51.87,5,3,1,9,new_and_promising,MG,Gomes
+CUST000489,640,1,51.98,2,2,1,5,lost,TO,Pimenta de Jesus
+CUST001764,535,2,52.120000000000005,3,3,1,7,needs_attention,RS,Jesus
+CUST002124,407,1,52.13,4,2,1,7,new_and_promising,MG,Alves
+CUST000213,675,1,52.23,2,2,1,5,lost,DF,Vasconcelos
+CUST001388,750,1,52.62,1,1,1,3,lost,SP,Moraes do Norte
+CUST000832,810,1,52.69,1,1,1,3,lost,RS,Freitas Alegre
+CUST001675,669,1,52.79,2,2,1,5,lost,ES,Farias de da Costa
+CUST001905,387,2,52.849999999999994,4,4,1,9,champions,CE,Pimenta
+CUST000203,945,1,53.0,1,1,1,3,lost,SP,Câmara do Oeste
+CUST002334,682,1,53.04,2,2,1,5,lost,GO,Peixoto de Nascimento
+CUST000729,436,1,53.15,3,2,1,6,needs_attention,SP,Duarte
+CUST000293,492,1,53.3,3,2,1,6,needs_attention,MT,Fernandes Paulista
+CUST000351,535,1,53.35,3,2,1,6,needs_attention,PR,da Mata
+CUST002295,266,1,53.59,5,1,1,7,new_and_promising,SP,Montenegro das Pedras
+CUST001103,823,1,53.63,1,1,1,3,lost,RN,Casa Grande de Azevedo
+CUST001698,912,1,53.7,1,1,1,3,lost,SP,Castro
+CUST000219,367,1,53.71,4,2,1,7,new_and_promising,DF,Novaes dos Dourados
+CUST000883,557,1,53.75,2,2,1,5,lost,SP,Porto
+CUST001252,644,1,53.88,2,2,1,5,lost,RS,Rezende
+CUST000939,339,1,53.93,4,1,1,6,new_and_promising,SP,Rodrigues
+CUST002361,427,1,54.14,3,2,1,6,needs_attention,SP,Dias
+CUST000605,691,1,54.15,2,2,1,5,lost,SP,Martins de Sá
+CUST000459,585,1,54.19,2,2,1,5,lost,SP,da Rocha
+CUST000849,639,2,54.290000000000006,2,3,1,6,needs_attention,PR,Silveira
+CUST000922,712,2,54.370000000000005,1,4,1,6,at_risk_loyal,RS,Martins
+CUST001911,567,2,54.769999999999996,2,2,1,5,lost,RJ,Teixeira
+CUST001424,865,1,54.87,1,1,1,3,lost,SP,Vargas Verde
+CUST002411,614,1,54.91,2,2,1,5,lost,PE,Borges
+CUST001555,968,1,55.01,1,1,1,3,lost,SP,Carvalho do Galho
+CUST001175,716,1,55.12,1,1,1,3,lost,DF,Moura de Porto
+CUST000395,445,2,55.28,3,3,1,7,needs_attention,RJ,Marques
+CUST000523,527,1,55.42,3,2,1,6,needs_attention,AM,Barros
+CUST002195,290,1,55.46,5,1,1,7,new_and_promising,SP,Freitas
+CUST000030,749,2,55.5,1,3,1,5,needs_attention,SP,Pereira
+CUST000794,706,2,55.59,1,4,1,6,at_risk_loyal,BA,Pires de Nogueira
+CUST000643,282,1,55.64,5,1,1,7,new_and_promising,SP,Moraes da Praia
+CUST000251,704,1,55.72,2,2,1,5,lost,RJ,Marques
+CUST001578,536,1,55.81,3,2,1,6,needs_attention,DF,Câmara
+CUST002296,369,2,55.99,4,4,1,9,champions,SP,Teixeira
+CUST002228,421,2,56.25,3,3,1,7,needs_attention,BA,Costa
+CUST001327,543,1,56.49,2,2,1,5,lost,SP,Moraes de Fonseca
+CUST000410,599,1,56.57,2,2,1,5,lost,SP,Santos de Garcia
+CUST002443,803,1,56.63,1,1,1,3,lost,PA,Marques
+CUST002110,325,1,56.69,4,1,1,6,new_and_promising,AP,Siqueira
+CUST000824,293,2,56.760000000000005,5,3,1,9,new_and_promising,MG,Teixeira das Flores
+CUST000625,380,1,56.97,4,2,1,7,new_and_promising,BA,Santos
+CUST001540,414,3,57.0,4,4,1,9,champions,PR,Souza
+CUST000895,537,1,57.27,3,2,1,6,needs_attention,GO,Nascimento
+CUST001615,362,2,57.33,4,4,1,9,champions,RJ,Melo
+CUST001542,329,1,57.39,4,1,1,6,new_and_promising,SP,Fernandes
+CUST001399,698,1,57.45,2,2,1,5,lost,BA,Barbosa do Sul
+CUST002326,752,1,57.64,1,1,1,3,lost,TO,Costa Paulista
+CUST000896,915,1,57.81,1,1,1,3,lost,SP,Cavalcanti
+CUST002205,510,1,57.81,3,2,1,6,needs_attention,CE,Sales
+CUST001868,786,1,57.85,1,1,1,3,lost,SP,Sá
+CUST000330,734,1,57.97,1,1,1,3,lost,RJ,Novais
+CUST001176,879,2,57.97,1,3,1,5,needs_attention,PR,Peixoto das Flores
+CUST000052,332,1,58.07,4,1,1,6,new_and_promising,PA,Novaes do Sul
+CUST001570,693,1,58.11,2,2,1,5,lost,RS,Castro
+CUST000957,591,2,58.120000000000005,2,3,1,6,needs_attention,PR,Rezende
+CUST002497,842,1,58.21,1,1,1,3,lost,SC,Viana do Norte
+CUST000496,844,1,58.26,1,1,1,3,lost,RJ,Correia do Campo
+CUST000378,459,1,58.28,3,2,1,6,needs_attention,SP,Jesus de Aragão
+CUST000360,802,1,58.92,1,1,1,3,lost,SC,Pereira Paulista
+CUST002115,426,3,58.980000000000004,3,4,1,8,needs_attention,DF,Melo
+CUST002407,525,1,59.01,3,2,1,6,needs_attention,MG,Pastor de Silva
+CUST001211,400,2,59.14,4,4,2,10,champions,MG,Andrade dos Dourados
+CUST000921,602,1,59.3,2,2,2,6,lost,PB,Rios
+CUST000894,905,2,59.480000000000004,1,2,2,5,lost,MG,Rezende
+CUST001322,692,1,59.58,2,2,2,6,lost,SP,Siqueira do Campo
+CUST000785,327,1,59.67,4,1,2,7,new_and_promising,SP,Cardoso da Mata
+CUST001775,972,1,60.01,1,1,2,4,lost,PA,Lima do Sul
+CUST000199,848,1,60.12,1,1,2,4,lost,RN,Vieira de Vieira
+CUST000847,324,2,60.160000000000004,4,3,2,9,new_and_promising,SP,Peixoto
+CUST002165,796,1,60.6,1,1,2,4,lost,RS,Monteiro
+CUST001658,265,1,60.62,5,1,2,8,new_and_promising,RJ,Leão
+CUST001899,358,1,60.84,4,2,2,8,new_and_promising,MG,Rezende de Vasconcelos
+CUST000121,776,1,60.91,1,1,2,4,lost,ES,Nunes
+CUST000460,609,2,60.95,2,3,2,7,needs_attention,SP,Souza das Pedras
+CUST000985,884,2,61.04,1,3,2,6,needs_attention,CE,Ferreira
+CUST001324,318,2,61.08,5,3,2,10,new_and_promising,SP,da Mata do Galho
+CUST000502,492,1,61.18,3,2,2,7,needs_attention,PR,Pastor
+CUST001438,256,1,61.19,5,1,2,8,new_and_promising,PE,Borges
+CUST001427,527,1,61.34,3,2,2,7,needs_attention,SP,da Mata
+CUST000566,535,1,61.38,3,2,2,7,needs_attention,BA,Ribeiro de Lima
+CUST000175,846,1,61.73,1,1,2,4,lost,DF,Ferreira do Galho
+CUST000224,416,1,61.86,3,2,2,7,needs_attention,MG,Pires de da Costa
+CUST001999,334,1,61.87,4,1,2,7,new_and_promising,SP,Câmara da Praia
+CUST001047,258,2,62.739999999999995,5,2,2,9,new_and_promising,SP,Fogaça Paulista
+CUST001051,537,1,62.74,3,2,2,7,needs_attention,PB,da Rosa
+CUST002321,293,2,63.129999999999995,5,3,2,10,new_and_promising,AL,Novaes do Amparo
+CUST001924,279,1,63.13,5,1,2,8,new_and_promising,MG,Fogaça da Praia
+CUST000772,304,1,63.23,5,1,2,8,new_and_promising,MS,Cardoso
+CUST002257,268,1,63.39,5,1,2,8,new_and_promising,PR,Nunes
+CUST000572,780,2,63.5,1,3,2,6,needs_attention,PA,Aparecida de Goiás
+CUST001637,438,1,63.53,3,2,2,7,needs_attention,MG,Pires
+CUST001337,516,2,63.67,3,3,2,8,needs_attention,SP,Andrade
+CUST000197,608,2,63.69,2,3,2,7,needs_attention,PE,Martins dos Dourados
+CUST002187,625,1,63.91,2,2,2,6,lost,PB,Camargo
+CUST000653,678,1,64.15,2,2,2,6,lost,BA,Cassiano da Serra
+CUST002499,318,1,64.38,5,1,2,8,new_and_promising,AP,Montenegro de Alves
+CUST001909,446,1,64.38,3,2,2,7,needs_attention,RJ,Sousa
+CUST000971,943,1,64.39,1,1,2,4,lost,GO,Machado
+CUST002344,830,1,64.63,1,1,2,4,lost,RJ,Montenegro
+CUST000236,446,1,64.81,3,2,2,7,needs_attention,PE,Teixeira
+CUST000636,359,2,64.82,4,4,2,10,champions,RS,Ferreira
+CUST000826,796,2,65.05,1,3,2,6,needs_attention,PI,Nunes
+CUST001393,644,2,65.05,2,3,2,7,needs_attention,SP,Caldeira de Vieira
+CUST001187,634,2,65.06,2,3,2,7,needs_attention,GO,Lima da Serra
+CUST002488,582,1,65.26,2,2,2,6,lost,MA,Pires da Prata
+CUST000570,369,1,65.52,4,2,2,8,new_and_promising,RJ,Camargo da Mata
+CUST001401,899,1,65.56,1,1,2,4,lost,SP,Cardoso de Borges
+CUST001167,617,2,65.64,2,3,2,7,needs_attention,MS,Machado
+CUST000262,299,1,65.82,5,1,2,8,new_and_promising,RR,da Costa
+CUST000500,491,1,66.03,3,2,2,7,needs_attention,AP,da Cruz Grande
+CUST001867,286,1,66.28,5,1,2,8,new_and_promising,SP,Rios
+CUST000557,964,1,66.52,1,1,2,4,lost,SP,Borges
+CUST000264,745,1,66.56,1,1,2,4,lost,PR,Nunes
+CUST000768,349,2,66.6,4,4,2,10,champions,PB,Pimenta
+CUST000964,910,1,66.6,1,1,2,4,lost,MG,da Cruz
+CUST001604,528,1,66.67,3,2,2,7,needs_attention,RJ,Melo
+CUST001894,419,2,66.88,3,3,2,8,needs_attention,SP,Almeida
+CUST001094,919,1,66.95,1,1,2,4,lost,PR,Fogaça
+CUST002066,365,2,66.97,4,4,2,10,champions,PA,Duarte
+CUST001372,684,1,67.28,2,2,2,6,lost,SP,Sampaio Alegre
+CUST000119,616,1,67.31,2,2,2,6,lost,RN,Rocha
+CUST002083,521,1,67.49,3,2,2,7,needs_attention,RS,Viana do Amparo
+CUST000184,942,1,67.67,1,1,2,4,lost,PB,Santos
+CUST001770,783,1,67.74,1,1,2,4,lost,MG,Santos
+CUST001979,958,1,67.8,1,1,2,4,lost,PB,Cassiano
+CUST002387,345,1,67.96,4,1,2,7,new_and_promising,MG,Sales de Duarte
+CUST001936,440,1,67.98,3,2,2,7,needs_attention,ES,Costela de Pastor
+CUST002075,553,2,68.05,2,2,2,6,lost,PB,Oliveira
+CUST002478,695,1,68.14,2,2,2,6,lost,ES,Mendes
+CUST001893,452,2,68.25,3,3,2,8,needs_attention,ES,Siqueira
+CUST000538,890,1,68.57,1,1,2,4,lost,RJ,Brito da Praia
+CUST001719,908,1,68.81,1,1,2,4,lost,AP,Duarte de da Costa
+CUST002000,442,1,68.96,3,2,2,7,needs_attention,RJ,Pereira
+CUST001619,788,2,69.1,1,3,2,6,needs_attention,SC,Aragão Grande
+CUST000774,438,2,69.14,3,3,2,8,needs_attention,MG,Martins de Rodrigues
+CUST002485,304,1,69.45,5,1,2,8,new_and_promising,RS,Vieira da Praia
+CUST001054,341,3,69.66000000000001,4,4,2,10,champions,ES,Garcia das Flores
+CUST002241,681,1,69.68,2,2,2,6,lost,ES,da Rosa
+CUST001030,450,1,69.71,3,2,2,7,needs_attention,MT,Barbosa
+CUST000597,926,1,69.96,1,1,2,4,lost,GO,Moura
+CUST000263,322,1,70.08,5,1,2,8,new_and_promising,SP,Melo
+CUST001227,524,1,70.09,3,2,2,7,needs_attention,MG,da Cruz
+CUST001274,561,2,70.12,2,2,2,6,lost,SP,Macedo
+CUST000394,738,2,70.13,1,4,2,7,at_risk_loyal,PA,Mendes do Amparo
+CUST001154,628,1,70.29,2,2,2,6,lost,GO,Macedo
+CUST001242,302,3,70.3,5,5,2,12,champions,PA,Duarte da Mata
+CUST002268,268,1,70.4,5,1,2,8,new_and_promising,PE,Marques
+CUST002380,288,2,70.45,5,3,2,10,new_and_promising,ES,Correia
+CUST000035,577,1,70.46,2,2,2,6,lost,AC,Vargas do Norte
+CUST001470,369,1,70.61,4,2,2,8,new_and_promising,PA,Viana do Campo
+CUST001011,817,1,70.67,1,1,2,4,lost,SP,Martins da Prata
+CUST002426,301,1,70.94,5,1,2,8,new_and_promising,AL,Albuquerque dos Dourados
+CUST001110,862,2,71.00999999999999,1,3,2,6,needs_attention,SP,Carvalho
+CUST000415,334,2,71.04,4,4,2,10,champions,DF,Albuquerque de Silveira
+CUST000688,285,2,71.05,5,3,2,10,new_and_promising,RJ,da Rosa
+CUST001052,333,1,71.09,4,1,2,7,new_and_promising,PR,Rezende
+CUST002144,366,2,71.17999999999999,4,4,2,10,champions,RJ,Correia das Pedras
+CUST001314,748,1,71.18,1,1,2,4,lost,MT,das Neves
+CUST000750,522,2,71.37,3,3,2,8,needs_attention,BA,Monteiro
+CUST000807,670,1,71.38,2,2,2,6,lost,RO,da Mata
+CUST000398,289,1,71.41,5,1,2,8,new_and_promising,MG,Azevedo
+CUST002316,919,1,71.47,1,1,2,4,lost,SP,Fernandes
+CUST000113,546,2,71.5,2,2,2,6,lost,SE,Souza
+CUST002298,461,2,71.61,3,3,2,8,needs_attention,SP,Mendonça
+CUST001338,492,1,71.75,3,2,2,7,needs_attention,GO,Câmara Alegre
+CUST001375,763,1,71.92,1,1,2,4,lost,RJ,Carvalho
+CUST002358,297,1,71.92,5,1,2,8,new_and_promising,SP,Sales do Galho
+CUST001447,545,1,71.96,2,2,2,6,lost,PE,Moura
+CUST000467,417,1,72.1,3,2,2,7,needs_attention,RJ,Casa Grande
+CUST002173,385,1,72.29,4,2,2,8,new_and_promising,SP,Garcia do Sul
+CUST001206,905,2,72.56,1,2,2,5,lost,PA,Oliveira
+CUST001325,815,1,72.64,1,1,2,4,lost,AM,da Luz
+CUST000486,456,2,72.71,3,3,2,8,needs_attention,AL,Freitas de Rios
+CUST001840,284,2,72.84,5,3,2,10,new_and_promising,SP,Gomes dos Dourados
+CUST000907,545,1,72.94,2,2,2,6,lost,MT,Ramos de da Cunha
+CUST002209,636,1,72.98,2,2,2,6,lost,RJ,Correia de Nunes
+CUST000165,331,2,73.00999999999999,4,3,2,9,new_and_promising,SP,da Mata
+CUST000400,475,1,73.49,3,2,2,7,needs_attention,CE,Viana do Galho
+CUST001596,523,2,73.50999999999999,3,3,2,8,needs_attention,SC,da Rocha de da Luz
+CUST000792,348,1,73.66,4,1,2,7,new_and_promising,BA,Rezende do Oeste
+CUST001961,305,1,73.67,5,1,2,8,new_and_promising,SP,Borges
+CUST000206,327,2,73.68,4,3,2,9,new_and_promising,SP,Pimenta de Vargas
+CUST000640,422,1,73.87,3,2,2,7,needs_attention,MG,Ramos Alegre
+CUST001465,432,2,73.9,3,3,2,8,needs_attention,RR,Dias da Serra
+CUST000302,545,1,73.93,2,2,2,6,lost,PR,Câmara das Flores
+CUST002215,755,1,73.99,1,1,2,4,lost,PE,da Luz da Prata
+CUST000390,570,2,74.14,2,2,2,6,lost,ES,Martins
+CUST001258,286,2,74.18,5,3,2,10,new_and_promising,RS,Silveira de Goiás
+CUST000703,329,1,74.21,4,1,2,7,new_and_promising,RJ,Fogaça
+CUST001379,560,2,74.24,2,2,2,6,lost,MG,Campos da Prata
+CUST000480,316,1,74.27,5,1,2,8,new_and_promising,PR,Sampaio de da Rosa
+CUST002112,480,2,74.46,3,3,2,8,needs_attention,SP,Souza de Minas
+CUST001142,808,1,74.47,1,1,2,4,lost,RJ,da Luz
+CUST002208,557,2,74.5,2,2,2,6,lost,MA,Novais de da Rocha
+CUST002354,645,1,74.58,2,2,2,6,lost,PB,Nogueira de Cardoso
+CUST000668,661,1,74.73,2,2,2,6,lost,SP,Silva
+CUST002093,576,2,74.82,2,3,2,7,needs_attention,SP,Campos da Praia
+CUST000231,819,2,74.91999999999999,1,3,2,6,needs_attention,ES,Azevedo
+CUST001873,774,1,74.97,1,1,2,4,lost,PR,Farias de Fogaça
+CUST000141,643,2,75.0,2,3,2,7,needs_attention,AC,Caldeira
+CUST000358,674,2,75.09,2,4,2,8,at_risk_loyal,BA,Macedo de Barros
+CUST001283,277,3,75.27,5,5,2,12,champions,SC,da Cruz
+CUST001548,933,1,75.49,1,1,2,4,lost,SC,Siqueira das Pedras
+CUST000958,418,1,75.82,3,2,2,7,needs_attention,SP,Campos da Serra
+CUST000675,540,2,76.17,2,3,2,7,needs_attention,MG,Aragão das Flores
+CUST001984,338,2,76.21,4,4,2,10,champions,RS,Jesus
+CUST000043,894,1,76.27,1,1,2,4,lost,SP,Souza Verde
+CUST000561,364,3,76.30000000000001,4,4,2,10,champions,PE,Silveira Alegre
+CUST001215,246,1,76.67,5,1,2,8,new_and_promising,PE,Santos das Pedras
+CUST001343,913,1,76.75,1,1,2,4,lost,PB,Moreira
+CUST000462,327,1,77.09,4,1,2,7,new_and_promising,DF,Viana
+CUST000299,270,2,77.15,5,3,2,10,new_and_promising,BA,Ramos de Silva
+CUST000932,664,2,77.4,2,4,2,8,at_risk_loyal,MS,Moura
+CUST000109,344,1,77.42,4,1,2,7,new_and_promising,SP,Viana dos Dourados
+CUST000315,296,2,77.44,5,3,2,10,new_and_promising,MS,da Conceição da Praia
+CUST001784,341,2,77.55000000000001,4,4,2,10,champions,DF,Caldeira de Pimenta
+CUST001781,625,2,77.71,2,3,2,7,needs_attention,SP,Araújo
+CUST002329,257,1,77.75,5,1,2,8,new_and_promising,DF,Ribeiro Paulista
+CUST000793,581,1,77.88,2,2,2,6,lost,PR,Pinto do Sul
+CUST002491,382,1,77.93,4,2,2,8,new_and_promising,RJ,Santos Alegre
+CUST000559,608,1,78.01,2,2,2,6,lost,CE,Marques Alegre
+CUST000953,910,1,78.08,1,1,2,4,lost,SP,Cirino Grande
+CUST001106,649,3,78.38,2,4,2,8,at_risk_loyal,SP,Viana de Barbosa
+CUST000268,447,1,78.51,3,1,2,6,needs_attention,PE,Vasconcelos
+CUST000074,438,2,78.58,3,3,2,8,needs_attention,MT,Silva
+CUST001493,604,3,78.58000000000001,2,5,2,9,at_risk_loyal,SP,Cassiano de Aragão
+CUST002224,256,1,78.9,5,1,2,8,new_and_promising,SP,Duarte das Pedras
+CUST000305,451,2,79.03,3,3,2,8,needs_attention,PE,Lima da Prata
+CUST000181,657,1,79.31,2,2,2,6,lost,RJ,Pereira do Galho
+CUST001631,315,2,79.42,5,3,2,10,new_and_promising,CE,Porto das Pedras
+CUST001666,544,1,79.65,2,2,2,6,lost,MA,da Paz
+CUST000821,808,1,79.72,1,1,2,4,lost,ES,Nascimento do Sul
+CUST001285,470,3,79.83,3,5,2,10,needs_attention,RJ,Costela do Galho
+CUST001665,309,2,79.86,5,3,2,10,new_and_promising,RR,Caldeira do Galho
+CUST001029,814,1,79.95,1,1,2,4,lost,RJ,Moura
+CUST001660,348,2,79.97999999999999,4,4,2,10,champions,RS,Melo Grande
+CUST001518,383,2,80.01,4,4,2,10,champions,AL,Cavalcanti de Cavalcante
+CUST002244,526,3,80.18,3,4,2,9,needs_attention,RR,Nascimento
+CUST001412,405,3,80.37,4,4,2,10,champions,SP,Araújo de Borges
+CUST001161,416,2,80.38,4,4,2,10,champions,MT,Novaes
+CUST001164,919,1,80.4,1,1,2,4,lost,CE,Pires da Serra
+CUST000367,721,3,80.62,1,4,2,7,at_risk_loyal,AC,Porto do Amparo
+CUST002393,633,2,80.65,2,3,2,7,needs_attention,MG,Machado
+CUST000725,516,2,80.67,3,3,2,8,needs_attention,SC,Barros das Pedras
+CUST000106,738,2,80.75,1,3,2,6,needs_attention,RJ,Guerra
+CUST000818,547,2,80.89,2,2,2,6,lost,MG,Cunha
+CUST001495,421,1,81.12,3,2,2,7,needs_attention,BA,da Rocha
+CUST000062,547,1,81.3,2,2,2,6,lost,RJ,Teixeira da Serra
+CUST000979,615,2,81.35,2,3,2,7,needs_attention,RS,da Rosa
+CUST001398,720,1,81.36,1,1,2,4,lost,RJ,Rodrigues de Minas
+CUST001889,776,1,81.62,1,1,2,4,lost,PE,Cavalcanti
+CUST000270,415,2,81.64,4,4,2,10,champions,RJ,Pacheco
+CUST001198,619,1,81.69,2,2,2,6,lost,AM,Mendonça de Cavalcante
+CUST000694,870,1,81.7,1,1,2,4,lost,SP,Silva
+CUST002345,970,1,81.78,1,1,2,4,lost,RO,Araújo Paulista
+CUST001805,571,2,81.99,2,3,2,7,needs_attention,RJ,Cassiano
+CUST001730,356,1,82.05,4,2,2,8,new_and_promising,BA,Borges
+CUST000319,860,1,82.06,1,1,2,4,lost,SP,Aragão
+CUST000542,361,2,82.1,4,4,2,10,champions,BA,Fogaça das Pedras
+CUST001397,753,1,82.12,1,1,2,4,lost,MG,Guerra
+CUST000168,372,2,82.29,4,4,2,10,champions,SP,Melo
+CUST000090,257,1,82.35,5,1,2,8,new_and_promising,RS,Jesus de Correia
+CUST000827,293,2,82.46,5,3,2,10,new_and_promising,RJ,Fonseca
+CUST000524,469,2,82.51,3,3,2,8,needs_attention,MS,Pereira Grande
+CUST000447,691,1,82.52,2,2,2,6,lost,AP,Sampaio da Mata
+CUST000274,456,2,82.57,3,3,2,8,needs_attention,PI,Caldeira
+CUST002350,381,2,82.71000000000001,4,4,2,10,champions,SP,Moreira de Goiás
+CUST002417,372,2,82.71000000000001,4,4,2,10,champions,MG,Aparecida da Serra
+CUST001390,872,2,82.77,1,3,2,6,needs_attention,RS,Guerra
+CUST000374,715,1,82.89,1,1,2,4,lost,GO,Marques
+CUST000198,719,1,83.04,1,2,2,5,lost,AL,Rocha de Cunha
+CUST002074,666,1,83.16,2,2,2,6,lost,PB,Machado da Serra
+CUST000910,431,1,83.28,3,2,2,7,needs_attention,MG,Cavalcanti
+CUST001060,378,2,83.30000000000001,4,4,2,10,champions,DF,da Conceição
+CUST000102,324,3,83.39,4,5,2,11,champions,DF,Rezende
+CUST000373,348,2,83.46000000000001,4,4,2,10,champions,SP,Ribeiro das Flores
+CUST000809,366,2,83.50999999999999,4,4,2,10,champions,RS,Aragão
+CUST001057,866,1,83.82,1,1,2,4,lost,PA,Barros
+CUST001689,869,1,83.89,1,1,2,4,lost,BA,Ribeiro
+CUST002028,454,2,84.05,3,3,2,8,needs_attention,AP,Sales dos Dourados
+CUST001396,259,1,84.15,5,1,2,8,new_and_promising,MT,Cardoso
+CUST001799,404,3,84.15,4,4,2,10,champions,SP,Garcia
+CUST001539,637,1,84.41,2,2,2,6,lost,SP,Sales de Goiás
+CUST000250,626,2,84.64,2,3,2,7,needs_attention,MA,Garcia Alegre
+CUST001522,468,2,84.64,3,3,2,8,needs_attention,RO,Pires
+CUST000205,473,3,84.64,3,5,2,10,needs_attention,BA,da Cruz
+CUST001768,501,1,85.12,3,2,2,7,needs_attention,RS,Pinto
+CUST000362,908,1,85.21,1,1,2,4,lost,DF,Rocha
+CUST002284,575,1,85.52,2,2,2,6,lost,SP,Dias
+CUST001758,373,1,85.56,4,2,2,8,new_and_promising,RS,Siqueira
+CUST001076,598,1,85.58,2,2,2,6,lost,MG,Pereira das Flores
+CUST002281,666,2,85.91,2,3,2,7,needs_attention,RJ,Campos de Goiás
+CUST001208,463,2,86.02000000000001,3,3,2,8,needs_attention,RS,Nogueira do Norte
+CUST000008,355,1,86.29,4,1,2,7,new_and_promising,PB,Montenegro
+CUST001332,293,2,86.33,5,3,2,10,new_and_promising,PE,da Conceição
+CUST000602,471,2,86.36,3,2,2,7,needs_attention,RJ,Cavalcanti
+CUST000571,933,1,86.45,1,1,2,4,lost,PR,Moura de Rios
+CUST000898,400,2,86.61000000000001,4,4,2,10,champions,AL,Viana do Amparo
+CUST001192,436,2,86.71000000000001,3,3,2,8,needs_attention,SC,Machado do Norte
+CUST001573,613,2,87.11,2,3,2,7,needs_attention,CE,da Mata
+CUST000192,380,1,87.19,4,2,2,8,new_and_promising,AL,Leão
+CUST001304,344,2,87.3,4,4,2,10,champions,PR,da Mota
+CUST000169,534,2,87.31,3,3,2,8,needs_attention,SP,Costa
+CUST000919,764,1,87.54,1,1,2,4,lost,PA,da Luz
+CUST000221,446,1,87.55,3,2,2,7,needs_attention,DF,Machado de da Luz
+CUST001672,337,2,87.86,4,4,2,10,champions,PB,Santos das Pedras
+CUST001817,404,2,88.27,4,4,2,10,champions,RJ,Camargo
+CUST000442,760,1,88.35,1,1,2,4,lost,AP,Porto das Pedras
+CUST001729,596,1,88.46,2,2,2,6,lost,MT,Jesus do Norte
+CUST000673,570,2,88.53,2,2,2,6,lost,SP,Borges de Goiás
+CUST001856,780,2,88.66,1,3,2,6,needs_attention,RJ,Rocha da Praia
+CUST000153,905,1,88.75,1,1,2,4,lost,SP,Nogueira
+CUST002186,783,2,88.77,1,3,2,6,needs_attention,RO,Rios
+CUST001832,371,1,88.88,4,2,2,8,new_and_promising,BA,Ramos de Minas
+CUST000002,975,1,88.91,1,1,2,4,lost,TO,da Cruz de Goiás
+CUST001663,249,1,88.96,5,2,2,9,new_and_promising,PI,Ribeiro do Campo
+CUST001461,795,2,89.03,1,3,2,6,needs_attention,MG,Pimenta de Goiás
+CUST001140,427,1,89.48,3,2,2,7,needs_attention,BA,Sá Alegre
+CUST000641,921,1,89.75,1,1,2,4,lost,SP,Rios
+CUST000037,354,1,90.11,4,1,2,7,new_and_promising,RJ,Guerra Paulista
+CUST001921,600,1,90.2,2,2,2,6,lost,PE,Fonseca Verde
+CUST002378,574,3,90.30000000000001,2,4,2,8,at_risk_loyal,ES,Cirino das Flores
+CUST000186,584,1,90.32,2,2,2,6,lost,DF,Fonseca
+CUST000350,693,2,90.35999999999999,2,4,2,8,at_risk_loyal,BA,Ramos
+CUST000632,656,2,90.6,2,3,2,7,needs_attention,AL,Novais
+CUST001501,547,1,90.6,2,2,2,6,lost,PR,Melo do Amparo
+CUST000678,758,2,90.63,1,3,2,6,needs_attention,MG,Alves
+CUST002371,499,1,90.72,3,2,2,7,needs_attention,DF,Pereira Verde
+CUST002050,841,1,90.95,1,1,2,4,lost,SP,Cassiano do Campo
+CUST001891,318,3,91.04,5,5,2,12,champions,SP,Nascimento
+CUST000568,274,2,91.17,5,3,2,10,new_and_promising,MG,da Mata do Oeste
+CUST000884,644,2,91.52000000000001,2,3,2,7,needs_attention,SP,Aragão
+CUST001957,378,3,91.64,4,4,2,10,champions,DF,Moreira
+CUST002108,900,1,91.73,1,1,2,4,lost,AL,Jesus de Cavalcante
+CUST001565,388,2,92.07,4,4,2,10,champions,MT,Mendonça dos Dourados
+CUST002359,259,2,92.1,5,3,2,10,new_and_promising,PR,Lopes
+CUST000379,490,3,92.13,3,5,2,10,needs_attention,MT,Moreira
+CUST001300,261,2,92.16,5,3,2,10,new_and_promising,PE,Vieira
+CUST000565,836,1,92.44,1,1,2,4,lost,RJ,da Mata
+CUST002397,597,1,92.56,2,2,2,6,lost,SP,da Rocha
+CUST000970,924,1,92.61,1,1,2,4,lost,RS,Brito
+CUST002396,835,2,92.74000000000001,1,3,2,6,needs_attention,RJ,Moreira do Norte
+CUST002340,252,2,92.87,5,2,2,9,new_and_promising,MG,Farias do Amparo
+CUST000291,443,1,93.01,3,2,2,7,needs_attention,SP,Duarte de Cirino
+CUST001415,252,1,93.31,5,1,2,8,new_and_promising,PR,Pires
+CUST002456,433,1,93.35,3,2,2,7,needs_attention,SP,Cardoso Verde
+CUST002012,436,2,93.37,3,3,2,8,needs_attention,SP,Castro
+CUST000840,893,1,93.65,1,1,2,4,lost,DF,Duarte
+CUST000089,771,1,93.73,1,1,2,4,lost,RN,da Cruz de Viana
+CUST001210,545,1,93.88,2,2,2,6,lost,RR,Caldeira de Goiás
+CUST002048,720,2,94.0,1,4,2,7,at_risk_loyal,PE,da Conceição
+CUST001067,687,1,94.04,2,2,2,6,lost,SP,Sá
+CUST001453,361,2,94.17,4,4,2,10,champions,PB,Cavalcanti da Prata
+CUST001222,434,2,94.2,3,3,2,8,needs_attention,SP,da Rocha Verde
+CUST000512,340,2,94.28,4,4,2,10,champions,MG,Aragão Grande
+CUST001502,468,2,94.28999999999999,3,3,2,8,needs_attention,RS,Borges da Prata
+CUST001207,278,2,94.39,5,3,2,10,new_and_promising,GO,da Mata
+CUST000989,402,1,94.44,4,2,2,8,new_and_promising,RJ,Cirino da Prata
+CUST002171,372,2,94.46000000000001,4,4,2,10,champions,GO,Barbosa da Prata
+CUST000933,386,1,94.6,4,2,2,8,new_and_promising,AP,Moura de Santos
+CUST002401,515,2,94.65,3,3,2,8,needs_attention,RJ,Martins
+CUST001741,539,2,94.91,3,3,2,8,needs_attention,MT,Sampaio do Campo
+CUST000520,469,2,95.06,3,3,2,8,needs_attention,SP,Mendes
+CUST001614,425,2,95.16,3,3,2,8,needs_attention,RJ,Aragão de Porto
+CUST001594,333,1,95.17,4,1,2,7,new_and_promising,SP,Silveira
+CUST000261,641,2,95.25,2,3,2,7,needs_attention,BA,Almeida
+CUST001400,562,1,95.26,2,2,2,6,lost,PE,Costa
+CUST001486,765,1,95.32,1,1,2,4,lost,MG,Castro do Norte
+CUST000337,762,1,95.48,1,1,2,4,lost,MA,da Luz
+CUST000584,873,1,95.6,1,1,2,4,lost,RJ,Dias
+CUST002004,345,1,95.62,4,1,2,7,new_and_promising,RJ,Porto
+CUST000469,665,1,95.64,2,2,2,6,lost,SP,Novais da Praia
+CUST000047,624,2,95.67999999999999,2,3,2,7,needs_attention,RJ,Camargo
+CUST002169,774,1,95.73,1,1,2,4,lost,GO,Barros Grande
+CUST000511,790,2,95.94,1,3,2,6,needs_attention,BA,Almeida da Serra
+CUST000751,474,1,96.07,3,2,2,7,needs_attention,SP,Novais do Campo
+CUST000202,695,1,96.16,2,2,2,6,lost,SP,Borges de Goiás
+CUST002328,443,1,96.18,3,2,2,7,needs_attention,SP,Azevedo
+CUST001246,893,1,96.49,1,1,2,4,lost,BA,Aparecida
+CUST001403,548,2,96.52000000000001,2,2,2,6,lost,SP,Aragão de Cavalcante
+CUST000529,713,2,96.59,1,4,2,7,at_risk_loyal,SP,Brito do Campo
+CUST000115,601,2,96.59,2,3,2,7,needs_attention,DF,Montenegro de Moura
+CUST000830,266,4,96.69,5,5,2,12,champions,RS,Pinto do Campo
+CUST000543,674,2,96.69999999999999,2,4,2,8,at_risk_loyal,SP,da Paz
+CUST001929,448,2,96.75999999999999,3,3,2,8,needs_attention,DF,Moraes
+CUST001488,296,1,96.89,5,1,2,8,new_and_promising,PE,Correia
+CUST002432,663,2,97.02,2,4,2,8,at_risk_loyal,MT,da Cruz
+CUST002450,524,2,97.12,3,3,2,8,needs_attention,RJ,Moura do Oeste
+CUST002275,329,2,97.3,4,3,2,9,new_and_promising,TO,Vieira do Amparo
+CUST001272,304,3,97.43,5,5,2,12,champions,MA,Azevedo
+CUST000455,407,2,97.59,4,4,2,10,champions,SP,Pires
+CUST000943,794,1,97.63,1,1,2,4,lost,DF,Moraes
+CUST002278,619,1,97.64,2,2,2,6,lost,PR,Andrade Verde
+CUST000764,481,2,97.75,3,3,2,8,needs_attention,CE,Costa
+CUST001041,404,2,97.88,4,4,2,10,champions,PR,Nascimento da Mata
+CUST001034,836,1,97.91,1,1,2,4,lost,SP,Azevedo
+CUST001430,706,1,98.04,1,1,2,4,lost,PB,Fogaça da Serra
+CUST002400,625,1,98.07,2,2,2,6,lost,DF,da Rocha do Norte
+CUST000603,504,1,98.19,3,2,2,7,needs_attention,SP,Teixeira
+CUST001233,466,1,98.26,3,2,2,7,needs_attention,SP,Guerra
+CUST000259,442,2,98.42,3,3,2,8,needs_attention,SC,Sá
+CUST001071,653,2,98.43,2,3,2,7,needs_attention,RJ,Rocha da Prata
+CUST002098,422,2,98.53999999999999,3,3,2,8,needs_attention,DF,Barros de Garcia
+CUST001544,267,3,98.81,5,4,2,11,champions,RJ,Sampaio de Rodrigues
+CUST001624,357,4,98.84,4,5,2,11,champions,AC,Mendonça
+CUST001452,515,1,98.85,3,2,2,7,needs_attention,BA,Vieira do Amparo
+CUST001316,689,2,98.93,2,4,2,8,at_risk_loyal,DF,Santos
+CUST000482,626,2,98.94,2,3,2,7,needs_attention,PE,Andrade
+CUST002137,550,2,99.03,2,2,2,6,lost,SP,Ferreira
+CUST002032,456,3,99.08,3,5,2,10,needs_attention,SC,Pastor de Alves
+CUST000850,297,3,99.13,5,5,2,12,champions,BA,Pacheco
+CUST002070,672,1,99.26,2,2,2,6,lost,RJ,Pimenta de Fernandes
+CUST001426,318,2,99.3,5,3,2,10,new_and_promising,AC,da Cruz
+CUST002262,274,2,99.3,5,3,2,10,new_and_promising,BA,Moreira
+CUST001133,695,1,99.39,2,2,2,6,lost,SP,Machado
+CUST001742,721,1,99.94,1,1,2,4,lost,CE,Cavalcante
+CUST000846,264,2,100.59,5,3,2,10,new_and_promising,MG,Pacheco da Mata
+CUST001738,726,3,100.61,1,4,2,7,at_risk_loyal,SP,Brito
+CUST000346,586,1,100.67,2,2,2,6,lost,BA,Rodrigues
+CUST001025,347,2,101.03,4,4,2,10,champions,RO,da Cunha do Amparo
+CUST000638,520,2,101.09,3,3,2,8,needs_attention,SP,Peixoto
+CUST000029,312,2,101.19,5,3,2,10,new_and_promising,BA,Costela Paulista
+CUST000495,297,2,101.19999999999999,5,3,2,10,new_and_promising,RS,Gonçalves
+CUST000984,507,3,101.31,3,4,2,9,needs_attention,SP,Novais do Amparo
+CUST000076,753,2,101.44,1,3,2,6,needs_attention,CE,Moreira de Machado
+CUST001389,597,2,101.46,2,3,2,7,needs_attention,AM,da Luz da Serra
+CUST001432,459,2,101.69,3,3,2,8,needs_attention,PR,Sousa da Praia
+CUST001818,466,2,101.92,3,3,2,8,needs_attention,PA,Machado de Goiás
+CUST000803,264,2,102.1,5,3,2,10,new_and_promising,SC,Siqueira da Praia
+CUST000934,437,2,102.21,3,3,2,8,needs_attention,PR,Barbosa Verde
+CUST002163,335,2,102.29,4,4,2,10,champions,RJ,da Conceição
+CUST001967,823,2,102.35,1,3,2,6,needs_attention,SP,Ferreira Verde
+CUST002039,905,1,102.62,1,1,2,4,lost,SP,da Cruz da Mata
+CUST002327,547,4,102.69,2,5,2,9,at_risk_loyal,MT,Martins
+CUST000498,523,2,102.92999999999999,3,3,2,8,needs_attention,SP,Ramos
+CUST001497,537,1,102.96,3,2,2,7,needs_attention,BA,Costela
+CUST001194,939,1,103.08,1,1,2,4,lost,BA,Correia
+CUST001841,253,2,103.1,5,2,2,9,new_and_promising,MG,Lopes Alegre
+CUST000381,396,2,103.22,4,4,2,10,champions,SP,Teixeira de Aragão
+CUST001091,298,2,103.44,5,3,2,10,new_and_promising,RO,Cirino
+CUST001860,531,2,103.53999999999999,3,3,2,8,needs_attention,CE,Nascimento da Prata
+CUST001472,464,1,103.61,3,2,2,7,needs_attention,CE,Macedo das Pedras
+CUST000218,455,1,103.93,3,2,2,7,needs_attention,CE,Sá dos Dourados
+CUST000355,511,2,103.98,3,3,2,8,needs_attention,SP,Macedo do Campo
+CUST002254,428,2,104.19,3,3,2,8,needs_attention,MT,Fogaça de Dias
+CUST000088,849,2,104.28,1,3,2,6,needs_attention,DF,Silveira
+CUST002045,448,2,104.55000000000001,3,3,2,8,needs_attention,MA,Sousa de Costa
+CUST001735,699,1,104.64,2,2,2,6,lost,SP,Farias de Novais
+CUST000618,346,2,104.8,4,4,2,10,champions,RJ,Machado
+CUST002438,679,1,104.87,2,2,2,6,lost,RJ,Rios
+CUST000407,673,1,104.93,2,2,2,6,lost,MG,Oliveira
+CUST002092,301,2,105.13,5,3,2,10,new_and_promising,AC,Ferreira do Sul
+CUST000861,534,1,105.2,3,2,2,7,needs_attention,PA,Novais
+CUST002238,262,2,105.22999999999999,5,3,2,10,new_and_promising,SP,Fonseca
+CUST000151,851,1,105.4,1,1,2,4,lost,PI,Novais do Sul
+CUST001713,765,1,105.7,1,1,2,4,lost,PA,Ribeiro das Flores
+CUST002184,572,2,105.78,2,3,2,7,needs_attention,RJ,Porto de da Rosa
+CUST000286,566,2,105.9,2,2,2,6,lost,SP,Duarte de Goiás
+CUST002156,565,2,105.93,2,2,2,6,lost,SP,Sampaio do Amparo
+CUST002255,442,3,105.93,3,4,2,9,needs_attention,PB,Freitas das Pedras
+CUST000256,424,1,105.97,3,2,2,7,needs_attention,SC,Ferreira
+CUST000864,595,2,105.97999999999999,2,3,2,7,needs_attention,MG,Nascimento de Fernandes
+CUST001763,261,2,106.10000000000001,5,3,2,10,new_and_promising,SP,Machado Grande
+CUST001759,630,3,106.16,2,5,2,9,at_risk_loyal,SP,Caldeira
+CUST000948,283,2,106.28999999999999,5,3,2,10,new_and_promising,AL,Abreu do Oeste
+CUST002118,569,1,106.34,2,2,2,6,lost,BA,da Luz
+CUST001795,451,2,106.44,3,3,2,8,needs_attention,SP,da Rocha
+CUST001790,305,3,106.46000000000001,5,5,2,12,champions,PR,Souza
+CUST001003,895,2,106.69,1,2,2,5,lost,PB,Farias
+CUST000871,877,1,106.83,1,1,2,4,lost,MG,Novais Paulista
+CUST001230,347,2,106.86,4,4,2,10,champions,MG,Casa Grande de Oliveira
+CUST001296,491,1,106.9,3,2,2,7,needs_attention,SP,Vargas de Barbosa
+CUST002131,294,1,107.02,5,1,2,8,new_and_promising,SP,Moura da Prata
+CUST000016,571,4,107.05,2,5,2,9,at_risk_loyal,SP,Brito da Praia
+CUST002282,372,3,107.12,4,4,2,10,champions,MG,Porto
+CUST000433,893,1,107.13,1,1,3,5,lost,BA,Pimenta
+CUST001872,349,2,107.22999999999999,4,4,3,11,champions,SP,Costa
+CUST000443,617,1,107.35,2,2,3,7,lost,MG,Marques da Mata
+CUST001124,376,1,107.6,4,2,3,9,new_and_promising,ES,Siqueira
+CUST000716,310,2,107.66,5,3,3,11,new_and_promising,SE,das Neves do Galho
+CUST000475,428,1,108.22,3,2,3,8,needs_attention,PR,Rocha
+CUST001826,333,5,108.43,4,5,3,12,champions,PR,Moraes de Minas
+CUST002037,465,1,108.6,3,2,3,8,needs_attention,SP,Fogaça do Galho
+CUST000417,422,1,108.71,3,2,3,8,needs_attention,RJ,Barbosa
+CUST001587,423,2,108.78999999999999,3,3,3,9,needs_attention,PE,Rodrigues do Campo
+CUST000014,450,1,108.81,3,2,3,8,needs_attention,SP,Cunha
+CUST000242,339,3,108.95,4,4,3,11,champions,TO,Mendonça do Sul
+CUST001794,358,1,109.18,4,2,3,9,new_and_promising,GO,Vasconcelos
+CUST000508,271,2,109.58000000000001,5,3,3,11,new_and_promising,MT,Cardoso
+CUST001850,317,2,109.59,5,3,3,11,new_and_promising,DF,Teixeira dos Dourados
+CUST002096,751,2,109.79,1,3,3,7,needs_attention,ES,Fogaça Alegre
+CUST001886,527,1,109.92,3,2,3,8,needs_attention,RS,Mendes dos Dourados
+CUST001699,911,2,109.99,1,3,3,7,needs_attention,AC,Leão
+CUST000087,571,1,110.04,2,2,3,7,lost,CE,Cunha de Nogueira
+CUST001644,402,3,110.30000000000001,4,4,3,11,champions,BA,Lopes Grande
+CUST002221,593,1,110.46,2,2,3,7,lost,PE,Correia do Galho
+CUST002080,379,3,110.55,4,4,3,11,champions,PA,Melo
+CUST002016,484,1,110.64,3,2,3,8,needs_attention,MG,Sousa
+CUST002176,343,3,110.78999999999999,4,4,3,11,champions,MS,da Cruz de Sousa
+CUST001987,319,3,111.11999999999999,5,5,3,13,champions,CE,Vasconcelos das Flores
+CUST002166,263,1,111.19,5,1,3,9,new_and_promising,AP,Fernandes
+CUST002056,836,1,111.24,1,1,3,5,lost,GO,Cirino de Teixeira
+CUST002357,619,3,111.26,2,5,3,10,at_risk_loyal,AL,Carvalho
+CUST001941,816,1,111.34,1,1,3,5,lost,SP,Oliveira
+CUST000709,440,2,111.34,3,3,3,9,needs_attention,RJ,Vasconcelos
+CUST000356,305,2,111.51,5,3,3,11,new_and_promising,DF,Sales de da Rosa
+CUST001896,302,1,111.56,5,1,3,9,new_and_promising,CE,Vargas Verde
+CUST001922,412,2,111.57,4,4,3,11,champions,SP,Moreira
+CUST000414,781,2,111.67,1,3,3,7,needs_attention,SC,Moura
+CUST001680,364,2,111.78999999999999,4,4,3,11,champions,PE,da Cunha
+CUST000013,516,1,111.86,3,2,3,8,needs_attention,MS,Fernandes Paulista
+CUST000748,393,1,111.92,4,2,3,9,new_and_promising,PR,da Cruz do Campo
+CUST000841,780,1,111.97,1,1,3,5,lost,SP,Castro das Flores
+CUST000322,797,1,112.28,1,1,3,5,lost,PE,Melo do Amparo
+CUST000820,461,2,112.31,3,3,3,9,needs_attention,RJ,Monteiro do Amparo
+CUST000435,371,2,112.34,4,2,3,9,new_and_promising,SP,Pacheco de Casa Grande
+CUST001055,442,3,112.82,3,5,3,11,needs_attention,RR,Araújo de Porto
+CUST000852,678,2,112.84,2,4,3,9,at_risk_loyal,CE,Casa Grande de Goiás
+CUST000422,566,2,112.9,2,2,3,7,lost,ES,Pinto
+CUST000955,463,1,112.98,3,2,3,8,needs_attention,MG,Garcia de Garcia
+CUST000654,343,3,113.08,4,4,3,11,champions,CE,Sales
+CUST000926,296,2,113.21000000000001,5,3,3,11,new_and_promising,SP,Carvalho
+CUST002484,541,2,113.22,2,2,3,7,lost,SP,Costela
+CUST000671,440,3,113.5,3,5,3,11,needs_attention,SP,da Mata
+CUST001166,696,2,113.53,2,4,3,9,at_risk_loyal,MT,Gonçalves do Sul
+CUST001927,782,2,114.03,1,3,3,7,needs_attention,BA,Macedo
+CUST002002,862,1,114.46,1,1,3,5,lost,RJ,Guerra do Galho
+CUST002379,411,2,114.53,4,4,3,11,champions,RS,Melo de Carvalho
+CUST000353,260,1,115.08,5,1,3,9,new_and_promising,DF,Cavalcante
+CUST000174,657,1,115.19,2,2,3,7,lost,SP,da Mota de Minas
+CUST001598,611,1,115.4,2,2,3,7,lost,SP,Pacheco
+CUST000464,338,2,115.56,4,4,3,11,champions,BA,Cavalcante Paulista
+CUST002104,280,3,115.77,5,5,3,13,champions,PE,Dias
+CUST000669,809,2,115.82,1,3,3,7,needs_attention,SP,da Paz
+CUST001307,744,1,115.84,1,1,3,5,lost,PE,Cassiano
+CUST000232,453,2,115.98,3,3,3,9,needs_attention,PR,Jesus Alegre
+CUST001745,346,3,116.1,4,4,3,11,champions,MG,Correia
+CUST000862,303,4,116.14999999999999,5,5,3,13,champions,RS,Ribeiro do Amparo
+CUST002147,355,3,116.35999999999999,4,4,3,11,champions,RS,Garcia de Goiás
+CUST001021,477,2,116.53,3,3,3,9,needs_attention,PE,da Rocha Grande
+CUST001559,436,3,116.54,3,5,3,11,needs_attention,MS,Marques
+CUST000067,633,1,116.94,2,2,3,7,lost,SP,Nunes
+CUST001900,825,1,117.13,1,1,3,5,lost,PA,Fonseca
+CUST001822,805,1,117.22,1,1,3,5,lost,SP,Alves do Galho
+CUST002324,392,1,117.27,4,2,3,9,new_and_promising,RJ,da Cunha
+CUST001078,759,1,117.28,1,1,3,5,lost,GO,Mendonça de da Conceição
+CUST001875,432,2,117.49,3,3,3,9,needs_attention,CE,Brito
+CUST002188,626,3,117.56,2,5,3,10,at_risk_loyal,PA,Porto
+CUST002015,514,2,117.75,3,3,3,9,needs_attention,PR,Pastor do Oeste
+CUST001739,298,1,117.8,5,1,3,9,new_and_promising,MG,Abreu
+CUST000497,735,1,118.31,1,1,3,5,lost,BA,Borges de Ribeiro
+CUST001977,947,1,118.6,1,1,3,5,lost,RJ,Sales
+CUST002283,459,2,118.61999999999999,3,3,3,9,needs_attention,RS,Aragão da Mata
+CUST000993,636,2,118.7,2,3,3,8,needs_attention,RJ,Leão da Prata
+CUST000710,448,2,119.0,3,3,3,9,needs_attention,GO,Sampaio de Mendes
+CUST001179,554,2,119.11,2,2,3,7,lost,PA,Rocha
+CUST000760,711,1,119.23,1,1,3,5,lost,ES,Novaes
+CUST001592,826,1,119.41,1,1,3,5,lost,RR,Araújo
+CUST000446,722,1,119.56,1,1,3,5,lost,TO,Oliveira da Praia
+CUST001007,267,1,119.72,5,1,3,9,new_and_promising,PE,da Cruz de Sampaio
+CUST000540,411,3,119.93,4,4,3,11,champions,SP,Pastor
+CUST001798,796,3,120.15,1,5,3,9,at_risk_loyal,SP,Sousa
+CUST001271,689,2,120.15,2,4,3,9,at_risk_loyal,PE,Vasconcelos Grande
+CUST000084,930,1,120.23,1,1,3,5,lost,SP,Andrade
+CUST000587,543,2,120.33,2,2,3,7,lost,SP,Almeida Alegre
+CUST001445,376,1,120.38,4,2,3,9,new_and_promising,PB,Pastor
+CUST000046,859,1,120.65,1,1,3,5,lost,GO,Borges de Sá
+CUST001096,425,2,120.74000000000001,3,3,3,9,needs_attention,SP,Gomes do Sul
+CUST000753,619,3,120.84,2,5,3,10,at_risk_loyal,DF,Cunha de Pimenta
+CUST000413,306,1,121.2,5,1,3,9,new_and_promising,TO,Brito dos Dourados
+CUST000440,307,2,121.3,5,3,3,11,new_and_promising,SP,Barbosa
+CUST000246,289,2,121.32,5,3,3,11,new_and_promising,SE,Gonçalves
+CUST000876,696,3,121.78,2,4,3,9,at_risk_loyal,SP,Ferreira
+CUST001934,685,1,121.79,2,2,3,7,lost,BA,Silveira do Campo
+CUST000813,315,1,121.89,5,1,3,9,new_and_promising,SP,Teixeira
+CUST000450,262,2,121.94,5,3,3,11,new_and_promising,SP,Pereira
+CUST002375,301,3,122.07999999999998,5,5,3,13,champions,GO,Sales
+CUST001777,554,1,122.12,2,2,3,7,lost,PE,Casa Grande do Norte
+CUST001849,503,2,122.16,3,3,3,9,needs_attention,RN,Pereira de Minas
+CUST000800,402,2,122.22,4,4,3,11,champions,SE,Leão de Mendes
+CUST001158,307,3,122.28999999999999,5,5,3,13,champions,RN,Rocha
+CUST001261,576,2,122.50999999999999,2,3,3,8,needs_attention,RJ,Mendes
+CUST001027,279,3,122.55,5,5,3,13,champions,MA,Cavalcante Grande
+CUST001159,476,2,122.87,3,3,3,9,needs_attention,PB,Sousa
+CUST001127,324,3,123.05,4,5,3,12,champions,SP,Vieira
+CUST000471,945,2,123.24,1,2,3,6,lost,SP,Albuquerque Paulista
+CUST002101,338,3,123.3,4,4,3,11,champions,PI,Leão Verde
+CUST001757,935,1,123.55,1,1,3,5,lost,AC,Sales
+CUST001955,827,1,124.07,1,1,3,5,lost,RR,Gomes Grande
+CUST002274,411,2,124.1,4,4,3,11,champions,DF,Silveira
+CUST002472,670,2,124.25999999999999,2,4,3,9,at_risk_loyal,AC,Rodrigues
+CUST001348,468,2,124.42,3,3,3,9,needs_attention,MG,Albuquerque de Freitas
+CUST000810,350,2,124.47999999999999,4,4,3,11,champions,SP,Gomes das Pedras
+CUST000879,287,3,124.55000000000001,5,5,3,13,champions,SP,Novais Paulista
+CUST000097,407,1,124.78,4,2,3,9,new_and_promising,PR,Correia
+CUST000431,629,2,124.93,2,3,3,8,needs_attention,SP,Nunes da Serra
+CUST001405,677,2,125.07000000000001,2,4,3,9,at_risk_loyal,GO,Alves de Garcia
+CUST000920,332,2,125.15,4,3,3,10,new_and_promising,SP,Sales de Goiás
+CUST000757,939,1,125.23,1,1,3,5,lost,BA,Cavalcanti de Silva
+CUST001670,714,3,125.23,1,4,3,8,at_risk_loyal,MT,Vasconcelos
+CUST001254,637,2,125.28,2,3,3,8,needs_attention,SP,Rezende
+CUST001554,455,2,125.35,3,3,3,9,needs_attention,RN,Santos do Galho
+CUST001519,464,2,125.52,3,3,3,9,needs_attention,SP,Correia
+CUST001200,450,1,125.81,3,2,3,8,needs_attention,SP,Vieira
+CUST001492,483,2,125.91,3,3,3,9,needs_attention,MG,Gonçalves
+CUST000473,835,1,126.0,1,1,3,5,lost,SP,Rocha Paulista
+CUST001877,600,3,126.24,2,4,3,9,at_risk_loyal,BA,Dias
+CUST001845,341,2,126.27,4,4,3,11,champions,RO,Sá
+CUST002300,438,1,126.32,3,2,3,8,needs_attention,RJ,Novais
+CUST000253,581,3,126.39999999999999,2,4,3,9,at_risk_loyal,MA,Sá das Pedras
+CUST000339,356,2,126.61,4,4,3,11,champions,RS,Cavalcanti
+CUST001466,923,1,126.78,1,1,3,5,lost,SP,Santos
+CUST000738,352,1,127.08,4,1,3,8,new_and_promising,MT,Pereira
+CUST000238,834,2,127.14000000000001,1,3,3,7,needs_attention,SP,da Rosa das Flores
+CUST000167,652,2,127.37,2,3,3,8,needs_attention,RJ,Garcia
+CUST001607,354,2,127.57,4,4,3,11,champions,SP,Rodrigues
+CUST002234,544,4,127.63999999999999,2,5,3,10,at_risk_loyal,MA,Pereira
+CUST002415,596,2,127.69,2,3,3,8,needs_attention,PR,Siqueira do Galho
+CUST000332,403,2,127.76,4,4,3,11,champions,CE,Machado dos Dourados
+CUST001557,403,5,127.99,4,5,3,12,champions,BA,Costa
+CUST002229,325,2,128.06,4,3,3,10,new_and_promising,RJ,Mendonça
+CUST001365,477,1,128.42,3,2,3,8,needs_attention,CE,Souza de Barros
+CUST002235,558,1,128.5,2,2,3,7,lost,GO,Albuquerque
+CUST000909,935,1,128.61,1,1,3,5,lost,RJ,Vieira da Mata
+CUST000510,408,1,128.63,4,2,3,9,new_and_promising,PE,Pastor
+CUST000731,281,1,128.77,5,1,3,9,new_and_promising,SP,Cavalcante dos Dourados
+CUST000334,439,3,128.94,3,5,3,11,needs_attention,SP,Nunes do Norte
+CUST001201,339,2,128.97,4,4,3,11,champions,CE,da Rocha
+CUST001797,673,2,129.32,2,4,3,9,at_risk_loyal,PE,Cirino
+CUST000550,578,2,129.67000000000002,2,3,3,8,needs_attention,PA,Novais da Prata
+CUST001825,759,1,129.93,1,1,3,5,lost,DF,Rezende do Oeste
+CUST001077,339,1,129.95,4,1,3,8,new_and_promising,MG,Alves Paulista
+CUST000411,725,2,130.10000000000002,1,4,3,8,at_risk_loyal,RJ,Ribeiro Grande
+CUST000735,761,1,130.18,1,1,3,5,lost,MG,Rios
+CUST000619,559,2,130.38,2,2,3,7,lost,ES,Duarte
+CUST000438,275,2,130.39,5,3,3,11,new_and_promising,MT,Martins
+CUST000124,375,2,130.44,4,4,3,11,champions,SP,Leão
+CUST001782,280,3,130.44,5,5,3,13,champions,AL,Costela da Prata
+CUST001691,280,1,130.58,5,1,3,9,new_and_promising,SP,Macedo Paulista
+CUST001309,531,2,130.72,3,3,3,9,needs_attention,RJ,das Neves
+CUST001009,731,2,130.76,1,3,3,7,needs_attention,RJ,Novaes
+CUST001731,395,1,130.83,4,2,3,9,new_and_promising,RJ,Moraes da Prata
+CUST000258,958,1,131.07,1,1,3,5,lost,PE,Vasconcelos
+CUST002424,442,2,131.09,3,3,3,9,needs_attention,RS,Cardoso
+CUST000646,673,3,131.13,2,4,3,9,at_risk_loyal,RN,Vargas do Amparo
+CUST002374,833,1,131.24,1,1,3,5,lost,MG,Fogaça
+CUST002139,362,2,131.26999999999998,4,4,3,11,champions,SP,Sales
+CUST001838,261,4,131.38,5,5,3,13,champions,RJ,Novais de Minas
+CUST001681,299,1,131.42,5,1,3,9,new_and_promising,RJ,Marques
+CUST001725,588,2,131.68,2,3,3,8,needs_attention,PE,Monteiro
+CUST002286,515,3,131.73000000000002,3,4,3,10,needs_attention,RJ,Cassiano
+CUST001089,557,2,131.88,2,2,3,7,lost,RR,Fonseca de Teixeira
+CUST001639,783,1,132.47,1,1,3,5,lost,RR,das Neves Grande
+CUST000196,345,2,132.48000000000002,4,4,3,11,champions,RJ,Costela das Pedras
+CUST002428,252,2,132.52,5,2,3,10,new_and_promising,AC,Pereira
+CUST001602,254,3,132.55,5,4,3,12,champions,RJ,Cavalcante da Prata
+CUST001380,528,2,132.57,3,3,3,9,needs_attention,BA,Vargas do Oeste
+CUST000507,639,2,132.66,2,3,3,8,needs_attention,PI,Cavalcanti do Campo
+CUST001985,319,2,132.82,5,3,3,11,new_and_promising,SP,Cavalcanti de Freitas
+CUST000825,571,2,132.85000000000002,2,3,3,8,needs_attention,PR,Aparecida das Flores
+CUST000629,860,1,132.87,1,1,3,5,lost,SP,Vasconcelos Alegre
+CUST001816,445,1,132.91,3,2,3,8,needs_attention,AM,Novais de Sá
+CUST001288,571,1,133.0,2,2,3,7,lost,RJ,Monteiro
+CUST000100,624,2,133.07999999999998,2,3,3,8,needs_attention,SP,da Cruz de Barbosa
+CUST001037,573,2,133.09,2,3,3,8,needs_attention,RJ,Freitas de Araújo
+CUST002314,479,3,133.32999999999998,3,5,3,11,needs_attention,PE,da Cruz
+CUST002408,322,2,133.41,5,3,3,11,new_and_promising,SP,Marques
+CUST002200,267,3,133.45,5,4,3,12,champions,MG,Fogaça
+CUST002302,665,1,133.65,2,2,3,7,lost,SC,da Mata
+CUST000294,270,2,133.83,5,3,3,11,new_and_promising,MG,Novais do Sul
+CUST001853,313,2,134.23000000000002,5,3,3,11,new_and_promising,MA,Carvalho
+CUST002473,311,2,134.42000000000002,5,3,3,11,new_and_promising,PI,Fernandes das Flores
+CUST001824,519,2,134.79000000000002,3,3,3,9,needs_attention,PA,Mendonça de Aparecida
+CUST002390,871,2,134.82,1,3,3,7,needs_attention,PE,Silveira Alegre
+CUST000249,473,2,134.82999999999998,3,3,3,9,needs_attention,AC,Aragão
+CUST000956,360,1,134.84,4,2,3,9,new_and_promising,MG,Rodrigues
+CUST000761,879,1,135.02,1,1,3,5,lost,SP,da Rosa da Serra
+CUST002157,546,4,135.03,2,5,3,10,at_risk_loyal,SP,Duarte
+CUST000096,411,2,135.04,4,4,3,11,champions,RS,da Cruz
+CUST001771,757,2,135.09,1,3,3,7,needs_attention,RS,Montenegro
+CUST001509,334,1,135.12,4,1,3,8,new_and_promising,BA,Barros
+CUST000615,365,2,135.56,4,4,3,11,champions,PB,da Paz de Minas
+CUST001815,557,2,135.64,2,2,3,7,lost,SP,Cunha do Galho
+CUST001364,251,2,135.79000000000002,5,2,3,10,new_and_promising,DF,Sampaio da Praia
+CUST001121,574,3,135.85999999999999,2,4,3,9,at_risk_loyal,RN,Camargo Verde
+CUST000391,422,2,135.86,3,3,3,9,needs_attention,RR,Ramos
+CUST000854,806,1,135.93,1,1,3,5,lost,AL,Correia
+CUST001732,587,2,136.0,2,3,3,8,needs_attention,BA,Rezende
+CUST000024,362,1,136.45,4,2,3,9,new_and_promising,MG,Vargas
+CUST001953,321,2,136.5,5,3,3,11,new_and_promising,BA,Peixoto de Pastor
+CUST000383,641,2,136.74,2,3,3,8,needs_attention,DF,da Paz
+CUST001135,371,2,136.79000000000002,4,4,3,11,champions,GO,Nogueira do Norte
+CUST000142,301,2,136.81,5,3,3,11,new_and_promising,RJ,da Mata
+CUST000150,247,3,136.86,5,4,3,12,champions,RJ,Castro dos Dourados
+CUST000377,344,2,136.97,4,4,3,11,champions,MS,Moraes do Sul
+CUST000488,309,3,137.07999999999998,5,5,3,13,champions,RJ,Rezende do Campo
+CUST001195,269,4,137.08,5,5,3,13,champions,SP,Novais do Galho
+CUST002492,447,3,137.10999999999999,3,5,3,11,needs_attention,SP,da Mata
+CUST000886,450,1,137.39,3,2,3,8,needs_attention,SP,Silva do Amparo
+CUST000670,316,2,137.79000000000002,5,3,3,11,new_and_promising,RJ,Teixeira
+CUST002355,263,2,137.92000000000002,5,3,3,11,new_and_promising,PE,Rezende
+CUST002138,431,2,138.04999999999998,3,3,3,9,needs_attention,CE,Melo da Prata
+CUST001059,589,2,138.46,2,3,3,8,needs_attention,RS,Nunes do Campo
+CUST002448,404,3,138.52,4,4,3,11,champions,SP,Carvalho de Campos
+CUST001695,257,2,138.95,5,2,3,10,new_and_promising,MG,Gomes do Amparo
+CUST000147,351,1,139.21,4,1,3,8,new_and_promising,BA,da Mota do Norte
+CUST000149,286,4,139.32999999999998,5,5,3,13,champions,SP,Porto
+CUST002059,477,2,139.39,3,3,3,9,needs_attention,DF,Mendes da Prata
+CUST001678,274,3,139.53,5,5,3,13,champions,MG,Cassiano de Borges
+CUST001774,491,2,139.54000000000002,3,3,3,9,needs_attention,TO,Rocha da Prata
+CUST002293,926,2,139.63,1,2,3,6,lost,SP,Novaes
+CUST002192,293,1,139.63,5,1,3,9,new_and_promising,AL,Vieira de Goiás
+CUST002233,564,1,139.68,2,2,3,7,lost,AL,Aragão da Praia
+CUST001335,616,3,139.79,2,5,3,10,at_risk_loyal,AM,Melo
+CUST001584,263,2,139.83,5,3,3,11,new_and_promising,RS,Pacheco do Campo
+CUST002280,644,2,140.13,2,3,3,8,needs_attention,SP,Ferreira das Pedras
+CUST002127,472,2,140.15,3,3,3,9,needs_attention,DF,Nogueira de da Mata
+CUST001005,685,2,140.28,2,4,3,9,at_risk_loyal,ES,Sousa
+CUST001950,333,3,140.31,4,4,3,11,champions,MG,Peixoto Grande
+CUST000644,509,1,140.46,3,2,3,8,needs_attention,RJ,Fonseca
+CUST000326,317,1,140.49,5,1,3,9,new_and_promising,CE,Mendonça de Minas
+CUST001866,281,2,140.57999999999998,5,3,3,11,new_and_promising,RO,Correia do Campo
+CUST001018,559,3,140.64000000000001,2,4,3,9,at_risk_loyal,SC,Sousa
+CUST000492,334,1,140.65,4,1,3,8,new_and_promising,BA,da Costa de Fonseca
+CUST001728,893,1,140.7,1,1,3,5,lost,RR,Caldeira
+CUST000220,539,3,140.81,2,4,3,9,at_risk_loyal,MA,Souza
+CUST001656,700,2,140.94,2,4,3,9,at_risk_loyal,RO,Rezende
+CUST000578,525,1,141.06,3,2,3,8,needs_attention,SE,Souza de Lopes
+CUST001903,636,1,141.14,2,2,3,7,lost,PA,Gonçalves
+CUST000880,265,1,141.15,5,1,3,9,new_and_promising,SP,Caldeira
+CUST002318,645,1,141.18,2,2,3,7,lost,MG,Melo de Almeida
+CUST001848,750,3,141.32,1,5,3,9,at_risk_loyal,SP,da Rocha
+CUST000148,257,1,141.62,5,1,3,9,new_and_promising,PR,Farias
+CUST002159,659,2,141.64999999999998,2,3,3,8,needs_attention,RS,Nascimento
+CUST000287,447,2,141.76,3,3,3,9,needs_attention,RS,da Mota
+CUST002437,530,3,141.84,3,4,3,10,needs_attention,MG,Andrade Grande
+CUST000945,300,4,141.92,5,5,3,13,champions,SP,Novais
+CUST001533,338,3,141.92000000000002,4,4,3,11,champions,PE,Nascimento da Praia
+CUST000574,886,1,142.25,1,1,3,5,lost,BA,Costela
+CUST000451,968,1,142.42,1,1,3,5,lost,PA,da Paz de Vasconcelos
+CUST002094,275,3,142.46,5,5,3,13,champions,PR,Oliveira
+CUST000655,643,2,142.64999999999998,2,3,3,8,needs_attention,MG,Silveira
+CUST000771,412,4,142.82,4,5,3,12,champions,SP,Vargas das Pedras
+CUST002332,323,2,143.03,4,3,3,10,new_and_promising,SP,Garcia
+CUST002294,288,2,143.03,5,3,3,11,new_and_promising,PR,da Luz de Minas
+CUST001682,370,3,143.04,4,4,3,11,champions,AM,da Luz dos Dourados
+CUST002055,256,2,143.08,5,2,3,10,new_and_promising,MA,Oliveira de da Mota
+CUST001101,278,2,143.54,5,3,3,11,new_and_promising,SP,Cavalcante Grande
+CUST001276,338,2,143.6,4,4,3,11,champions,SP,Jesus
+CUST002353,848,2,143.88,1,3,3,7,needs_attention,BA,Pereira Alegre
+CUST000178,930,1,144.01,1,1,3,5,lost,MG,Cavalcanti Verde
+CUST000588,410,2,144.07,4,4,3,11,champions,SP,Pinto
+CUST000858,734,1,144.14,1,1,3,5,lost,RS,Montenegro do Amparo
+CUST000117,485,2,144.17,3,3,3,9,needs_attention,ES,Cirino
+CUST000340,422,2,144.23000000000002,3,3,3,9,needs_attention,SP,Castro
+CUST000790,400,2,144.61,4,4,3,11,champions,TO,Barros
+CUST000982,399,2,144.85999999999999,4,4,3,11,champions,PA,da Mota do Norte
+CUST000042,494,3,144.99,3,5,3,11,needs_attention,RS,da Cruz
+CUST000742,300,2,145.03,5,3,3,11,new_and_promising,RJ,Pereira
+CUST002382,421,2,145.07999999999998,3,3,3,9,needs_attention,MA,Teixeira do Sul
+CUST001512,559,2,145.38,2,2,3,7,lost,PE,Gomes
+CUST001294,375,2,145.62,4,4,3,11,champions,PE,Fonseca da Prata
+CUST000969,320,3,145.94,5,5,3,13,champions,SC,Costela
+CUST000164,832,1,146.21,1,1,3,5,lost,PR,Viana das Pedras
+CUST000526,343,2,146.36,4,4,3,11,champions,RS,Pinto Verde
+CUST001281,284,3,146.43,5,5,3,13,champions,BA,Vieira Grande
+CUST001809,562,2,146.60000000000002,2,4,3,9,at_risk_loyal,SP,Cirino
+CUST000044,455,3,146.67000000000002,3,5,3,11,needs_attention,PI,Pacheco das Flores
+CUST002018,330,3,146.77999999999997,4,4,3,11,champions,AL,Silveira da Prata
+CUST002197,260,3,147.01999999999998,5,4,3,12,champions,RS,Monteiro
+CUST002212,710,2,147.24,1,4,3,8,at_risk_loyal,ES,Peixoto da Prata
+CUST000176,374,2,147.31,4,4,3,11,champions,SP,Rocha da Prata
+CUST001734,781,2,147.38,1,3,3,7,needs_attention,MG,Câmara
+CUST000639,347,2,147.96,4,4,3,11,champions,RJ,das Neves
+CUST000107,687,3,148.01,2,4,3,9,at_risk_loyal,MG,Cavalcante
+CUST000372,289,2,148.19,5,3,3,11,new_and_promising,SP,Sales do Amparo
+CUST000596,587,1,148.28,2,2,3,7,lost,RS,Barbosa
+CUST001471,738,3,148.29000000000002,1,5,3,9,at_risk_loyal,SC,Aragão
+CUST001152,385,4,148.38,4,5,3,12,champions,MS,Moreira
+CUST000949,347,4,148.44,4,5,3,12,champions,PB,Aparecida
+CUST002313,256,1,148.59,5,1,3,9,new_and_promising,RS,Sousa
+CUST000928,328,2,148.61,4,3,3,10,new_and_promising,PR,Leão da Prata
+CUST001990,633,2,148.61,2,3,3,8,needs_attention,CE,Machado
+CUST001566,537,3,148.78,3,4,3,10,needs_attention,MG,Melo
+CUST001188,720,2,148.81,1,4,3,8,at_risk_loyal,SP,Porto de Nascimento
+CUST000762,253,3,148.82,5,4,3,12,champions,RJ,Vieira
+CUST001965,444,2,148.88,3,3,3,9,needs_attention,SC,Aparecida do Galho
+CUST001786,504,2,149.31,3,3,3,9,needs_attention,AL,da Costa do Galho
+CUST001391,467,3,149.41,3,5,3,11,needs_attention,SP,Novais de Souza
+CUST002342,340,2,149.41,4,4,3,11,champions,SP,Ferreira
+CUST001446,825,1,149.44,1,1,3,5,lost,SP,Vasconcelos
+CUST001095,268,2,150.32999999999998,5,3,3,11,new_and_promising,SP,Peixoto
+CUST000744,252,3,150.36,5,4,3,12,champions,PR,Freitas de Freitas
+CUST000838,677,3,150.45,2,4,3,9,at_risk_loyal,MG,Melo do Galho
+CUST000767,349,2,150.48,4,4,3,11,champions,PA,Martins da Prata
+CUST002206,266,3,150.79000000000002,5,4,3,12,champions,PI,Fogaça Grande
+CUST000978,319,2,151.0,5,3,3,11,new_and_promising,SP,Oliveira Alegre
+CUST000802,616,3,151.51999999999998,2,5,3,10,at_risk_loyal,SP,Dias
+CUST001943,276,3,151.63,5,5,3,13,champions,PA,da Luz
+CUST000103,623,3,151.66,2,5,3,10,at_risk_loyal,RJ,Borges
+CUST000580,307,4,152.01999999999998,5,5,3,13,champions,RJ,Nascimento de Goiás
+CUST002033,540,1,152.03,2,2,3,7,lost,RS,Camargo de da Luz
+CUST001582,327,3,152.04,4,4,3,11,champions,MG,Martins
+CUST000131,282,2,152.39,5,3,3,11,new_and_promising,MG,Barbosa
+CUST000598,730,1,152.55,1,1,3,5,lost,SP,Vasconcelos
+CUST000563,273,2,152.55,5,3,3,11,new_and_promising,SP,Castro
+CUST002272,545,3,152.62,2,4,3,9,at_risk_loyal,MG,da Rosa de Minas
+CUST002001,442,1,152.77,3,2,3,8,needs_attention,RJ,Silveira
+CUST002106,265,3,153.21,5,4,3,12,champions,RJ,Pereira das Flores
+CUST002057,642,2,153.39,2,3,3,8,needs_attention,RS,Gonçalves de Goiás
+CUST000782,662,2,153.4,2,4,3,9,at_risk_loyal,PR,Moreira da Mata
+CUST001231,514,3,153.49,3,4,3,10,needs_attention,RN,Pires das Pedras
+CUST001460,401,2,153.73999999999998,4,4,3,11,champions,DF,Cirino
+CUST001001,274,1,153.8,5,1,3,9,new_and_promising,SP,Correia
+CUST000534,371,2,153.87,4,2,3,9,new_and_promising,SC,Lima Alegre
+CUST000816,881,2,153.93,1,3,3,7,needs_attention,PR,Almeida de Borges
+CUST002429,661,2,154.08,2,4,3,9,at_risk_loyal,RJ,da Costa de Cunha
+CUST001609,595,3,154.38000000000002,2,5,3,10,at_risk_loyal,SP,Fogaça
+CUST000609,387,2,154.42,4,4,3,11,champions,PR,Melo
+CUST002256,267,1,154.62,5,1,3,9,new_and_promising,SC,Silveira Alegre
+CUST001165,404,2,154.68,4,4,3,11,champions,SP,Porto
+CUST000962,373,2,154.76,4,4,3,11,champions,BA,Rocha de Silveira
+CUST000537,391,1,155.01,4,2,3,9,new_and_promising,MA,Borges
+CUST000549,353,3,155.07000000000002,4,4,3,11,champions,PR,Oliveira de Goiás
+CUST000560,846,2,155.16,1,3,3,7,needs_attention,BA,Freitas
+CUST002500,698,2,155.18,2,4,3,9,at_risk_loyal,MG,Montenegro de Cassiano
+CUST000562,308,4,155.22,5,5,3,13,champions,SP,Aragão
+CUST001661,269,3,155.29000000000002,5,4,3,12,champions,BA,Sales
+CUST001344,653,4,155.4,2,5,3,10,at_risk_loyal,CE,Guerra
+CUST002263,540,2,155.63,2,3,3,8,needs_attention,RN,da Rosa
+CUST002121,708,2,155.9,1,4,3,8,at_risk_loyal,ES,Sousa
+CUST000690,251,2,156.24,5,2,3,10,new_and_promising,SP,Leão
+CUST001585,782,3,156.28000000000003,1,5,3,9,at_risk_loyal,AP,Moraes
+CUST001821,312,2,156.45999999999998,5,3,3,11,new_and_promising,SP,da Cunha da Prata
+CUST002185,434,2,156.82,3,3,3,9,needs_attention,DF,Fonseca
+CUST001266,496,3,156.92000000000002,3,5,3,11,needs_attention,SP,Mendes
+CUST001914,819,2,156.93,1,3,3,7,needs_attention,MG,Rios
+CUST002369,575,3,157.03,2,4,3,9,at_risk_loyal,RJ,Cirino
+CUST000179,698,3,157.17000000000002,2,4,3,9,at_risk_loyal,RO,Andrade do Campo
+CUST001579,322,2,157.18,5,3,3,11,new_and_promising,BA,Pereira da Mata
+CUST002130,617,1,157.25,2,2,3,7,lost,MG,Pires de Souza
+CUST002214,576,2,157.26,2,3,3,8,needs_attention,AC,Machado
+CUST001621,770,2,157.29000000000002,1,3,3,7,needs_attention,RS,Jesus Verde
+CUST002435,480,1,157.68,3,2,3,8,needs_attention,AC,Casa Grande
+CUST001450,634,1,158.01,2,2,3,7,lost,GO,da Rosa Alegre
+CUST001693,798,1,158.08,1,1,3,5,lost,MG,Cirino do Campo
+CUST001986,336,2,158.13,4,4,3,11,champions,SP,da Cunha de das Neves
+CUST001904,632,2,158.32,2,3,3,8,needs_attention,SP,Montenegro do Sul
+CUST001321,375,3,158.48,4,4,3,11,champions,RJ,Souza
+CUST002114,331,3,158.62,4,4,3,11,champions,RN,Caldeira do Campo
+CUST000620,505,2,158.87,3,3,3,9,needs_attention,CE,Montenegro de Cassiano
+CUST000265,297,4,158.89,5,5,3,13,champions,PB,Martins
+CUST000454,453,2,158.9,3,3,3,9,needs_attention,AL,Rocha Grande
+CUST001385,501,3,158.96,3,5,3,11,needs_attention,DF,Duarte
+CUST000453,370,3,158.99,4,4,3,11,champions,MG,Câmara do Oeste
+CUST000371,247,2,159.01999999999998,5,2,3,10,new_and_promising,SP,Farias
+CUST000889,313,1,159.22,5,1,3,9,new_and_promising,SP,Jesus
+CUST000518,248,4,159.75,5,5,3,13,champions,MT,Siqueira
+CUST001898,388,2,160.07999999999998,4,4,3,11,champions,SP,Nogueira da Prata
+CUST001044,338,3,160.21,4,4,3,11,champions,BA,Moura
+CUST000516,305,4,160.48999999999998,5,5,3,13,champions,SP,Machado
+CUST000430,524,2,160.51,3,3,3,9,needs_attention,SP,Casa Grande de Goiás
+CUST001149,273,3,160.82,5,4,3,12,champions,MA,Barros do Campo
+CUST001205,469,2,160.92,3,3,3,9,needs_attention,RS,Novaes de Moraes
+CUST000968,549,2,160.92000000000002,2,2,3,7,lost,RJ,Pimenta do Sul
+CUST002225,404,2,161.42000000000002,4,4,3,11,champions,SP,Camargo do Campo
+CUST000708,331,4,161.6,4,5,3,12,champions,ES,Nogueira Alegre
+CUST001442,703,3,161.65,2,4,3,9,at_risk_loyal,SP,Cardoso
+CUST001947,451,4,161.68,3,5,3,11,needs_attention,MG,Barros do Oeste
+CUST002365,250,4,161.72,5,5,3,13,champions,SC,Jesus das Pedras
+CUST001084,650,2,161.72,2,3,3,8,needs_attention,PB,Cassiano das Flores
+CUST001705,711,2,161.75,1,4,3,8,at_risk_loyal,MG,Camargo de Jesus
+CUST001959,572,1,161.78,2,2,3,7,lost,DF,Melo
+CUST001292,778,1,161.84,1,1,3,5,lost,SP,Fonseca
+CUST001567,504,2,162.07999999999998,3,3,3,9,needs_attention,GO,Ferreira da Serra
+CUST001973,837,3,162.42,1,4,3,8,at_risk_loyal,RJ,Santos
+CUST001351,588,2,162.78,2,3,3,8,needs_attention,PB,Freitas de Pastor
+CUST001196,883,3,163.07,1,4,3,8,at_risk_loyal,PB,Jesus de Rodrigues
+CUST002009,906,1,163.47,1,1,3,5,lost,SP,Rocha
+CUST000992,420,3,163.51000000000002,3,4,3,10,needs_attention,PE,Araújo de Novais
+CUST000736,368,2,163.66,4,4,3,11,champions,PB,Fonseca do Galho
+CUST001423,294,2,163.74,5,3,3,11,new_and_promising,SP,Araújo do Amparo
+CUST001240,518,3,163.91,3,4,3,10,needs_attention,SP,Cunha das Pedras
+CUST000717,402,2,164.36,4,4,3,11,champions,MS,Nogueira do Amparo
+CUST001538,425,2,164.38,3,3,3,9,needs_attention,GO,Andrade das Flores
+CUST001890,465,3,164.5,3,5,3,11,needs_attention,RR,da Mota
+CUST000545,760,1,164.66,1,1,3,5,lost,BA,Cassiano
+CUST002381,336,3,164.71,4,4,3,11,champions,MT,Andrade
+CUST000275,252,4,164.95000000000002,5,5,3,13,champions,PR,Rodrigues do Campo
+CUST000531,605,3,165.07,2,5,4,11,at_risk_loyal,MT,da Conceição de Jesus
+CUST001864,338,3,165.07999999999998,4,4,4,12,champions,SC,Castro
+CUST000465,384,2,165.09,4,4,4,12,champions,AC,da Rocha de Souza
+CUST000055,277,3,165.52,5,5,4,14,champions,BA,da Rocha
+CUST001410,692,1,165.6,2,2,4,8,lost,PB,Ramos
+CUST002265,357,1,165.75,4,2,4,10,new_and_promising,BA,Cunha
+CUST002363,839,1,165.79,1,1,4,6,lost,RJ,Cirino
+CUST002444,831,2,165.99,1,3,4,8,needs_attention,MS,Andrade de Minas
+CUST001102,286,1,166.64,5,1,4,10,new_and_promising,AM,da Rosa Paulista
+CUST001425,733,2,167.04000000000002,1,3,4,8,needs_attention,AP,Castro
+CUST000624,385,3,167.33,4,4,4,12,champions,RS,Aparecida
+CUST000519,319,3,167.36,5,5,4,14,champions,AP,Marques do Sul
+CUST001641,624,2,167.4,2,3,4,9,needs_attention,PR,Cavalcante de Minas
+CUST000160,715,2,167.43,1,4,4,9,at_risk_loyal,CE,Pinto Grande
+CUST000017,257,3,168.19,5,4,4,13,champions,RJ,Pereira Paulista
+CUST000535,389,2,168.19,4,4,4,12,champions,PA,Freitas Grande
+CUST002060,277,3,168.60000000000002,5,5,4,14,champions,SC,Montenegro
+CUST000770,261,3,168.7,5,4,4,13,champions,MT,Gonçalves do Amparo
+CUST000490,750,2,168.94,1,3,4,8,needs_attention,RN,Andrade da Praia
+CUST001948,256,1,168.95,5,1,4,10,new_and_promising,SP,Pereira de Melo
+CUST001456,555,2,169.07,2,2,4,8,lost,SE,Siqueira da Mata
+CUST001286,454,1,169.11,3,2,4,9,needs_attention,PR,Souza
+CUST001962,816,1,169.3,1,1,4,6,lost,MG,Ribeiro de Cardoso
+CUST000185,393,3,169.66,4,4,4,12,champions,RJ,Abreu do Galho
+CUST001017,428,2,169.78,3,3,4,10,needs_attention,SP,Jesus do Norte
+CUST000060,475,2,169.92000000000002,3,3,4,10,needs_attention,RJ,Porto do Galho
+CUST000645,251,1,169.98,5,1,4,10,new_and_promising,SP,Cirino do Oeste
+CUST002103,268,1,170.07,5,1,4,10,new_and_promising,SP,Fernandes
+CUST001462,327,2,170.31,4,3,4,11,new_and_promising,DF,Monteiro
+CUST000240,702,1,170.36,2,2,4,8,lost,SP,Mendonça
+CUST001913,514,3,171.03,3,4,4,11,needs_attention,RR,Freitas de Goiás
+CUST001568,726,1,171.08,1,1,4,6,lost,SP,Souza de Minas
+CUST000547,316,1,171.2,5,1,4,10,new_and_promising,SP,Novais da Praia
+CUST000461,564,2,171.62,2,2,4,8,lost,SP,Costa
+CUST001662,360,2,171.73000000000002,4,4,4,12,champions,PR,da Rosa
+CUST001671,436,3,172.0,3,5,4,12,needs_attention,MG,Moreira do Oeste
+CUST000159,270,3,172.12,5,4,4,13,champions,SP,Fogaça
+CUST001236,494,2,172.23,3,3,4,10,needs_attention,MG,Vasconcelos
+CUST000333,275,3,172.45,5,5,4,14,champions,SP,Pastor das Pedras
+CUST000515,348,2,172.45999999999998,4,4,4,12,champions,SP,Vasconcelos de Fonseca
+CUST002086,354,1,172.69,4,1,4,9,new_and_promising,RS,Sales
+CUST000432,478,3,172.7,3,5,4,12,needs_attention,PA,Cavalcanti
+CUST000728,573,2,172.70000000000002,2,3,4,9,needs_attention,ES,Duarte do Campo
+CUST001749,249,1,173.01,5,1,4,10,new_and_promising,PA,Caldeira das Pedras
+CUST000554,498,3,173.1,3,5,4,12,needs_attention,SC,Ferreira do Sul
+CUST001813,727,1,173.55,1,1,4,6,lost,RJ,Cunha
+CUST000325,486,2,173.72,3,3,4,10,needs_attention,TO,Camargo de Azevedo
+CUST002442,652,3,173.87,2,4,4,10,at_risk_loyal,PR,Pimenta Verde
+CUST000397,322,3,174.01,5,5,4,14,champions,MA,Peixoto
+CUST000499,564,1,174.12,2,2,4,8,lost,AM,Aragão
+CUST002047,885,2,174.14999999999998,1,2,4,7,lost,SP,da Luz
+CUST001075,726,2,174.19,1,3,4,8,needs_attention,AP,da Conceição de Minas
+CUST000244,488,2,174.49,3,3,4,10,needs_attention,MG,Martins
+CUST002416,679,5,174.54,2,5,4,11,at_risk_loyal,AC,Garcia
+CUST002220,259,3,174.55,5,4,4,13,champions,SP,Silveira de Minas
+CUST000863,471,3,174.69,3,5,4,12,needs_attention,PR,Dias da Serra
+CUST001536,575,1,174.77,2,2,4,8,lost,SP,Andrade de Cavalcanti
+CUST000170,653,3,174.82,2,4,4,10,at_risk_loyal,BA,Ferreira de das Neves
+CUST001342,528,1,174.85,3,2,4,9,needs_attention,RS,Cavalcanti
+CUST000365,345,2,175.14,4,4,4,12,champions,RO,Melo
+CUST000085,327,3,175.18,4,4,4,12,champions,RJ,Barbosa do Galho
+CUST001443,655,2,175.32,2,3,4,9,needs_attention,GO,Silva da Serra
+CUST000938,742,2,175.71,1,3,4,8,needs_attention,PI,Moreira dos Dourados
+CUST002346,448,2,175.76,3,3,4,10,needs_attention,GO,Alves da Prata
+CUST002338,511,2,176.05,3,3,4,10,needs_attention,MG,Aparecida
+CUST001839,723,1,176.43,1,1,4,6,lost,SE,da Luz
+CUST001414,311,3,176.54,5,5,4,14,champions,SP,Costa do Galho
+CUST000634,411,2,176.63,4,4,4,12,champions,PR,Farias
+CUST002087,441,2,176.66000000000003,3,3,4,10,needs_attention,SP,Araújo
+CUST001688,372,2,176.88,4,4,4,12,champions,RS,Albuquerque
+CUST001834,422,2,177.16000000000003,3,3,4,10,needs_attention,CE,Silva de Farias
+CUST001099,336,3,177.55,4,4,4,12,champions,PA,Oliveira
+CUST001366,379,2,177.58,4,4,4,12,champions,SP,Montenegro
+CUST002051,440,1,177.63,3,2,4,9,needs_attention,RS,Barros
+CUST002370,410,3,177.63,4,4,4,12,champions,CE,Teixeira
+CUST001918,479,2,177.68,3,3,4,10,needs_attention,BA,Caldeira do Galho
+CUST002068,872,1,177.73,1,1,4,6,lost,RJ,Novaes
+CUST000951,598,2,177.81,2,3,4,9,needs_attention,BA,Azevedo
+CUST001829,448,3,179.01999999999998,3,5,4,12,needs_attention,ES,Costela
+CUST000927,360,2,179.08999999999997,4,4,4,12,champions,RJ,Cassiano de Marques
+CUST001628,422,5,179.13,3,5,4,12,needs_attention,PR,Costela da Serra
+CUST000225,578,2,179.3,2,3,4,9,needs_attention,RJ,Macedo de Minas
+CUST000229,509,3,179.5,3,4,4,11,needs_attention,RN,da Conceição
+CUST001703,681,2,179.70000000000002,2,4,4,10,at_risk_loyal,RJ,Rodrigues
+CUST001756,694,1,179.71,2,2,4,8,lost,ES,Pacheco do Amparo
+CUST002277,771,1,179.74,1,1,4,6,lost,CE,Peixoto
+CUST000368,903,1,179.99,1,1,4,6,lost,AL,Melo
+CUST001459,323,3,180.07,4,5,4,13,champions,SP,Vargas Verde
+CUST000188,597,1,180.34,2,2,4,8,lost,SC,Ribeiro do Campo
+CUST000364,853,2,180.45,1,3,4,8,needs_attention,SC,Oliveira do Norte
+CUST001032,451,3,180.69,3,5,4,12,needs_attention,BA,Jesus
+CUST000837,534,2,180.91,3,3,4,10,needs_attention,PI,Silva
+CUST000784,270,2,180.99,5,3,4,12,new_and_promising,RJ,Porto
+CUST002482,316,2,181.01999999999998,5,3,4,12,new_and_promising,PB,Moreira
+CUST001220,429,2,181.26999999999998,3,3,4,10,needs_attention,RJ,Nascimento Paulista
+CUST000680,583,2,181.63,2,3,4,9,needs_attention,MA,Carvalho
+CUST000216,629,2,181.81,2,3,4,9,needs_attention,SP,Campos
+CUST001435,550,1,182.06,2,2,4,8,lost,SP,Nunes
+CUST001772,570,2,182.32999999999998,2,2,4,8,lost,PA,Santos do Campo
+CUST001767,689,3,182.59,2,4,4,10,at_risk_loyal,CE,Costa
+CUST000763,346,3,182.62,4,4,4,12,champions,RJ,Moraes de Goiás
+CUST000212,502,3,182.62,3,5,4,12,needs_attention,PE,Sá
+CUST001966,345,3,182.76,4,4,4,12,champions,BA,da Conceição do Amparo
+CUST002232,383,3,182.78,4,4,4,12,champions,SP,Ribeiro do Amparo
+CUST001373,284,3,182.89999999999998,5,5,4,14,champions,MA,Machado Paulista
+CUST000448,495,1,183.1,3,2,4,9,needs_attention,CE,Ribeiro
+CUST000781,482,2,183.13,3,3,4,10,needs_attention,PE,Santos de Goiás
+CUST000713,645,2,183.24,2,3,4,9,needs_attention,RS,Andrade de da Rocha
+CUST001531,745,1,183.3,1,1,4,6,lost,RJ,Caldeira
+CUST000722,582,1,183.36,2,2,4,8,lost,SP,Gomes de Fernandes
+CUST000966,372,2,183.43,4,4,4,12,champions,MG,Correia do Campo
+CUST000182,487,1,183.64,3,2,4,9,needs_attention,SP,Gomes
+CUST001586,586,1,183.67,2,2,4,8,lost,SP,Novais da Mata
+CUST001315,266,2,184.1,5,3,4,12,new_and_promising,RS,Campos
+CUST002085,357,2,184.32999999999998,4,4,4,12,champions,PR,Gonçalves
+CUST001659,525,3,184.77999999999997,3,4,4,11,needs_attention,MG,Garcia de Campos
+CUST000297,655,1,184.81,2,2,4,8,lost,PA,Mendonça da Prata
+CUST000633,302,3,185.05,5,5,4,14,champions,PR,da Paz Paulista
+CUST002267,476,2,185.25,3,3,4,10,needs_attention,BA,Brito
+CUST001363,369,3,185.60999999999999,4,4,4,12,champions,BA,Moreira
+CUST002178,343,1,185.91,4,1,4,9,new_and_promising,DF,Sousa de Vargas
+CUST000724,267,2,186.77,5,3,4,12,new_and_promising,CE,Freitas de Moreira
+CUST002270,560,3,186.89,2,5,4,11,at_risk_loyal,PR,Fonseca Verde
+CUST000556,494,1,187.29,3,2,4,9,needs_attention,MG,Azevedo Grande
+CUST000039,247,3,187.31,5,4,4,13,champions,GO,Cunha do Amparo
+CUST000099,586,2,187.76,2,3,4,9,needs_attention,SP,da Mota
+CUST001062,404,2,187.9,4,4,4,12,champions,AP,da Mata de Aparecida
+CUST002322,322,4,188.27000000000004,5,5,4,14,champions,PE,Sales
+CUST000133,531,2,188.81,3,3,4,10,needs_attention,SP,Cardoso da Praia
+CUST002307,386,2,188.98,4,4,4,12,champions,SP,Peixoto do Sul
+CUST001489,710,1,189.23,1,1,4,6,lost,MG,Sampaio da Prata
+CUST000702,672,4,189.37,2,5,4,11,at_risk_loyal,SP,Freitas Paulista
+CUST000590,547,2,189.58999999999997,2,2,4,8,lost,SP,Lopes
+CUST001204,303,3,189.63,5,5,4,14,champions,RJ,Cavalcante dos Dourados
+CUST000226,647,3,190.07,2,4,4,10,at_risk_loyal,SP,da Costa Paulista
+CUST001369,563,2,190.17000000000002,2,2,4,8,lost,SP,Lopes
+CUST001527,340,2,190.53,4,4,4,12,champions,RJ,Moreira dos Dourados
+CUST001193,424,1,191.12,3,2,4,9,needs_attention,RJ,Albuquerque do Amparo
+CUST002290,255,3,191.2,5,4,4,13,champions,SP,da Rocha das Flores
+CUST001259,798,1,191.6,1,1,4,6,lost,SP,Rezende de Minas
+CUST001378,373,2,191.79,4,4,4,12,champions,PR,Martins de Dias
+CUST002135,660,4,192.07,2,5,4,11,at_risk_loyal,PE,da Luz Grande
+CUST001117,331,2,192.07999999999998,4,3,4,11,new_and_promising,SP,Dias da Mata
+CUST002143,305,2,192.48000000000002,5,3,4,12,new_and_promising,PE,Novaes
+CUST001563,428,2,192.88,3,3,4,10,needs_attention,PA,Porto do Campo
+CUST001395,329,2,193.26999999999998,4,3,4,11,new_and_promising,RJ,Araújo
+CUST002372,325,4,193.63,4,5,4,13,champions,MS,Peixoto
+CUST001119,587,1,193.78,2,2,4,8,lost,RJ,Duarte
+CUST002445,430,2,193.82999999999998,3,3,4,10,needs_attention,MG,Duarte da Praia
+CUST001525,607,1,193.83,2,2,4,8,lost,RS,Gomes
+CUST000743,856,2,193.85000000000002,1,3,4,8,needs_attention,CE,Rocha
+CUST001214,450,2,193.94,3,3,4,10,needs_attention,ES,Costela
+CUST000637,297,1,194.08,5,1,4,10,new_and_promising,PR,Rezende das Flores
+CUST000833,268,3,194.22,5,4,4,13,champions,SP,Sá Grande
+CUST001326,388,3,194.24999999999997,4,4,4,12,champions,RJ,Monteiro
+CUST002452,253,2,194.25,5,2,4,11,new_and_promising,AC,Caldeira
+CUST000183,663,1,194.39,2,2,4,8,lost,SE,da Cunha
+CUST000245,363,4,194.46,4,5,4,13,champions,SP,Pinto
+CUST000577,457,2,194.48,3,3,4,10,needs_attention,SP,Abreu
+CUST001250,477,1,195.4,3,2,4,9,needs_attention,BA,Abreu de Lima
+CUST002129,745,1,195.51,1,1,4,6,lost,RN,Pastor
+CUST002310,268,1,195.66,5,1,4,10,new_and_promising,RJ,Aparecida de da Conceição
+CUST000915,477,3,195.82999999999998,3,5,4,12,needs_attention,SC,da Cruz do Sul
+CUST001503,253,2,196.03,5,2,4,11,new_and_promising,SP,Cirino da Praia
+CUST001073,298,2,196.73000000000002,5,3,4,12,new_and_promising,SP,Montenegro
+CUST000701,439,4,197.5,3,5,4,12,needs_attention,PR,Aparecida de Porto
+CUST001130,837,1,197.63,1,1,4,6,lost,RJ,da Costa Paulista
+CUST001907,351,2,198.01,4,4,4,12,champions,AC,Machado
+CUST002269,719,2,198.35000000000002,1,4,4,9,at_risk_loyal,SP,Cassiano Grande
+CUST000329,721,2,198.71,1,4,4,9,at_risk_loyal,MG,Barros de Goiás
+CUST001086,342,3,198.75,4,4,4,12,champions,RS,Dias da Praia
+CUST000228,442,2,198.91,3,3,4,10,needs_attention,MG,Carvalho
+CUST001063,573,2,199.44,2,3,4,9,needs_attention,PA,Rodrigues
+CUST000104,831,1,199.9,1,1,4,6,lost,PR,Cavalcante
+CUST000484,520,3,199.95,3,4,4,11,needs_attention,DF,da Costa
+CUST001917,335,3,199.98,4,4,4,12,champions,RN,Aparecida de Aparecida
+CUST000783,497,3,201.11999999999998,3,5,4,12,needs_attention,RJ,da Cunha
+CUST000344,311,3,201.58999999999997,5,5,4,14,champions,MG,da Paz
+CUST002420,621,2,201.73000000000002,2,3,4,9,needs_attention,MG,Vargas
+CUST000285,548,4,202.38,2,5,4,11,at_risk_loyal,SC,Martins de Lopes
+CUST002430,696,3,202.92000000000002,2,4,4,10,at_risk_loyal,RN,Marques de Jesus
+CUST001006,638,3,202.98,2,5,4,11,at_risk_loyal,DF,Souza
+CUST000463,253,3,203.09,5,4,4,13,champions,CE,Moura do Galho
+CUST002109,614,2,203.39,2,3,4,9,needs_attention,RJ,Almeida
+CUST000528,636,4,203.54,2,5,4,11,at_risk_loyal,RJ,Marques do Galho
+CUST001605,426,3,203.64,3,5,4,12,needs_attention,SP,Sousa
+CUST000786,282,4,203.64000000000001,5,5,4,14,champions,PI,Montenegro
+CUST000065,891,2,203.74,1,2,4,7,lost,RJ,Fonseca
+CUST002052,414,2,203.77,4,4,4,12,champions,RS,Pimenta de Abreu
+CUST000581,340,3,204.0,4,4,4,12,champions,RS,Barbosa das Flores
+CUST000034,691,2,204.2,2,4,4,10,at_risk_loyal,TO,Rodrigues
+CUST002476,284,3,204.27,5,5,4,14,champions,PB,Rocha do Amparo
+CUST001147,339,3,204.46,4,4,4,12,champions,ES,Mendes
+CUST001859,329,2,204.66,4,3,4,11,new_and_promising,MS,Abreu
+CUST002458,487,3,204.79,3,5,4,12,needs_attention,BA,Monteiro de Cirino
+CUST001648,283,5,204.91,5,5,4,14,champions,MT,Siqueira
+CUST000823,312,2,205.18,5,3,4,12,new_and_promising,RJ,da Luz
+CUST001087,406,1,205.21,4,2,4,10,new_and_promising,BA,Borges
+CUST002236,362,2,205.67000000000002,4,4,4,12,champions,BA,Rezende
+CUST001792,288,1,205.77,5,1,4,10,new_and_promising,CE,Porto
+CUST000769,693,3,205.91,2,4,4,10,at_risk_loyal,RJ,Azevedo
+CUST002292,340,3,206.09,4,4,4,12,champions,RJ,Barros do Amparo
+CUST001264,720,1,206.24,1,1,4,6,lost,RS,Albuquerque de Albuquerque
+CUST000114,503,2,206.35999999999999,3,3,4,10,needs_attention,ES,Araújo do Norte
+CUST000950,418,4,206.44,3,5,4,12,needs_attention,BA,Ferreira de Minas
+CUST001804,248,3,206.62,5,4,4,13,champions,RJ,Santos de Cassiano
+CUST002373,319,3,206.72,5,5,4,14,champions,PE,da Conceição
+CUST001331,476,3,206.84,3,5,4,12,needs_attention,SC,Oliveira
+CUST001328,386,3,206.95,4,4,4,12,champions,ES,Monteiro
+CUST001354,292,2,207.08999999999997,5,3,4,12,new_and_promising,PE,Cassiano
+CUST001733,308,2,207.24,5,3,4,12,new_and_promising,PR,Fernandes de Fonseca
+CUST002366,256,3,208.02,5,4,4,13,champions,SP,Macedo Paulista
+CUST001718,277,4,208.14999999999998,5,5,4,14,champions,PE,Sá
+CUST002439,450,3,208.22,3,5,4,12,needs_attention,PR,Farias de Minas
+CUST000741,571,3,208.27,2,4,4,10,at_risk_loyal,RS,Fonseca das Flores
+CUST001122,547,2,208.3,2,2,4,8,lost,AC,Pastor
+CUST002383,270,2,208.39999999999998,5,3,4,12,new_and_promising,PI,Jesus de Goiás
+CUST001960,706,1,208.54,1,1,4,6,lost,PA,Viana
+CUST001687,251,3,208.57999999999998,5,4,4,13,champions,SE,Teixeira
+CUST000300,450,3,209.31,3,5,4,12,needs_attention,SP,Machado de Vieira
+CUST000721,279,3,209.4,5,5,4,14,champions,RO,Lopes das Flores
+CUST001589,310,3,209.64,5,5,4,14,champions,MG,Porto Alegre
+CUST000317,265,3,209.8,5,4,4,13,champions,MG,Santos
+CUST002065,312,3,210.29999999999998,5,5,4,14,champions,SP,Garcia
+CUST000444,264,3,210.42000000000002,5,4,4,13,champions,MG,Gomes
+CUST001219,340,3,210.5,4,4,4,12,champions,DF,Nunes
+CUST001617,332,2,211.05,4,3,4,11,new_and_promising,RR,Rodrigues
+CUST000944,664,1,211.29,2,2,4,8,lost,MT,Marques Verde
+CUST000073,310,2,211.38,5,3,4,12,new_and_promising,SP,Nogueira
+CUST000018,337,4,211.57,4,5,4,13,champions,PR,Siqueira
+CUST001919,637,3,211.68,2,5,4,11,at_risk_loyal,MG,Sousa Paulista
+CUST001613,368,4,211.91999999999996,4,5,4,13,champions,PR,Martins do Campo
+CUST000903,841,3,211.95000000000002,1,4,4,9,at_risk_loyal,SP,Carvalho de Montenegro
+CUST002227,328,2,212.55,4,3,4,11,new_and_promising,RJ,Cavalcanti
+CUST000704,581,4,212.77999999999997,2,5,4,11,at_risk_loyal,SP,Ferreira
+CUST002352,491,2,212.87,3,3,4,10,needs_attention,PI,Lima
+CUST000851,647,2,212.89999999999998,2,3,4,9,needs_attention,SP,Cavalcante de Moura
+CUST000775,370,2,212.95999999999998,4,4,4,12,champions,ES,Cardoso da Prata
+CUST001139,726,3,213.06,1,4,4,9,at_risk_loyal,RS,Cavalcante do Norte
+CUST000069,331,4,213.13,4,5,4,13,champions,SP,Azevedo de Teixeira
+CUST000493,260,1,213.58,5,1,4,10,new_and_promising,RJ,Rodrigues
+CUST000064,452,2,213.76999999999998,3,3,4,10,needs_attention,MG,Mendonça do Sul
+CUST001562,418,3,213.89,3,4,4,11,needs_attention,SP,Martins do Galho
+CUST001920,381,2,214.15,4,4,4,12,champions,MG,Garcia
+CUST002368,546,2,214.19,2,2,4,8,lost,SC,Caldeira
+CUST000506,346,3,214.32,4,4,4,12,champions,SP,Cardoso
+CUST001049,383,3,214.42000000000002,4,4,4,12,champions,PB,Marques Verde
+CUST000028,261,4,214.54999999999998,5,5,4,14,champions,PR,Freitas
+CUST000935,706,2,214.82,1,4,4,9,at_risk_loyal,SP,Araújo
+CUST001065,479,1,214.91,3,2,4,9,needs_attention,MG,Cavalcanti
+CUST000007,307,3,215.34,5,5,4,14,champions,SP,Cunha
+CUST000271,425,4,215.91,3,5,4,12,needs_attention,ES,das Neves
+CUST001743,466,3,215.98000000000002,3,5,4,12,needs_attention,PA,Carvalho de Silva
+CUST002471,385,4,215.99,4,5,4,13,champions,SP,Vargas do Sul
+CUST002082,483,2,216.88,3,3,4,10,needs_attention,SP,Monteiro Grande
+CUST000086,655,3,217.94,2,4,4,10,at_risk_loyal,RJ,da Mota
+CUST002441,346,2,218.08999999999997,4,4,4,12,champions,SC,Cavalcanti da Serra
+CUST002391,252,3,218.23000000000002,5,4,4,13,champions,MG,Pimenta Verde
+CUST002376,530,2,218.51999999999998,3,3,4,10,needs_attention,RJ,Carvalho de Montenegro
+CUST000331,434,1,218.58,3,2,4,9,needs_attention,MG,Pereira de Goiás
+CUST000273,365,3,218.64,4,4,4,12,champions,PB,Pastor
+CUST000836,691,1,218.78,2,2,4,8,lost,MG,Andrade
+CUST000048,751,2,219.03,1,3,4,8,needs_attention,PR,Pires
+CUST001702,317,5,219.07999999999998,5,5,4,14,champions,MG,Vasconcelos da Praia
+CUST001346,269,4,219.19,5,5,4,14,champions,MG,Vasconcelos da Mata
+CUST000878,503,2,219.37,3,3,4,10,needs_attention,DF,Cunha de Costa
+CUST001022,763,2,219.67000000000002,1,3,4,8,needs_attention,RJ,Farias
+CUST001901,499,1,219.7,3,2,4,9,needs_attention,SC,Câmara Verde
+CUST000983,351,4,219.79000000000002,4,5,4,13,champions,SP,Pires
+CUST001336,339,2,220.29,4,4,4,12,champions,DF,Gomes Grande
+CUST002311,835,3,220.33999999999997,1,5,4,10,at_risk_loyal,PR,Rodrigues
+CUST000779,557,2,220.64,2,2,4,8,lost,PE,da Rosa
+CUST001938,284,4,220.64,5,5,4,14,champions,MT,Almeida de Goiás
+CUST000796,434,2,220.67000000000002,3,3,4,10,needs_attention,PB,da Cruz de Rodrigues
+CUST000536,416,4,221.26999999999998,4,5,4,13,champions,TO,Azevedo de Borges
+CUST000307,256,1,221.37,5,1,4,10,new_and_promising,PR,das Neves Paulista
+CUST002174,578,2,221.63,2,3,4,9,needs_attention,MA,Vargas
+CUST002422,384,2,221.64999999999998,4,4,4,12,champions,SP,das Neves dos Dourados
+CUST002067,968,2,221.85,1,2,4,7,lost,SP,Pimenta Paulista
+CUST000954,389,4,222.1,4,5,4,13,champions,PI,Freitas das Flores
+CUST000986,752,2,222.13,1,3,4,8,needs_attention,RS,Viana do Galho
+CUST000061,301,2,222.66,5,3,4,12,new_and_promising,MG,Cassiano
+CUST000269,517,2,222.76,3,3,4,10,needs_attention,MG,das Neves
+CUST001306,488,3,223.07999999999998,3,5,4,12,needs_attention,PB,Moraes
+CUST001043,429,1,223.31,3,2,4,9,needs_attention,RJ,Cavalcanti do Campo
+CUST002125,599,3,223.49,2,5,4,11,at_risk_loyal,AP,Ribeiro
+CUST002276,412,1,223.63,4,2,4,10,new_and_promising,BA,Mendonça
+CUST002155,275,4,223.99999999999997,5,5,4,14,champions,SP,Pinto de Machado
+CUST001143,486,2,224.06,3,3,4,10,needs_attention,GO,Moraes
+CUST001897,395,3,224.15,4,4,4,12,champions,BA,Andrade
+CUST000095,453,2,224.33999999999997,3,3,4,10,needs_attention,PA,Siqueira Alegre
+CUST002243,560,3,224.33999999999997,2,4,4,10,at_risk_loyal,BA,Brito
+CUST000778,417,3,224.57999999999998,3,4,4,11,needs_attention,PE,Campos
+CUST001788,318,2,224.76999999999998,5,3,4,12,new_and_promising,BA,Gomes das Pedras
+CUST001422,272,3,224.89,5,4,4,13,champions,PR,Vasconcelos
+CUST001136,282,5,225.16,5,5,4,14,champions,SP,Sampaio da Prata
+CUST000656,358,2,225.38,4,4,4,12,champions,SP,Aparecida de Jesus
+CUST001257,454,2,225.39999999999998,3,3,4,10,needs_attention,SP,Gonçalves
+CUST002306,325,3,225.61,4,5,4,13,champions,MG,Correia Alegre
+CUST000929,506,2,225.73,3,3,4,10,needs_attention,DF,Sá de Nascimento
+CUST001740,343,4,225.76,4,5,4,13,champions,MG,Fogaça da Mata
+CUST002168,330,3,226.08999999999997,4,4,4,12,champions,SP,Martins do Norte
+CUST001040,294,2,226.26,5,3,4,12,new_and_promising,RJ,Albuquerque do Sul
+CUST001630,430,4,226.65000000000003,3,5,4,12,needs_attention,RS,Cardoso
+CUST000740,306,3,226.89999999999998,5,5,4,14,champions,MG,da Costa
+CUST001448,366,3,227.51999999999998,4,4,4,12,champions,MS,Barbosa da Praia
+CUST001004,454,2,227.78000000000003,3,3,4,10,needs_attention,CE,Albuquerque do Oeste
+CUST000210,412,2,227.87,4,4,4,12,champions,SP,Monteiro das Flores
+CUST000419,669,1,227.94,2,2,4,8,lost,GO,Pinto das Flores
+CUST001367,272,3,227.97,5,4,4,13,champions,PE,Porto
+CUST002447,481,3,227.99,3,5,4,12,needs_attention,RJ,da Rocha
+CUST002431,824,1,228.18,1,1,4,6,lost,BA,Barros de Peixoto
+CUST002204,266,4,228.31,5,5,4,14,champions,SP,Macedo do Oeste
+CUST001910,432,3,228.68,3,5,4,12,needs_attention,SP,Fogaça de Aparecida
+CUST001546,568,2,228.82999999999998,2,2,4,8,lost,RS,da Rosa
+CUST001516,518,2,228.98,3,3,4,10,needs_attention,SP,Montenegro
+CUST001721,427,4,229.16000000000003,3,5,4,12,needs_attention,SP,Novaes
+CUST000006,293,1,229.29,5,1,4,10,new_and_promising,SP,Andrade do Sul
+CUST001972,402,5,229.4,4,5,4,13,champions,MS,da Cunha do Oeste
+CUST000071,349,3,229.71999999999997,4,4,4,12,champions,PA,Novaes de Cavalcante
+CUST002218,357,2,230.9,4,4,4,12,champions,RJ,Pinto
+CUST001933,417,3,231.04,3,4,4,11,needs_attention,SC,Leão
+CUST001601,392,3,231.23000000000002,4,4,4,12,champions,SP,Rios de Fogaça
+CUST001293,287,3,231.67,5,5,4,14,champions,SC,Cardoso das Flores
+CUST002008,574,2,232.76999999999998,2,3,4,9,needs_attention,PA,Pimenta
+CUST000610,679,2,232.82999999999998,2,4,4,10,at_risk_loyal,PE,Pires de da Rosa
+CUST000474,265,2,233.29,5,3,4,12,new_and_promising,RN,Porto da Praia
+CUST000991,292,4,233.57999999999998,5,5,4,14,champions,ES,Santos Grande
+CUST000352,514,1,233.69,3,2,4,9,needs_attention,MA,Barbosa
+CUST001635,267,2,233.77,5,3,4,12,new_and_promising,SE,Albuquerque Alegre
+CUST000156,376,2,233.95000000000002,4,4,4,12,champions,SP,Aparecida
+CUST000357,608,1,233.97,2,2,4,8,lost,SP,da Mata do Galho
+CUST001160,300,2,234.11,5,3,4,12,new_and_promising,SP,Moreira
+CUST001340,919,3,234.16,1,4,4,9,at_risk_loyal,SP,da Mata de Minas
+CUST002134,481,4,234.84999999999997,3,5,4,12,needs_attention,PR,das Neves de Fonseca
+CUST001421,322,2,234.96,5,3,4,12,new_and_promising,RJ,Peixoto de Goiás
+CUST000963,670,4,235.21,2,5,4,11,at_risk_loyal,RJ,Nascimento das Flores
+CUST001708,368,3,235.26,4,4,4,12,champions,SP,Santos
+CUST000865,381,3,235.7,4,4,4,12,champions,MG,Rocha Paulista
+CUST002031,323,4,235.77999999999997,5,5,4,14,champions,SP,Vasconcelos dos Dourados
+CUST000583,302,3,235.81,5,5,4,14,champions,RS,Marques
+CUST002036,543,2,236.01999999999998,2,2,4,8,lost,RJ,Dias
+CUST000423,567,3,236.04000000000002,2,4,4,10,at_risk_loyal,SP,da Costa
+CUST001874,472,3,236.21999999999997,3,5,4,12,needs_attention,MS,Rios
+CUST002333,289,2,236.3,5,3,4,12,new_and_promising,BA,Dias
+CUST001956,384,1,236.33,4,2,4,10,new_and_promising,SE,Almeida
+CUST001942,277,2,237.38,5,3,4,12,new_and_promising,RJ,Araújo
+CUST001577,246,4,237.39999999999998,5,5,4,14,champions,SP,Peixoto
+CUST001791,591,3,237.51999999999998,2,4,4,10,at_risk_loyal,SP,Costa dos Dourados
+CUST000118,409,3,238.27,4,4,4,12,champions,SP,Peixoto
+CUST001871,449,3,238.33999999999997,3,5,4,12,needs_attention,MT,da Cunha
+CUST001082,339,2,238.59,4,4,4,12,champions,SP,Silva
+CUST000412,718,4,238.6,1,5,4,10,at_risk_loyal,TO,Andrade de Cardoso
+CUST001255,254,3,238.61,5,4,4,13,champions,GO,da Cunha de Minas
+CUST000814,634,3,238.76,2,5,4,11,at_risk_loyal,PI,Monteiro
+CUST000080,461,2,238.81,3,3,4,10,needs_attention,SP,Pastor
+CUST001318,439,3,238.82,3,5,4,12,needs_attention,CE,Castro
+CUST000402,808,2,239.19,1,3,4,8,needs_attention,AL,Pastor Verde
+CUST000408,281,3,239.81,5,5,4,14,champions,SP,da Conceição das Pedras
+CUST000885,719,4,239.82000000000002,1,5,4,10,at_risk_loyal,ES,Jesus
+CUST002019,507,4,239.96999999999997,3,5,4,12,needs_attention,SP,Ferreira Paulista
+CUST000747,316,4,240.18,5,5,4,14,champions,MG,Gonçalves Alegre
+CUST001402,303,3,240.57,5,5,4,14,champions,SP,Campos do Norte
+CUST001690,246,4,240.88,5,5,4,14,champions,PA,Farias
+CUST001048,421,3,240.98000000000002,3,4,4,11,needs_attention,SP,Barros da Praia
+CUST000869,401,4,241.18,4,5,4,13,champions,MA,Santos do Oeste
+CUST001038,356,4,241.31,4,5,4,13,champions,PE,Ribeiro de Mendonça
+CUST000798,330,2,241.63,4,3,4,11,new_and_promising,SC,Sales
+CUST000974,727,2,242.04999999999998,1,3,4,8,needs_attention,SP,da Conceição de Nogueira
+CUST002406,525,3,242.21,3,4,4,11,needs_attention,BA,Cavalcanti
+CUST000393,568,2,242.43,2,2,4,8,lost,MG,Moraes Paulista
+CUST000692,325,3,242.7,4,5,4,13,champions,MG,Peixoto de Nascimento
+CUST000822,255,3,243.2,5,4,4,13,champions,SP,Lopes
+CUST001608,633,2,243.24,2,3,4,9,needs_attention,ES,Rezende de Minas
+CUST001482,368,3,243.37,4,4,4,12,champions,SP,Novaes
+CUST001997,424,3,243.52000000000004,3,4,4,11,needs_attention,AC,Peixoto de Lopes
+CUST001970,436,4,243.64,3,5,4,12,needs_attention,SP,Vargas de da Conceição
+CUST001618,584,4,243.70000000000002,2,5,4,11,at_risk_loyal,GO,Moura da Mata
+CUST002010,580,2,243.81,2,3,4,9,needs_attention,RS,Fonseca
+CUST001521,309,2,243.92000000000002,5,3,4,12,new_and_promising,SP,Barros das Pedras
+CUST001377,395,2,244.01,4,4,4,12,champions,RS,Cavalcante
+CUST000925,345,3,244.01,4,4,4,12,champions,MG,Freitas de Goiás
+CUST002133,571,3,244.47999999999996,2,4,4,10,at_risk_loyal,SC,Borges
+CUST002148,299,3,244.51,5,5,4,14,champions,MG,Barros das Pedras
+CUST002423,582,3,244.51999999999998,2,4,4,10,at_risk_loyal,CE,Pires da Serra
+CUST002495,555,4,244.82,2,5,4,11,at_risk_loyal,PR,da Rosa de Cunha
+CUST001134,607,3,244.94,2,5,4,11,at_risk_loyal,SP,Pacheco de Guerra
+CUST001474,281,2,245.01999999999998,5,3,4,12,new_and_promising,MG,Garcia de Ferreira
+CUST000546,275,3,245.40999999999997,5,5,4,14,champions,MG,Câmara de Caldeira
+CUST000385,395,3,245.57,4,4,4,12,champions,CE,Alves
+CUST000144,336,1,245.64,4,1,4,9,new_and_promising,RJ,Costela Paulista
+CUST000553,709,2,245.7,1,4,4,9,at_risk_loyal,SC,Sampaio da Mata
+CUST000207,276,2,246.36,5,3,4,12,new_and_promising,SP,Marques
+CUST000586,596,3,246.5,2,5,4,11,at_risk_loyal,SP,da Rocha do Campo
+CUST001642,779,2,246.68,1,3,4,8,needs_attention,MS,da Rosa
+CUST000999,593,3,247.01,2,5,4,11,at_risk_loyal,TO,Aragão
+CUST000651,270,3,247.55,5,4,4,13,champions,SP,Ribeiro
+CUST001677,740,3,248.12,1,5,4,10,at_risk_loyal,SP,Camargo
+CUST001674,252,3,248.20999999999998,5,4,4,13,champions,ES,Costela de Sales
+CUST000908,387,3,248.79000000000002,4,4,4,12,champions,RJ,Albuquerque
+CUST001256,291,2,248.81,5,3,4,12,new_and_promising,MG,Rios da Serra
+CUST000601,289,3,248.86,5,5,4,14,champions,SP,da Cunha
+CUST001694,361,4,249.72999999999996,4,5,4,13,champions,SP,Guerra dos Dourados
+CUST000806,253,5,250.15999999999997,5,5,4,14,champions,CE,Martins
+CUST001404,380,4,250.17000000000002,4,5,4,13,champions,CE,Silveira das Flores
+CUST002100,253,5,250.66,5,5,4,14,champions,MG,Porto
+CUST001524,278,5,250.73000000000002,5,5,4,14,champions,SP,Dias de Minas
+CUST000478,415,3,250.8,4,4,4,12,champions,SC,Pimenta de Goiás
+CUST001491,335,3,250.84999999999997,4,4,4,12,champions,SP,da Costa do Campo
+CUST001603,258,4,250.98000000000002,5,5,4,14,champions,SP,da Rocha
+CUST000585,264,5,251.01,5,5,4,14,champions,DF,Oliveira das Flores
+CUST000466,377,4,251.02,4,5,4,13,champions,MG,Camargo dos Dourados
+CUST001239,273,4,251.45000000000002,5,5,4,14,champions,AM,Azevedo da Prata
+CUST001064,784,1,251.55,1,1,5,7,lost,MG,Nogueira Verde
+CUST002498,454,4,251.95,3,5,5,13,needs_attention,MA,Borges
+CUST002190,505,2,252.05,3,3,5,11,needs_attention,GO,Vieira
+CUST000599,265,3,252.15,5,4,5,14,champions,SP,Ferreira Grande
+CUST000481,350,3,252.36999999999998,4,4,5,13,champions,DF,Camargo Grande
+CUST000458,345,2,252.39,4,4,5,13,champions,RS,Siqueira Grande
+CUST002395,422,3,252.95000000000002,3,4,5,12,needs_attention,RN,Sousa do Norte
+CUST001487,250,6,253.3,5,5,5,15,champions,MG,Farias
+CUST000243,769,2,253.48,1,3,5,9,needs_attention,PI,Fernandes das Flores
+CUST000608,266,2,253.53,5,3,5,13,new_and_promising,MG,Macedo
+CUST002468,407,4,253.87,4,5,5,14,champions,SP,Sales
+CUST000904,337,4,254.06,4,5,5,14,champions,BA,da Mata de Correia
+CUST000387,332,2,254.23000000000002,4,3,5,12,new_and_promising,RJ,das Neves
+CUST001162,340,5,254.34,4,5,5,14,champions,SP,Farias
+CUST001773,706,4,254.87,1,5,5,11,at_risk_loyal,RN,Novais do Amparo
+CUST001655,278,3,255.57999999999998,5,5,5,15,champions,SP,Ribeiro
+CUST000038,937,2,255.86,1,2,5,8,lost,SP,Cunha
+CUST000234,346,4,255.97,4,5,5,14,champions,RS,Leão
+CUST001529,333,4,256.09,4,5,5,14,champions,ES,Camargo das Pedras
+CUST002077,249,4,256.57,5,5,5,15,champions,SP,da Costa da Prata
+CUST000376,257,4,257.94000000000005,5,5,5,15,champions,RJ,Duarte do Campo
+CUST002158,266,3,258.15999999999997,5,4,5,14,champions,RJ,Cassiano
+CUST000146,250,2,258.25,5,4,5,14,champions,SP,Porto
+CUST001420,278,3,258.9,5,5,5,15,champions,RO,Alves
+CUST002026,526,4,259.04999999999995,3,5,5,13,needs_attention,RJ,Fernandes do Campo
+CUST001760,541,4,259.21999999999997,2,5,5,12,at_risk_loyal,SC,Ribeiro Alegre
+CUST000001,322,4,259.65999999999997,5,5,5,15,champions,MG,Alves
+CUST001352,346,5,259.7,4,5,5,14,champions,SC,Vargas de Vasconcelos
+CUST000544,482,1,259.97,3,2,5,10,needs_attention,GO,Fogaça do Campo
+CUST000514,792,2,260.03000000000003,1,3,5,9,needs_attention,PB,Melo
+CUST002162,551,4,260.23,2,5,5,12,at_risk_loyal,BA,Cardoso dos Dourados
+CUST000855,454,2,260.46000000000004,3,3,5,11,needs_attention,SP,Macedo
+CUST000711,507,3,260.55,3,4,5,12,needs_attention,CE,Carvalho
+CUST001468,262,3,261.18,5,4,5,14,champions,MG,Costela de Goiás
+CUST001664,394,4,261.2,4,5,5,14,champions,RS,Pinto Grande
+CUST002145,416,4,261.56,3,5,5,13,needs_attention,RS,Gonçalves de Goiás
+CUST000456,329,2,261.65999999999997,4,3,5,12,new_and_promising,RS,das Neves
+CUST000759,657,2,261.66,2,3,5,10,needs_attention,RN,Rios da Praia
+CUST000698,372,2,261.94,4,4,5,13,champions,SC,Cirino de Minas
+CUST000600,393,5,262.11,4,5,5,14,champions,SP,Caldeira
+CUST001499,335,3,262.21999999999997,4,4,5,13,champions,MG,Barros do Amparo
+CUST001155,268,3,262.38,5,4,5,14,champions,BA,Dias de Azevedo
+CUST001847,352,3,262.88,4,4,5,13,champions,SP,Fogaça
+CUST000705,303,3,262.94,5,5,5,15,champions,SP,Siqueira
+CUST001334,465,5,263.23,3,5,5,13,needs_attention,RR,da Cruz
+CUST001197,303,3,263.43,5,5,5,15,champions,AM,Leão de Santos
+CUST001333,708,5,263.52,1,5,5,11,at_risk_loyal,SP,Aparecida
+CUST002179,428,3,263.74,3,5,5,13,needs_attention,PE,Moreira
+CUST001440,539,2,263.77,3,3,5,11,needs_attention,GO,Almeida
+CUST000575,355,3,263.84000000000003,4,4,5,13,champions,MA,Cunha Grande
+CUST001209,333,4,264.08000000000004,4,5,5,14,champions,RJ,Nogueira de Cunha
+CUST001313,500,3,265.41999999999996,3,5,5,13,needs_attention,SC,Marques
+CUST001980,752,3,265.61,1,5,5,11,at_risk_loyal,MS,Rezende Verde
+CUST000472,461,1,266.01,3,2,5,10,needs_attention,AM,Marques
+CUST001431,721,2,266.29,1,4,5,10,at_risk_loyal,RS,da Costa
+CUST000375,629,2,266.49,2,3,5,10,needs_attention,SP,Dias
+CUST001199,337,2,266.87,4,4,5,13,champions,CE,Nunes
+CUST001571,357,3,266.98,4,4,5,13,champions,BA,Câmara
+CUST001723,262,4,267.18,5,5,5,15,champions,RJ,Marques
+CUST001716,807,3,267.48999999999995,1,5,5,11,at_risk_loyal,RR,Montenegro
+CUST002213,363,4,267.63,4,5,5,14,champions,SP,Azevedo
+CUST000691,615,3,267.92,2,5,5,12,at_risk_loyal,RJ,Azevedo de Camargo
+CUST001085,957,1,267.94,1,1,5,7,lost,TO,Sousa
+CUST002027,742,1,268.48,1,1,5,7,lost,CE,Nascimento Verde
+CUST001940,253,4,268.6,5,5,5,15,champions,SP,Carvalho
+CUST001722,469,2,268.7,3,3,5,11,needs_attention,SP,Guerra de Goiás
+CUST001072,608,3,268.78,2,5,5,12,at_risk_loyal,SP,Gomes Grande
+CUST000132,547,3,268.84000000000003,2,4,5,11,at_risk_loyal,SP,Montenegro
+CUST001105,419,3,269.17,3,4,5,12,needs_attention,RR,Leão da Mata
+CUST001626,399,3,269.26,4,4,5,13,champions,PE,Porto do Norte
+CUST000296,264,2,269.48,5,3,5,13,new_and_promising,PR,Silveira
+CUST002463,281,4,269.6,5,5,5,15,champions,BA,Sousa
+CUST001079,432,2,270.06,3,3,5,11,needs_attention,SP,Novaes das Flores
+CUST000112,247,5,270.57,5,5,5,15,champions,SP,Cunha do Norte
+CUST001811,505,4,271.74,3,5,5,13,needs_attention,DF,Leão
+CUST000657,340,3,271.84000000000003,4,4,5,13,champions,RJ,Rocha de Goiás
+CUST001218,690,3,272.13,2,4,5,11,at_risk_loyal,GO,Costela
+CUST002073,424,2,272.52,3,3,5,11,needs_attention,SP,Fonseca das Flores
+CUST001754,479,4,272.57,3,5,5,13,needs_attention,SP,Moura
+CUST001803,606,2,272.92,2,3,5,10,needs_attention,RJ,Abreu Alegre
+CUST002247,433,3,273.8,3,5,5,13,needs_attention,SP,Novais
+CUST001392,343,2,274.27,4,4,5,13,champions,SP,Brito
+CUST000166,402,2,274.37,4,4,5,13,champions,MS,Viana
+CUST000746,283,3,274.55,5,5,5,15,champions,AL,Moura
+CUST002440,431,3,274.8,3,5,5,13,needs_attention,SP,Caldeira
+CUST000892,700,1,275.08,2,2,5,9,lost,MA,Duarte da Mata
+CUST001278,438,2,275.36,3,3,5,11,needs_attention,AP,Carvalho
+CUST001946,565,2,275.77,2,2,5,9,lost,PR,Silveira
+CUST000191,256,3,277.65999999999997,5,4,5,14,champions,SP,Novaes Grande
+CUST001697,491,3,278.12,3,5,5,13,needs_attention,SP,Cardoso
+CUST000288,382,3,278.41,4,4,5,13,champions,PR,da Cruz de Sá
+CUST000661,622,4,279.05999999999995,2,5,5,12,at_risk_loyal,MG,Correia de Freitas
+CUST002003,266,3,279.95,5,4,5,14,champions,AL,Silva do Norte
+CUST000835,248,3,280.66,5,4,5,14,champions,RS,Montenegro do Norte
+CUST000173,672,2,281.41,2,4,5,11,at_risk_loyal,PR,Guerra
+CUST001906,292,3,281.98,5,5,5,15,champions,SP,Sá
+CUST001895,579,2,282.14,2,3,5,10,needs_attention,SC,Pacheco
+CUST001151,512,3,282.18,3,4,5,12,needs_attention,PE,Fernandes dos Dourados
+CUST000811,381,3,282.78999999999996,4,4,5,13,champions,AP,Castro
+CUST001267,596,3,283.73,2,5,5,12,at_risk_loyal,MG,da Conceição
+CUST001622,840,2,284.47,1,3,5,9,needs_attention,SP,Casa Grande de Dias
+CUST000122,633,2,284.87,2,3,5,10,needs_attention,AL,Pacheco
+CUST000301,283,2,285.23,5,3,5,13,new_and_promising,SP,Borges
+CUST000765,456,4,285.38,3,5,5,13,needs_attention,SP,da Costa
+CUST000420,459,4,285.40999999999997,3,5,5,13,needs_attention,CE,Farias
+CUST000848,278,3,285.58000000000004,5,5,5,15,champions,RR,da Luz de Rezende
+CUST002494,408,5,285.6,4,5,5,14,champions,MG,Freitas
+CUST000082,416,3,285.76,3,4,5,12,needs_attention,BA,Santos
+CUST001301,646,3,285.92999999999995,2,5,5,12,at_risk_loyal,SP,Montenegro da Mata
+CUST000930,291,3,285.95,5,5,5,15,champions,RJ,Teixeira
+CUST000723,341,5,286.09,4,5,5,14,champions,SP,Monteiro
+CUST001971,925,2,286.26,1,2,5,8,lost,SP,da Paz
+CUST002242,647,2,286.54,2,3,5,10,needs_attention,SP,Cunha
+CUST001374,589,3,287.13,2,4,5,11,at_risk_loyal,RS,Barbosa
+CUST000276,408,3,287.86,4,4,5,13,champions,PR,Ferreira
+CUST000063,300,4,288.12,5,5,5,15,champions,MT,Peixoto
+CUST000960,613,2,288.26,2,3,5,10,needs_attention,CE,Abreu
+CUST001384,422,2,288.53,3,3,5,11,needs_attention,RJ,Santos do Norte
+CUST000457,738,2,288.56,1,3,5,9,needs_attention,SP,Andrade de Pacheco
+CUST001145,482,5,289.21999999999997,3,5,5,13,needs_attention,RJ,Gonçalves dos Dourados
+CUST000977,620,3,289.7,2,5,5,12,at_risk_loyal,BA,da Conceição Verde
+CUST000845,753,2,289.99,1,3,5,9,needs_attention,SP,Farias do Campo
+CUST000217,287,3,290.58000000000004,5,5,5,15,champions,RJ,Carvalho de Martins
+CUST002414,326,4,291.97,4,5,5,14,champions,SP,Moura
+CUST000031,250,4,292.26,5,5,5,15,champions,BA,Nascimento
+CUST002183,707,2,292.44,1,4,5,10,at_risk_loyal,SP,da Cunha
+CUST001269,371,4,293.26,4,5,5,14,champions,BA,Dias
+CUST000797,486,4,294.14,3,5,5,13,needs_attention,SE,da Rosa dos Dourados
+CUST000819,252,3,294.17,5,4,5,14,champions,SP,Aragão do Norte
+CUST000033,396,3,294.2,4,4,5,13,champions,SP,Garcia de da Mata
+CUST000727,322,3,295.1,5,5,5,15,champions,SP,Nogueira
+CUST001173,332,3,295.22999999999996,4,4,5,13,champions,DF,Costa dos Dourados
+CUST001265,307,3,295.34000000000003,5,5,5,15,champions,SP,Campos das Pedras
+CUST000021,341,5,295.6,4,5,5,14,champions,BA,Pires da Praia
+CUST001319,639,2,295.71,2,3,5,10,needs_attention,SP,Ferreira de Moreira
+CUST002325,583,2,295.84000000000003,2,3,5,10,needs_attention,MT,Araújo
+CUST000870,514,2,296.34,3,3,5,11,needs_attention,TO,Dias de Mendes
+CUST000616,670,2,296.38,2,4,5,11,at_risk_loyal,PI,Pimenta
+CUST000404,287,3,297.48,5,5,5,15,champions,MT,Ferreira de Farias
+CUST000111,510,4,298.01,3,5,5,13,needs_attention,RJ,Cassiano de Correia
+CUST002113,278,3,298.03000000000003,5,5,5,15,champions,SP,Cavalcante
+CUST001710,302,3,298.33000000000004,5,5,5,15,champions,DF,Moreira do Galho
+CUST001549,247,3,299.26,5,4,5,14,champions,SP,Correia
+CUST000664,598,2,299.81,2,3,5,10,needs_attention,SP,Castro do Oeste
+CUST002202,404,2,299.96000000000004,4,4,5,13,champions,SP,Cardoso
+CUST002097,547,3,301.72999999999996,2,4,5,11,at_risk_loyal,SC,Vasconcelos de Sousa
+CUST000720,257,3,303.11,5,4,5,14,champions,CE,da Mata do Campo
+CUST001216,333,2,303.65,4,4,5,13,champions,SP,Pimenta
+CUST001751,531,2,303.95,3,3,5,11,needs_attention,PR,Vargas
+CUST000592,302,2,304.13,5,3,5,13,new_and_promising,DF,Pastor das Flores
+CUST000914,630,3,304.35,2,4,5,11,at_risk_loyal,MG,Mendes
+CUST001042,433,2,304.49,3,3,5,11,needs_attention,ES,Montenegro
+CUST002449,634,4,304.68,2,5,5,12,at_risk_loyal,SP,Farias do Galho
+CUST001996,374,3,304.95,4,4,5,13,champions,DF,Casa Grande
+CUST000449,323,5,305.28999999999996,4,5,5,14,champions,MG,da Mota do Sul
+CUST001762,644,2,305.77,2,3,5,10,needs_attention,MS,Gonçalves Alegre
+CUST002064,331,3,305.83,4,4,5,13,champions,RS,Albuquerque
+CUST000239,314,5,306.23,5,5,5,15,champions,DF,Nascimento da Prata
+CUST000842,385,4,306.85,4,5,5,14,champions,GO,Pastor Alegre
+CUST002250,258,5,307.06,5,5,5,15,champions,SP,Caldeira da Serra
+CUST001081,445,4,308.05,3,5,5,13,needs_attention,PA,Barros da Mata
+CUST001638,248,3,308.37,5,4,5,14,champions,SP,Câmara
+CUST000189,337,2,309.08000000000004,4,4,5,13,champions,PR,Montenegro da Mata
+CUST002217,314,3,309.52,5,5,5,15,champions,MT,Siqueira da Serra
+CUST002191,624,4,309.99000000000007,2,5,5,12,at_risk_loyal,RJ,Pacheco do Campo
+CUST001439,391,3,310.48,4,4,5,13,champions,SP,da Conceição
+CUST002261,349,5,310.61,4,5,5,14,champions,PA,da Paz
+CUST002151,717,2,311.32,1,4,5,10,at_risk_loyal,RJ,Jesus do Oeste
+CUST001153,709,2,311.74,1,4,5,10,at_risk_loyal,PE,Ferreira de Melo
+CUST001861,417,3,312.14,3,4,5,12,needs_attention,PA,das Neves
+CUST001854,719,2,312.14,1,4,5,10,at_risk_loyal,MS,Vieira da Prata
+CUST000787,792,2,312.34999999999997,1,3,5,9,needs_attention,BA,Pastor
+CUST000773,701,2,313.37,2,4,5,11,at_risk_loyal,SP,Ramos de Minas
+CUST000392,264,6,314.28000000000003,5,5,5,15,champions,MG,Monteiro
+CUST002160,487,4,314.83000000000004,3,5,5,13,needs_attention,CE,Cirino
+CUST002299,248,2,316.19,5,2,5,12,new_and_promising,SP,Rezende Verde
+CUST000628,530,3,316.64,3,4,5,12,needs_attention,CE,da Paz das Flores
+CUST001686,616,3,316.66,2,5,5,12,at_risk_loyal,MA,Sousa do Campo
+CUST001640,325,2,316.96000000000004,4,3,5,12,new_and_promising,SE,Gomes
+CUST002132,893,1,317.25,1,1,5,7,lost,SP,Ferreira do Amparo
+CUST001098,578,2,317.26,2,3,5,10,needs_attention,SP,Silveira
+CUST001995,509,3,318.79,3,4,5,12,needs_attention,CE,Porto do Sul
+CUST000595,494,3,318.9,3,5,5,13,needs_attention,AL,Farias
+CUST000606,265,4,319.24,5,5,5,15,champions,RS,Rodrigues de Nunes
+CUST000476,381,2,320.23999999999995,4,4,5,13,champions,RR,Melo
+CUST001620,630,1,320.24,2,2,5,9,lost,CE,Costa
+CUST002216,542,3,320.82000000000005,2,4,5,11,at_risk_loyal,RJ,Marques do Sul
+CUST002404,329,4,321.74,4,5,5,14,champions,RJ,Gonçalves
+CUST002312,338,4,321.84000000000003,4,5,5,14,champions,PB,Cassiano de Minas
+CUST000215,621,4,323.91999999999996,2,5,5,12,at_risk_loyal,PE,Aragão de Novais
+CUST001673,306,6,324.0,5,5,5,15,champions,PB,Castro do Norte
+CUST000936,347,3,324.08000000000004,4,4,5,13,champions,RJ,Oliveira
+CUST002079,333,3,324.48999999999995,4,4,5,13,champions,AP,Sousa
+CUST000527,451,3,324.66999999999996,3,5,5,13,needs_attention,MG,Garcia do Galho
+CUST001370,424,5,324.7,3,5,5,13,needs_attention,SP,da Costa
+CUST000032,629,4,324.78999999999996,2,5,5,12,at_risk_loyal,SP,Castro
+CUST000533,318,4,324.99,5,5,5,15,champions,RR,Siqueira do Campo
+CUST000942,411,4,325.68,4,5,5,14,champions,SC,Araújo de Marques
+CUST001295,858,3,326.59,1,4,5,10,at_risk_loyal,ES,Teixeira
+CUST001245,482,5,327.41,3,5,5,13,needs_attention,PA,Viana de Fernandes
+CUST001223,337,5,327.53999999999996,4,5,5,14,champions,MG,Moraes do Campo
+CUST000369,540,2,327.54,2,3,5,10,needs_attention,SP,Jesus Alegre
+CUST000162,260,4,328.19,5,5,5,15,champions,DF,Jesus
+CUST001275,332,5,329.39,4,5,5,14,champions,RS,Silveira do Oeste
+CUST001279,272,2,329.53,5,3,5,13,new_and_promising,SP,Pastor
+CUST001226,302,4,329.66999999999996,5,5,5,15,champions,DF,Sampaio
+CUST001150,419,3,329.68,3,4,5,12,needs_attention,PB,Ferreira
+CUST002136,694,4,329.96999999999997,2,5,5,12,at_risk_loyal,RN,Albuquerque do Sul
+CUST001812,427,3,331.46,3,5,5,13,needs_attention,PA,Borges da Praia
+CUST000509,327,4,332.16999999999996,4,5,5,14,champions,TO,Fogaça
+CUST001360,292,3,332.72,5,5,5,15,champions,BA,Leão
+CUST002049,312,5,334.31,5,5,5,15,champions,PR,da Cruz
+CUST001623,669,3,334.66,2,4,5,11,at_risk_loyal,SC,Vasconcelos
+CUST002446,418,4,334.68999999999994,3,5,5,13,needs_attention,RJ,Azevedo das Pedras
+CUST002436,559,2,334.79999999999995,2,2,5,9,lost,MG,Rezende
+CUST001238,633,3,335.09000000000003,2,5,5,12,at_risk_loyal,RS,Porto de Rios
+CUST001928,367,4,335.57,4,5,5,14,champions,RS,da Conceição
+CUST000427,622,3,335.59000000000003,2,5,5,12,at_risk_loyal,MG,Alves do Norte
+CUST000931,528,4,336.09999999999997,3,5,5,13,needs_attention,SP,Rodrigues
+CUST001070,543,1,336.89,2,2,5,9,lost,RJ,Nunes
+CUST001311,389,3,337.03,4,4,5,13,champions,SP,da Cruz
+CUST001994,325,3,337.10999999999996,4,4,5,13,champions,SP,Castro
+CUST001819,269,2,339.57,5,3,5,13,new_and_promising,BA,Aparecida
+CUST001221,297,6,339.65000000000003,5,5,5,15,champions,TO,Duarte
+CUST002264,374,5,339.88,4,5,5,14,champions,MG,da Rosa
+CUST002377,706,3,341.06,1,4,5,10,at_risk_loyal,RJ,Silva de Rezende
+CUST001836,399,3,341.51,4,4,5,13,champions,DF,Aragão
+CUST002259,516,3,341.56,3,4,5,12,needs_attention,RJ,Fonseca dos Dourados
+CUST001480,246,5,341.82,5,5,5,15,champions,MG,Cavalcante das Flores
+CUST000428,289,4,341.96,5,5,5,15,champions,RN,Vieira do Norte
+CUST001224,315,4,342.3,5,5,5,15,champions,RO,Sá
+CUST001355,319,4,342.48999999999995,5,5,5,15,champions,RS,Jesus
+CUST000129,410,5,344.42,4,5,5,14,champions,SP,Albuquerque
+CUST000155,754,2,344.74,1,3,5,9,needs_attention,AP,Lopes
+CUST002297,666,2,345.81000000000006,2,4,5,11,at_risk_loyal,SP,Mendes
+CUST001437,415,4,347.21000000000004,4,5,5,14,champions,RJ,Cavalcanti do Amparo
+CUST000897,311,4,347.82,5,5,5,15,champions,RJ,Cavalcanti do Norte
+CUST001802,320,2,351.87,5,3,5,13,new_and_promising,CE,Castro
+CUST002210,258,3,352.31,5,4,5,14,champions,PI,Nogueira
+CUST002402,424,3,354.14,3,4,5,12,needs_attention,SP,Borges de Silveira
+CUST002122,308,4,354.78999999999996,5,5,5,15,champions,PR,Macedo Grande
+CUST001394,309,3,354.9,5,5,5,15,champions,PR,Campos
+CUST001349,272,3,355.51,5,4,5,14,champions,AP,da Rocha
+CUST001541,734,2,355.73,1,3,5,9,needs_attention,PE,da Mata de Freitas
+CUST001237,364,3,356.63,4,4,5,13,champions,MA,Siqueira
+CUST000257,264,5,357.69999999999993,5,5,5,15,champions,RO,Rezende
+CUST000652,297,2,360.06,5,3,5,13,new_and_promising,PR,Vargas Grande
+CUST002253,847,2,360.37,1,3,5,9,needs_attention,GO,Nascimento
+CUST000272,362,3,360.46000000000004,4,4,5,13,champions,ES,Gonçalves do Oeste
+CUST000965,259,2,360.76,5,3,5,13,new_and_promising,RJ,Ferreira de Cassiano
+CUST001177,392,5,363.25,4,5,5,14,champions,PA,Pastor do Campo
+CUST001683,291,4,364.29,5,5,5,15,champions,DF,Brito
+CUST000056,480,2,364.63,3,3,5,11,needs_attention,SE,Castro dos Dourados
+CUST001926,748,3,364.72,1,5,5,11,at_risk_loyal,SP,Montenegro
+CUST001692,440,3,365.65999999999997,3,5,5,13,needs_attention,PR,Freitas
+CUST001649,351,4,366.34000000000003,4,5,5,14,champions,PA,Cunha
+CUST001317,670,3,368.23,2,4,5,11,at_risk_loyal,PR,Sampaio
+CUST000712,247,4,369.40999999999997,5,5,5,15,champions,BA,Silva
+CUST000050,511,4,370.09999999999997,3,5,5,13,needs_attention,SP,Peixoto de Minas
+CUST000177,567,3,371.08000000000004,2,4,5,11,at_risk_loyal,PE,Alves do Campo
+CUST001988,278,5,371.24,5,5,5,15,champions,RS,Ribeiro
+CUST000916,354,4,371.78999999999996,4,5,5,14,champions,MG,Gomes de Goiás
+CUST001507,275,4,373.46999999999997,5,5,5,15,champions,SC,da Mata
+CUST002240,279,5,373.52,5,5,5,15,champions,SP,Moura do Norte
+CUST000260,455,4,373.57000000000005,3,5,5,13,needs_attention,SP,da Cruz
+CUST002466,261,2,374.23,5,3,5,13,new_and_promising,SP,Ferreira da Prata
+CUST002453,442,5,374.35,3,5,5,13,needs_attention,SC,Mendes
+CUST000399,284,6,376.26,5,5,5,15,champions,CE,Vargas das Pedras
+CUST000868,335,4,376.48,4,5,5,14,champions,SP,da Rosa
+CUST001843,557,5,376.69,2,5,5,12,at_risk_loyal,MG,Nascimento
+CUST001737,431,3,377.58000000000004,3,5,5,13,needs_attention,RS,Silva dos Dourados
+CUST000110,728,3,377.93,1,4,5,10,at_risk_loyal,SP,Lima da Prata
+CUST002181,298,5,378.34000000000003,5,5,5,15,champions,RJ,Rodrigues da Mata
+CUST000856,274,4,379.88,5,5,5,15,champions,SP,Leão Grande
+CUST000019,345,3,380.0,4,4,5,13,champions,MG,Nascimento de Campos
+CUST001141,268,4,380.36,5,5,5,15,champions,MT,Caldeira do Sul
+CUST000995,370,1,380.48,4,2,5,11,new_and_promising,MG,da Cunha
+CUST000576,766,2,380.63,1,3,5,9,needs_attention,TO,da Rocha Alegre
+CUST000421,515,5,381.21000000000004,3,5,5,13,needs_attention,ES,Dias do Amparo
+CUST001923,615,2,381.64000000000004,2,3,5,10,needs_attention,BA,Garcia de Goiás
+CUST001213,255,3,382.07,5,4,5,14,champions,SP,Campos de Vasconcelos
+CUST001668,586,2,382.07000000000005,2,3,5,10,needs_attention,SE,Monteiro
+CUST001417,466,3,382.76,3,5,5,13,needs_attention,SP,Mendes da Prata
+CUST002287,339,5,383.82,4,5,5,14,champions,AM,Rocha
+CUST000161,287,4,385.91999999999996,5,5,5,15,champions,MG,Castro
+CUST001144,458,3,387.09000000000003,3,5,5,13,needs_attention,SC,Machado
+CUST001523,392,4,390.29999999999995,4,5,5,14,champions,RJ,Peixoto
+CUST001387,391,2,391.27,4,4,5,13,champions,PA,Fogaça
+CUST001968,272,6,391.27000000000004,5,5,5,15,champions,MG,Lima
+CUST002356,334,4,391.74,4,5,5,14,champions,SP,Pacheco
+CUST001467,374,5,393.0,4,5,5,14,champions,AM,Machado do Sul
+CUST000828,324,4,394.39,4,5,5,14,champions,RJ,Barbosa das Flores
+CUST002029,558,5,394.65999999999997,2,5,5,12,at_risk_loyal,RJ,Nunes do Amparo
+CUST002119,313,2,395.80999999999995,5,3,5,13,new_and_promising,SP,Barros
+CUST000077,516,3,396.46999999999997,3,4,5,12,needs_attention,PA,da Cruz
+CUST000591,469,2,397.12,3,3,5,11,needs_attention,SP,da Cruz
+CUST001184,407,4,399.24,4,5,5,14,champions,SE,Camargo da Serra
+CUST000126,267,2,400.09000000000003,5,3,5,13,new_and_promising,MG,da Costa Paulista
+CUST001888,337,6,400.28999999999996,4,5,5,14,champions,RJ,Mendonça da Prata
+CUST000308,271,4,401.83,5,5,5,15,champions,RJ,Campos
+CUST001629,384,3,402.02,4,4,5,13,champions,SP,Mendonça
+CUST002072,353,1,405.9,4,1,5,10,new_and_promising,PR,Costela das Pedras
+CUST001056,312,4,406.35,5,5,5,15,champions,RJ,Sampaio
+CUST000648,685,4,406.99,2,5,5,12,at_risk_loyal,GO,Cassiano
+CUST001169,356,5,407.1,4,5,5,14,champions,SP,Costela
+CUST001561,453,5,408.81,3,5,5,13,needs_attention,RJ,da Mota
+CUST001107,435,4,409.11999999999995,3,5,5,13,needs_attention,MG,da Cunha de Goiás
+CUST001174,384,3,411.13999999999993,4,4,5,13,champions,RJ,da Luz
+CUST000687,370,4,411.68000000000006,4,5,5,14,champions,SC,Camargo da Mata
+CUST002076,323,3,414.25,4,5,5,14,champions,PB,Brito
+CUST001270,734,2,414.92999999999995,1,3,5,9,needs_attention,RJ,da Rosa Grande
+CUST000996,335,3,416.47,4,4,5,13,champions,SP,Farias
+CUST002480,706,1,417.95,1,2,5,8,lost,ES,Nascimento de Farias
+CUST001747,403,3,418.46000000000004,4,4,5,13,champions,SP,Marques
+CUST001882,375,3,418.64,4,4,5,13,champions,PB,Abreu
+CUST002384,396,2,419.05,4,4,5,13,champions,MG,Sá
+CUST002459,742,2,420.29999999999995,1,3,5,9,needs_attention,RS,Santos
+CUST000041,717,3,420.5,1,4,5,10,at_risk_loyal,SP,da Luz
+CUST001530,427,4,420.65999999999997,3,5,5,13,needs_attention,PR,Casa Grande
+CUST000247,346,3,422.21000000000004,4,4,5,13,champions,MG,Barros
+CUST002123,335,4,422.3,4,5,5,14,champions,AM,Moura
+CUST001303,302,3,422.77,5,5,5,15,champions,SP,Porto
+CUST002035,249,4,423.48,5,5,5,15,champions,BA,Rocha
+CUST000959,293,4,423.78999999999996,5,5,5,15,champions,SP,Moura Grande
+CUST002030,619,2,423.96000000000004,2,3,5,10,needs_attention,DF,Sá
+CUST002331,480,4,424.05,3,5,5,13,needs_attention,RJ,Rezende das Flores
+CUST000614,331,4,424.15000000000003,4,5,5,14,champions,SP,Araújo
+CUST001359,452,5,425.79999999999995,3,5,5,13,needs_attention,RJ,Caldeira do Oeste
+CUST001846,398,3,427.07,4,4,5,13,champions,SP,Sampaio
+CUST001180,486,5,428.99999999999994,3,5,5,13,needs_attention,PR,Pimenta Verde
+CUST001949,312,3,429.92999999999995,5,5,5,15,champions,RJ,Cavalcante de Câmara
+CUST001726,273,6,430.1700000000001,5,5,5,15,champions,SP,Dias de Campos
+CUST000059,679,3,432.76,2,4,5,11,at_risk_loyal,SP,Pires
+CUST000426,627,4,434.32000000000005,2,5,5,12,at_risk_loyal,SC,Cavalcante de Sales
+CUST000917,293,4,434.46999999999997,5,5,5,15,champions,RJ,Sá de da Mata
+CUST001284,335,3,434.58,4,4,5,13,champions,SP,Vasconcelos do Sul
+CUST001358,543,3,438.14,2,4,5,11,at_risk_loyal,MG,Abreu das Flores
+CUST001543,317,4,438.66999999999996,5,5,5,15,champions,SC,das Neves Paulista
+CUST000683,355,3,440.73,4,4,5,13,champions,SP,Machado de Pimenta
+CUST001837,266,4,440.91999999999996,5,5,5,15,champions,SP,Vieira
+CUST001983,273,4,442.81999999999994,5,5,5,15,champions,RS,Rodrigues das Flores
+CUST001478,434,3,442.91999999999996,3,5,5,13,needs_attention,PA,Almeida Alegre
+CUST001572,518,3,444.59,3,4,5,12,needs_attention,SP,Rocha
+CUST001090,270,3,450.12,5,4,5,14,champions,SP,Caldeira Grande
+CUST002063,529,3,451.23,3,4,5,12,needs_attention,ES,Dias de Sales
+CUST000924,606,2,455.66,2,3,5,10,needs_attention,ES,Sales do Campo
+CUST001287,570,1,458.79,2,2,5,9,lost,SP,da Rocha do Norte
+CUST000079,275,6,460.85,5,5,5,15,champions,MG,Almeida Verde
+CUST002193,458,2,462.63,3,3,5,11,needs_attention,GO,Aparecida
+CUST000139,360,3,462.74,4,4,5,13,champions,MG,Ribeiro do Campo
+CUST001113,312,5,465.05,5,5,5,15,champions,SP,Macedo Alegre
+CUST000843,371,3,465.53000000000003,4,5,5,14,champions,SP,Santos de Nunes
+CUST000136,291,7,466.1,5,5,5,15,champions,RJ,Nogueira de Santos
+CUST001534,330,5,468.9,4,5,5,14,champions,RJ,da Luz das Flores
+CUST002022,270,4,469.22,5,5,5,15,champions,SC,Oliveira do Sul
+CUST001251,800,3,470.12,1,5,5,11,at_risk_loyal,ES,Sales
+CUST000254,380,5,475.54999999999995,4,5,5,14,champions,RJ,Barros do Amparo
+CUST002161,476,4,480.0,3,5,5,13,needs_attention,DF,da Paz
+CUST001268,377,4,481.24,4,5,5,14,champions,RS,Borges do Campo
+CUST001182,403,5,485.51,4,5,5,14,champions,RJ,Dias
+CUST001978,521,3,487.51,3,4,5,12,needs_attention,MG,Jesus da Praia
+CUST001779,515,4,487.85,3,5,5,13,needs_attention,RJ,Sá da Serra
+CUST000626,498,4,492.90000000000003,3,5,5,13,needs_attention,MG,Macedo de Moura
+CUST000278,322,6,493.15999999999997,5,5,5,15,champions,DF,Montenegro
+CUST001066,737,3,493.28999999999996,1,4,5,10,at_risk_loyal,CE,Almeida do Oeste
+CUST002164,339,3,495.34000000000003,4,4,5,13,champions,MS,Cassiano
+CUST000403,404,4,495.39,4,5,5,14,champions,PR,Cassiano de Machado
+CUST001569,930,3,497.94,1,4,5,10,at_risk_loyal,BA,Alves das Flores
+CUST002475,579,4,499.78999999999996,2,5,5,12,at_risk_loyal,PR,Farias
+CUST001551,532,3,500.68,3,4,5,12,needs_attention,TO,Teixeira de Moreira
+CUST002058,699,3,500.78,2,4,5,11,at_risk_loyal,MG,Aragão
+CUST001885,385,3,505.24,4,4,5,13,champions,SP,Rocha
+CUST001715,472,4,506.97,3,5,5,13,needs_attention,SP,Albuquerque
+CUST002339,491,2,511.42,3,3,5,11,needs_attention,SP,Moura
+CUST001761,433,2,512.37,3,3,5,11,needs_attention,RS,Leão de Goiás
+CUST000223,380,5,521.24,4,5,5,14,champions,SP,Vargas do Galho
+CUST001810,395,3,522.73,4,4,5,13,champions,SP,Viana
+CUST000290,369,3,522.81,4,4,5,13,champions,BA,Fernandes do Sul
+CUST002046,332,7,533.0500000000001,4,5,5,14,champions,PE,Sousa
+CUST001185,311,8,535.12,5,5,5,15,champions,SP,Sales Grande
+CUST000361,282,4,538.2399999999999,5,5,5,15,champions,MG,Borges
+CUST000754,281,6,544.56,5,5,5,15,champions,RJ,Sales do Amparo
+CUST000441,275,4,548.75,5,5,5,15,champions,SP,Ferreira de Pastor
+CUST001958,252,3,550.85,5,4,5,14,champions,MG,Cassiano do Campo
+CUST000663,270,6,552.63,5,5,5,15,champions,BA,Vasconcelos das Flores
+CUST001477,727,1,553.14,1,1,5,7,lost,ES,Barbosa de Andrade
+CUST001796,477,3,554.51,3,5,5,13,needs_attention,SP,Cavalcanti de Rodrigues
+CUST001597,342,4,557.9799999999999,4,5,5,14,champions,RJ,Guerra das Flores
+CUST001736,410,2,561.2,4,4,5,13,champions,RN,Silva de Ribeiro
+CUST000304,642,4,569.34,2,5,5,12,at_risk_loyal,DF,Melo da Prata
+CUST000098,313,4,574.27,5,5,5,15,champions,MG,Carvalho de Lima
+CUST001964,430,7,582.5500000000001,3,5,5,13,needs_attention,MG,Moreira das Pedras
+CUST000658,410,2,589.28,4,4,5,13,champions,MG,Pimenta de da Paz
+CUST002249,249,5,597.46,5,5,5,15,champions,BA,Rocha dos Dourados
+CUST001243,546,3,600.55,2,4,5,11,at_risk_loyal,PA,Novaes Verde
+CUST000066,574,2,612.14,2,3,5,10,needs_attention,PR,da Costa do Norte
+CUST000283,325,4,616.8900000000001,4,5,5,14,champions,MG,Siqueira
+CUST001935,270,5,619.3600000000001,5,5,5,15,champions,GO,Rocha de Mendes
+CUST001058,316,5,628.24,5,5,5,15,champions,MG,Lopes de Ramos
+CUST000382,298,4,632.61,5,5,5,15,champions,PE,da Mata
+CUST000988,357,5,633.9300000000001,4,5,5,14,champions,MG,Cassiano da Mata
+CUST002349,260,7,642.88,5,5,5,15,champions,BA,Siqueira
+CUST000434,436,3,649.9100000000001,3,5,5,13,needs_attention,SP,Pinto de Goiás
+CUST000758,628,5,707.8399999999999,2,5,5,12,at_risk_loyal,PR,Borges de Rodrigues
+CUST001170,455,4,719.3699999999999,3,5,5,13,needs_attention,RJ,Sá de Minas
+CUST002341,645,5,723.3199999999999,2,5,5,12,at_risk_loyal,CE,Souza da Serra
+CUST000051,520,4,753.32,3,5,5,13,needs_attention,AM,Garcia dos Dourados
+CUST002252,370,4,756.46,4,5,5,14,champions,PI,Montenegro Alegre
+CUST000665,571,3,776.4399999999999,2,4,5,11,at_risk_loyal,SP,da Cunha
+CUST000306,396,4,793.89,4,5,5,14,champions,AM,Fogaça dos Dourados
+CUST001039,254,3,814.47,5,4,5,14,champions,SP,Abreu
+CUST000839,497,3,924.05,3,5,5,13,needs_attention,SC,Cassiano de Pereira
+CUST000416,426,4,933.0,3,5,5,13,needs_attention,RS,Jesus

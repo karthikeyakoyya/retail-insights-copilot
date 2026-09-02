@@ -1,0 +1,27 @@
+version: 2
+
+sources:
+  - name: raw_olist
+    description: Raw e-commerce tables (customers, orders, order_items, products, sellers), structurally modeled on the public Olist dataset. Loaded locally into DuckDB by warehouse_load_raw.py; swap the profile to BigQuery and this same source block works unchanged against a real warehouse export.
+    schema: raw_olist
+    tables:
+      - name: orders
+        columns:
+          - name: order_id
+            tests: [unique, not_null]
+      - name: order_items
+        columns:
+          - name: order_item_id
+            tests: [unique, not_null]
+      - name: customers
+        columns:
+          - name: customer_id
+            tests: [unique, not_null]
+      - name: sellers
+        columns:
+          - name: seller_id
+            tests: [unique, not_null]
+      - name: products
+        columns:
+          - name: product_id
+            tests: [unique, not_null]
