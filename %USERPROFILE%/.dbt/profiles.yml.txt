@@ -1,7 +1,0 @@
-retail_insights_copilot:
-  target: dev
-  outputs:
-    dev:
-      type: duckdb
-      path: 'C:\Users\karthik\OneDrive\Desktop\retail-insights-copilot\warehouse\retail_insights.duckdb'
-      threads: 4
