@@ -125,3 +125,17 @@ performance — since that's explicitly what the JD asks about.
 - **DuckDB by default, BigQuery-ready.** `docs/BIGQUERY_MIGRATION.md` lists
   the handful of dialect-specific lines (date functions mostly) that change
   to point the same dbt project at BigQuery.
+## Checkout A/B Test Analysis
+
+Extended the warehouse with an experimentation module to close a gap most
+BI-focused projects skip: statistical testing. Simulates a checkout
+redesign test (control vs. a free-shipping threshold banner) across
+roughly 19,500 synthetic visitors, then runs a two-proportion z-test on
+conversion rate and a Welch's t-test on order value, with 95% confidence
+intervals, effect sizes (Cohen's h and d), and a pre-test sample size
+calculator. Renders results as a self-contained animated HTML report.
+
+Result from the reference run: conversion lifted from 11.48% to 13.40%
+(p = 0.00005), order value from R$221.19 to R$244.24 (p = 0.0006). All
+numbers are computed live from the data, not hand-typed.
+
